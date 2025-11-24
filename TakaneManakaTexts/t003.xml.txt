@@ -1,0 +1,330 @@
+00000
+Manaka
+00001
+Yes？ Hello？
+00002
+○○○○○○○○
+00003
+It's me.
+00004
+Is there anything you ◙need？ I don't mind if you ◙just felt like calling.
+00005
+Well...
+00006
+Manaka
+00007
+Hello？
+00008
+○○○○○○○○
+00009
+It's me.
+00010
+I'm here. What's up？
+00011
+Well...
+00012
+Manaka
+00013
+...Hello？
+00014
+○○○○○○○○
+00015
+It's me.
+00016
+Is there anything you need？
+00017
+Well...
+00018
+○○○○○○○○
+00019
+▲MONTH▲▲DAY▲ is a holiday. ◙Shall we go to the ◙▲LOCATION▲？
+00020
+○○○○○○○○
+00021
+This weekend, how about we ◙go to the ▲LOCATION▲？
+00022
+○○○○○○○○
+00023
+Afterwards, how about we ◙go to the ▲LOCATION▲？
+00024
+Manaka
+00025
+I also wanted to go there. ◙Yeah, it's fine. I'll be ◙happy to go. Yeah...
+00026
+Manaka
+00027
+Hmm... Yes, okay.
+00028
+Manaka
+00029
+That sounds wonderful. ◙Yes, okay.
+00030
+Manaka
+00031
+Yes. I'm okay with that.
+00032
+Manaka
+00033
+Um, okay. Thank you for ◙inviting me.
+00034
+Manaka
+00035
+Today？ Hmm... Yes, okay.
+00036
+Manaka
+00037
+Hmm... I'm sorry. I already ◙have other plans.
+00038
+Manaka
+00039
+Ah... I can't go on that ◙day.
+00040
+Manaka
+00041
+I already have plans for ◙this weekend. I'm sorry.
+00042
+Manaka
+00043
+This weekend... I already ◙made plans so I can't.
+00044
+Manaka
+00045
+Today...？ It's just too ◙sudden.
+00046
+Manaka
+00047
+Today？ ...Hmm, I can't.
+00048
+Manaka
+00049
+Hmm... That place is fine, ◙but I wanted to go ◙somewhere else...
+00050
+Manaka
+00051
+Would it be okay if it's ◙on a different day...？
+00052
+Manaka
+00053
+Hmm, I don't think it's ◙good. Let's forget about ◙it this time.
+00054
+○○○○○○○○
+00055
+Okay, then...
+00056
+Manaka
+00057
+Then what time should we ◙meet up？
+00058
+○○○○○○○○
+00059
+Let me think...
+00060
+Manaka
+00061
+Okay, that's fine.
+00062
+○○○○○○○○
+00063
+Then at ▲TIME▲, I'll ◙meet you at the ◙▲LOCATION▲.
+00064
+Manaka
+00065
+Um... Can we meet a bit ◙earlier？ If it's too late, ◙we won't be able to spend ◙much time together.
+00066
+○○○○○○○○
+00067
+I see. Then how about...
+00068
+Manaka
+00069
+Isn't that too early？ ◙I need some time to get ◙ready...
+00070
+○○○○○○○○
+00071
+Oh？ Then...
+00072
+Manaka
+00073
+Hehe... I am really ◙looking forward to our ◙date. I feel so excited.
+00074
+○○○○○○○○
+00075
+Really？ I'm glad I asked ◙you out this time.
+00076
+Manaka
+00077
+Hehe. I'm glad we can ◙spend time together.
+00078
+○○○○○○○○
+00079
+I feel the same way.
+00080
+Manaka
+00081
+This weekend... I feel so ◙excited. I might not be ◙able to sleep the night ◙before. Oh well.
+00082
+○○○○○○○○
+00083
+Haha. You're going to need ◙your sleep.
+00084
+Manaka
+00085
+I already marked it on my ◙calendar. You can't forget ◙about it, okay？
+00086
+○○○○○○○○
+00087
+Don't worry, I won't.
+00088
+Manaka
+00089
+I'm so overjoyed that I'll ◙probably rush to meet you. ◙If my hair looks messy, ◙don't laugh, okay？
+00090
+○○○○○○○○
+00091
+Haha, you don't need to be ◙in such a hurry.
+00092
+Manaka
+00093
+I can't help it. I really ◙can't wait for our date.
+00094
+○○○○○○○○
+00095
+It's fine. Just come when ◙you've taken care of ◙everything.
+00096
+Manaka
+00097
+That's too bad... Ask me ◙out later then.
+00098
+○○○○○○○○
+00099
+Okay, I will.
+00100
+Manaka
+00101
+...Then, maybe next time.
+00102
+○○○○○○○○
+00103
+Yeah. Maybe next time.
+00104
+Manaka
+00105
+I just asked you all of a ◙sudden, so it can't be ◙helped. I'll just give up ◙this time.
+00106
+○○○○○○○○
+00107
+Yes, I'm sorry.
+00108
+○○○○○○○○
+00109
+Um, I'm sorry. Actually, ◙it's totally nothing.
+00110
+Manaka
+00111
+Geez, what's this？ But ◙it's okay. I'm just glad ◙to hear your voice.
+00112
+○○○○○○○○
+00113
+Um, I'm sorry. Actually, ◙it's totally nothing.
+00114
+Manaka
+00115
+Really？ Then I'll call you ◙later.
+00116
+○○○○○○○○
+00117
+Um, I'm sorry. Actually, ◙it's totally nothing.
+00118
+Manaka
+00119
+Okay. Then I'm hanging up.
+00120
+Manaka
+00121
+Well, see you later then.
+00122
+○○○○○○○○
+00123
+Yeah, see you later.
+00124
+Manaka
+00125
+See you later. Good night.
+00126
+○○○○○○○○
+00127
+Yeah, good night.
+00128
+Manaka
+00129
+See you later...
+00130
+○○○○○○○○
+00131
+Yeah, bye...
+00132
+Manaka
+00133
+Bye, and good night.
+00134
+○○○○○○○○
+00135
+Yeah, good night.
+00136
+Manaka
+00137
+Hey, aren't you going to ◙hang up...？
+00138
+○○○○○○○○
+00139
+Why don't you hang up ◙first？
+00140
+...Hehe, we're both so ◙weird... I love you.
+00141
+Eh！？
+00142
+(T-That was a surprise...)
+00143
+Manaka
+00144
+Aren't you going to hang ◙up...？
+00145
+○○○○○○○○
+00146
+You hang up first.
+00147
+...Well, maybe a little ◙longer... No... ...Um, I ◙love you.
+00148
+Eh！？
+00149
+(T-That was a surprise...)
+00150
+Manaka
+00151
+Hey, hang up, will you？
+00152
+○○○○○○○○
+00153
+You hang up first.
+00154
+I really don't want to... ◙Bye... I love you！
+00155
+Eh！？
+00156
+(T-That was a surprise...)
+00157
+○○○○○○○○
+00158
+(Um. I guess it was bad ◙timing...)
+00159
+○○○○○○○○
+00160
+(I think she was probably ◙in a bad mood. ◙▲MANAKA▲...)
+00161
+○○○○○○○○
+00162
+(When it's bad timing, I ◙guess it really can't be ◙helped...)
+00163
+○○○○○○○○
+00164
+(She wants to go somewhere ◙else then. I wonder where ◙you want to go ◙▲MANAKA▲...)

@@ -1,0 +1,1164 @@
+00000
+Manaka
+00001
+▲PLAYER▲.
+00002
+○○○○○○○○
+00003
+▲MANAKA▲.
+00004
+You were talking to ◙someone right now, ◙weren't you？
+00005
+Well, ah. It was just a ◙friend.
+00006
+I see... Shall we go now？
+00007
+Manaka
+00008
+▲PLAYER▲
+00009
+○○○○○○○○
+00010
+▲MANAKA▲.
+00011
+It's been a while since ◙we talked like this.
+00012
+Hmm, really？
+00013
+You are the only one who ◙speaks to me.
+00014
+Ah, haha, is that so？
+00015
+Yes, it's fun to speak ◙like this. I'll go back ◙now.
+00016
+Yes, see you soon.
+00017
+Manaka
+00018
+Ah... Emm, wouldn't be ◙misunderstood if your ◙girlfriend saw you？
+00019
+Manaka
+00020
+Ah... I'll go out with ◙you again.
+00021
+Manaka
+00022
+You're always doing your ◙best. Is life fulfilling ◙after all？
+00023
+Manaka
+00024
+Excuse me. If I have any ◙trouble, can I ask for ◙your help？... ◙I think I better not.
+00025
+Manaka
+00026
+I think being with your ◙girlfriend is ◙important, but club ◙activities are as well.
+00027
+Manaka
+00028
+To go out with someone of ◙the opposite sex... ◙I wonder how it feels.
+00029
+Manaka
+00030
+Sometimes you can hear ◙your girlfriend's ◙stories. It's wonderful.
+00031
+Manaka
+00032
+Are things going well ◙with your girlfriend？ ◙I'm kidding, sorry.
+00033
+Manaka
+00034
+I want to have fun... ◙It's okay to think so ◙once in a while.
+00035
+Manaka
+00036
+Do you want to go out ◙with your girlfriend on ◙your days off？
+00037
+Manaka
+00038
+▲PLAYER▲. How are you？
+00039
+Manaka
+00040
+Lately, making sweets has ◙been a lot of fun.
+00041
+Manaka
+00042
+Is it difficult to live ◙alone？ Awesome...
+00043
+Manaka
+00044
+It's amazing how the ◙library committee works. ◙Have you forced yourself ◙into club activities？
+00045
+Manaka
+00046
+Part-time job seems to be ◙difficult. School, club ◙activities... it's great.
+00047
+Manaka
+00048
+▲PLAYER▲. Whassup.
+00049
+○○○○○○○○
+00050
+Good work today, ◙▲MANAKA▲.
+00051
+Let's do our best today.
+00052
+Yes, let's do it.
+00053
+Manaka
+00054
+Oh, you're doing your ◙best.
+00055
+○○○○○○○○
+00056
+Something like that.
+00057
+If you don't do it ◙seriously, you could get ◙injured. Take care.
+00058
+Yes, thank you.
+00059
+Manaka
+00060
+▲PLAYER▲. Practicing ◙hard？
+00061
+○○○○○○○○
+00062
+Hmm. Well, I'm doing okay.
+00063
+I see. Don't overdo it, ◙do your best okay？
+00064
+Yes, that's right.
+00065
+Manaka
+00066
+Nice play.
+00067
+○○○○○○○○
+00068
+Oh, ▲MANAKA▲. ◙I'm still a long way off.
+00069
+No, that's not true. ◙It's amazing.
+00070
+I see, thank you.
+00071
+Manaka
+00072
+Don't try to hard, ◙▲PLAYER▲.
+00073
+○○○○○○○○
+00074
+Yeah, thank you, ◙▲MANAKA▲.
+00075
+We must practice together ◙sometime.
+00076
+Oh, that's nice.
+00077
+Manaka
+00078
+▲PLAYER▲. How's it going ◙lately？
+00079
+○○○○○○○○
+00080
+I'm doing... fine, ◙I guess. Just a little ◙sloppy.
+00081
+Hehe, just sloppy. ◙Do your best.
+00082
+Yes, I will.
+00083
+Manaka
+00084
+▲PLAYER▲. Do you want me ◙to help you？
+00085
+○○○○○○○○
+00086
+Hmm？ I'm fine right now.
+00087
+I see. If something ◙happens, please talk to ◙me.
+00088
+Yes, thank you.
+00089
+Manaka
+00090
+Excuse me. Recently, how ◙is it going between us？ ◙Is it going well？
+00091
+Perfectly！
+00092
+Hmm, actually...
+00093
+It's obvious... ◙It's amazing.
+00094
+○○○○○○○○
+00095
+Amazing... is that it？
+00096
+Yes. I'm looking at you, ◙and I wonder...
+00097
+I knew it...
+00098
+...Hey, then...
+00099
+Hmm？
+00100
+...No, it's nothing. ◙Hehe, I think it's better ◙to get along.
+00101
+Huh？ Well, it's okay.
+00102
+Manaka
+00103
+I know. Excuse me, I got ◙something like this...
+00104
+○○○○○○○○
+00105
+Hmm？ Oh, it's ◙▲DATEITEM▲.
+00106
+I have no use for it... ◙If you'd like, you can ◙have it.
+00107
+Eh, it's okay？ Then, I'm ◙happy to...
+00108
+Yes, it is. I would like ◙you to use it with your ◙girlfriend.
+00109
+Yay！ Thank you, ◙▲MANAKA▲.
+00110
+Manaka
+00111
+▲PLAYER▲.
+00112
+○○○○○○○○
+00113
+What's wrong？
+00114
+Um, maybe I'm caring to ◙much, but...
+00115
+？
+00116
+I wonder if it's better ◙not to talk to someone ◙who has a girlfriend.
+00117
+I would feel bad for ◙her...
+00118
+It doesn't matter
+00119
+I knew it... I'm sorry, ◙I'll be careful.
+00120
+Yes, I'm sorry.
+00121
+Is that so？ If so, I'm ◙glad.
+00122
+You're a friend. It's all ◙good.
+00123
+Manaka
+00124
+▲PLAYER▲.
+00125
+○○○○○○○○
+00126
+▲MANAKA▲...
+00127
+It's been a while since ◙we talked like this.
+00128
+...That's right.
+00129
+You know, if you talk to ◙me like before, it would ◙be useless.
+00130
+I would feel bad...
+00131
+It's okay
+00132
+Yes... I understand. ◙That's right...
+00133
+I'm sorry.
+00134
+Really？ Thank you.
+00135
+But, we're more than ◙friends.
+00136
+Manaka
+00137
+You know, you may have ◙changed a little.
+00138
+○○○○○○○○
+00139
+Changed？ I wonder about ◙that.
+00140
+I think it's your ◙atmosphere... ◙I really think that.
+00141
+Manaka
+00142
+Yeah, it feels warms.
+00143
+○○○○○○○○
+00144
+(Is it a warm feeling...)
+00145
+Manaka
+00146
+I wonder how a cool ◙impression sounds like, ◙I guess.
+00147
+○○○○○○○○
+00148
+(Hmm, cool...)
+00149
+Manaka
+00150
+I think it feels calm.
+00151
+○○○○○○○○
+00152
+(Calm...)
+00153
+Manaka
+00154
+A positive feeling... ◙Yeah, I think so.
+00155
+○○○○○○○○
+00156
+(You're so proactive...)
+00157
+Manaka
+00158
+Oh, come to think of it, ◙your girlfriend has ◙changed her hairstyle.
+00159
+○○○○○○○○
+00160
+I noticed it too.
+00161
+I'm a little worried. I ◙wonder if I do that for ◙you.
+00162
+For me....
+00163
+That's nice.
+00164
+Manaka
+00165
+Hey, your girlfriend...
+00166
+○○○○○○○○
+00167
+Hmm？
+00168
+Recently, I heard you're ◙getting along better.
+00169
+Who says it？ Is that ◙right？
+00170
+That's what many people ◙say so. So, I'm sure ◙that's the case.
+00171
+Manaka
+00172
+Excuse me... I think it's ◙a way of helping to say ◙this...
+00173
+○○○○○○○○
+00174
+Hmm？
+00175
+Recently, I heard that ◙your girlfriend is ◙feeling sick. ◙What happened？
+00176
+....
+00177
+I won't ask anymore... ◙Just think about it.
+00178
+(Hmm...)
+00179
+Manaka
+00180
+The other day, when you ◙were together with your ◙girlfriend, I saw you ◙again.
+00181
+○○○○○○○○
+00182
+Haha, you saw me.
+00183
+You seem like... good ◙friends.
+00184
+Hmm？
+00185
+I'm envious.
+00186
+(I'm a little shy...)
+00187
+Manaka
+00188
+Hmm...
+00189
+○○○○○○○○
+00190
+...▲MANAKA▲？　◙What's wrong？
+00191
+Lovers do that kind of ◙thing, after all...
+00192
+Eh？
+00193
+...
+00194
+(Maybe, she's talking ◙about skinship？)
+00195
+Manaka
+00196
+I'm sorry. I saw you guys ◙on a date last week.
+00197
+○○○○○○○○
+00198
+Haha, did you now. You ◙don't have to apologize.
+00199
+But it seems like I'm ◙peeping on you, so I ◙wonder if I'm wrong.
+00200
+Hmm, we're just dating, ◙we're not doing anything ◙bad.
+00201
+...Yet.
+00202
+(Come to think of it, ◙I've been on dates a lot ◙lately.)
+00203
+Manaka
+00204
+Hey, aren't you going out ◙with your girlfriend？
+00205
+○○○○○○○○
+00206
+That is... well...
+00207
+I'm not sure, but... ◙I guess you want to do ◙it.
+00208
+....
+00209
+I'm sorry, I said ◙something unnecessary.
+00210
+(A date...)
+00211
+Manaka
+00212
+....
+00213
+○○○○○○○○
+00214
+▲MANAKA▲？ ◙What's wrong？
+00215
+At school... doing that ◙kind of thing...
+00216
+Huh！？
+00217
+I don't think it's a ◙violation of school rules ◙or something like that...
+00218
+(What did she see...)
+00219
+Manaka
+00220
+▲PLAYER▲. You've been ◙working really hard ◙lately.
+00221
+○○○○○○○○
+00222
+Me？ You think so？
+00223
+Because you have a good ◙reputation at school. ◙You're doing great！ ◙That's it.
+00224
+Huh, I didn't notice...
+00225
+That's great, but don't ◙overdo it.
+00226
+(Come to think of it, ◙I wonder about that...)
+00227
+Manaka
+00228
+You know...
+00229
+○○○○○○○○
+00230
+W-what？
+00231
+You are still on a ◙relationship with your ◙girlfriend.
+00232
+Emm, well. Why is that...
+00233
+I've been thinking about ◙that lately... I wonder ◙if it's not going well.
+00234
+(Maybe...)
+00235
+Manaka
+00236
+How is your relationship？
+00237
+○○○○○○○○
+00238
+Relationship？... Ah, my ◙girlfriend. I think it's ◙going well.
+00239
+Amazing. A good remark.
+00240
+That's not the case... ◙Well, that's how it is.
+00241
+That's right... ◙Well, there are times ◙when we get along better.
+00242
+Well, that's right...
+00243
+Manaka
+00244
+It seems you're doing ◙well with your girlfriend ◙recently.
+00245
+○○○○○○○○
+00246
+Huh, how do you know？
+00247
+Somehow... when I look at ◙you...
+00248
+I see... I'm getting a ◙little embarrassed.
+00249
+Hehe, it's not that nice.
+00250
+Manaka
+00251
+Recently, you guys...
+00252
+○○○○○○○○
+00253
+Hmm？
+00254
+Lovey dovey, right？
+00255
+Lovey dovey you say, ◙▲MANAKA▲...
+00256
+Because everyone says ◙that. I wonder if that ◙is the case.
+00257
+Hmm, I wonder if we were ◙looked at like that... ◙Well, it's good.
+00258
+Manaka
+00259
+...Sorry you seem a bit ◙different. Something ◙happened？
+00260
+○○○○○○○○
+00261
+...Why...？
+00262
+Somehow... when I look at ◙your face...
+00263
+Well... I got on a fight ◙with my girlfriend...
+00264
+I knew it... ◙What happened？
+00265
+○○○○○○○○
+00266
+Speaking of which, I ◙wonder if I've emailed ◙her recently...
+00267
+Manaka
+00268
+...I guess not. I'm not ◙very good at it, but ◙sending e-mails is ◙important.
+00269
+That's right... I guess ◙that's true.
+00270
+Maybe... maybe you'd be ◙happy if I emailed you.
+00271
+○○○○○○○○
+00272
+Mmmm... I wonder if I've ◙been giving her enough ◙love these days.
+00273
+Manaka
+00274
+As a lover？
+00275
+You know, kisses.
+00276
+Ah！ ...Geez.
+00277
+(I wonder if I should ◙kiss her more.)
+00278
+○○○○○○○○
+00279
+Ah... The other day, I ◙left my date alone...
+00280
+Manaka
+00281
+That's terrible...
+00282
+I'm sorry.
+00283
+I'm not the one you ◙should apologize to. ◙I think it's better you ◙make up for it.
+00284
+You're right, I must try.
+00285
+○○○○○○○○
+00286
+The other day, I left my ◙girlfriend alone during ◙the date, she got angry ◙and went home.
+00287
+Manaka
+00288
+For a thing like that... ◙I would be angry too.
+00289
+That's true.
+00290
+You have to apologize so ◙that she can forgive you.
+00291
+I'll do it.
+00292
+○○○○○○○○
+00293
+Lately, maybe I haven't ◙been seeing my girlfriend ◙that much.
+00294
+Manaka
+00295
+I see... then, she might ◙feel lonely.
+00296
+I knew it...
+00297
+I think it's better to ◙contact your girlfriend...
+00298
+Yes, I will.
+00299
+Manaka
+00300
+It's about girlfriend...
+00301
+○○○○○○○○
+00302
+Huh, what's wrong？
+00303
+Somehow, I was feeling ◙bad and I was curious... ◙I hope you didn't overdo ◙it.
+00304
+(Is it my fault？ I was ◙being careful...)
+00305
+Manaka
+00306
+Is your girlfriend ◙resting from a cold？
+00307
+○○○○○○○○
+00308
+Yes, that's right...
+00309
+I'm worried. I would be ◙happy if you could visit ◙her.
+00310
+A visit... That's true, ◙thank you.
+00311
+Manaka
+00312
+▲PLAYER▲.
+00313
+○○○○○○○○
+00314
+Hmm？
+00315
+You know... It was a ◙while ago, but... ◙we went out together.
+00316
+Yes, I remember.
+00317
+You didn't had a ◙girlfriend at that time.
+00318
+That's right... ◙What about it？
+00319
+That's... nothing.
+00320
+Haha, you remembered ◙something？
+00321
+Yes, I remember it once ◙in a while. And even now, ◙we're getting along like ◙this. Thank you.
+00322
+You're welcome.
+00323
+Manaka
+00324
+▲PLAYER▲.
+00325
+○○○○○○○○
+00326
+What's wrong？
+00327
+You know, I remember... ◙this is the same as ◙before...
+00328
+Hmm？
+00329
+I told you that... ◙I loved you.
+00330
+...Yes, of course I ◙remember.
+00331
+Now that you have a ◙girlfriend, we're still ◙friends...
+00332
+...
+00333
+Thank you.
+00334
+Yes, thank you too.
+00335
+Manaka
+00336
+▲PLAYER▲.
+00337
+○○○○○○○○
+00338
+▲MANAKA▲.
+00339
+Are you going home now？ ◙If you don't mind, can I ◙tag along？
+00340
+Let's go together
+00341
+I'm going with my ◙girlfriend
+00342
+I'm going alone
+00343
+It's okay, I don't have ◙any plans. Let's go back ◙home.
+00344
+I'm glad, thank you.
+00345
+I'm going home with my ◙girlfriend...
+00346
+Oh, right. Don't worry. ◙See you.
+00347
+I'm sorry, I'm going home ◙alone today.
+00348
+Is that so？ See you.
+00349
+Manaka
+00350
+▲PLAYER▲.
+00351
+○○○○○○○○
+00352
+▲MANAKA▲.
+00353
+I guess I kept you ◙waiting for me. Are you ◙alright？
+00354
+Yes, I'm okay. I was ◙talking to my friend a ◙while ago.
+00355
+I see. Then, shall we go？
+00356
+Manaka
+00357
+Well then, we arrived. ◙Bye-bye.
+00358
+○○○○○○○○
+00359
+Bye-bye.
+00360
+Manaka
+00361
+Se you later.
+00362
+○○○○○○○○
+00363
+Yes, see you.
+00364
+Manaka
+00365
+Well then...
+00366
+○○○○○○○○
+00367
+Yes, see you.
+00368
+....
+00369
+...Hmm？
+00370
+... No, I'm sorry. It's ◙nothing, bye-bye.
+00371
+Yes, bye-bye.
+00372
+Manaka
+00373
+... See you.
+00374
+○○○○○○○○
+00375
+Yes, see you again.
+00376
+Again？
+00377
+Huh？ Yes.
+00378
+I wonder if what we're ◙doing it's not bad.
+00379
+...Is that bad？
+00380
+No, it's okay. See you.
+00381
+Manaka
+00382
+Valentine's...
+00383
+○○○○○○○○
+00384
+You are good at making ◙sweets, it's time to show ◙your skills, ◙▲MANAKA▲.
+00385
+Hmm... these will be for ◙Papa, the neighbors, and ◙some patients...
+00386
+Yes, yes.
+00387
+But, that's it. Isn't ◙that something lonely？
+00388
+Manaka
+00389
+Is White Day really ◙tough？
+00390
+○○○○○○○○
+00391
+It's not hard, but... ◙Well, I think it's better ◙to have fun.
+00392
+I see... I knew it.
+00393
+Isn't it fun for you？ You ◙can have something back, ◙right ▲MANAKA▲？
+00394
+That's right... ◙Yes, I guess it's fun.
+00395
+Manaka
+00396
+▲PLAYER▲.
+00397
+○○○○○○○○
+00398
+▲MANAKA▲.
+00399
+You know, today is my ◙birthday.
+00400
+Oh, congratulations！
+00401
+Thank you. Hehe, I made ◙you say it.
+00402
+It's okay, let me say it！
+00403
+Geez. What are you trying ◙to do？
+00404
+Manaka
+00405
+▲PLAYER▲. ◙Happy birthday, ◙congratulations.
+00406
+○○○○○○○○
+00407
+Thank you for remembering. ◙Don't tell me, are you ◙planning something？
+00408
+That... would be bad for ◙your girlfriend.
+00409
+I see, good thing you ◙noticed. Thank you.
+00410
+Hmm. That's why I'm ◙afraid of just saying ◙this much.
+00411
+Manaka
+00412
+Merry Christmas.
+00413
+○○○○○○○○
+00414
+Merry Christmas！
+00415
+It's Christmas... Are you ◙going to spend it with ◙your girlfriend？
+00416
+Mmmm, well... Haha！
+00417
+... Hehe, nice.
+00418
+○○○○○○○○
+00419
+▲MANAKA▲.
+00420
+Manaka
+00421
+What's wrong, ▲PLAYER▲？
+00422
+Actually, I had something ◙to ask you...
+00423
+Yes... a gift for my ◙girlfriend.
+00424
+I want to hear the ◙opinion of a girl. I'm ◙sorry, in advance.
+00425
+I don't know if it will ◙be useful... ◙Yes, I'll do my best.
+00426
+I'm counting on you.
+00427
+It looks fun to look into ◙various things. A study ◙of a woman's mind！... ◙I'm kidding.
+00428
+Haha, you're also a woman, ◙▲MANAKA▲.
+00429
+Oh... don't laugh at me.
+00430
+I'm sorry. Then, please.
+00431
+Manaka
+00432
+Hello, it's Takane.
+00433
+○○○○○○○○
+00434
+Hello. It's ▲LAST▲, but ◙I have a request.
+00435
+Request？ I wonder what ◙it'll be.
+00436
+Emm...
+00437
+A gift for my ◙girlfriend... it would be ◙nice if you could help me.
+00438
+Of course, it's okay.
+00439
+Thank you, I want to hear ◙an opinion from a girl.
+00440
+That would be me？ I have ◙to give a serious reply.
+00441
+Haha, you don't have to ◙be so serious. Thank you.
+00442
+○○○○○○○○
+00443
+(I wonder if you are here, ◙▲MANAKA▲...)
+00444
+Manaka
+00445
+I'm sorry I've kept you ◙waiting, ▲PLAYER▲.
+00446
+I wasn't waiting at all. ◙Thank you, it was a ◙sudden request.
+00447
+No, it's okay. Besides, ◙it's a peculiar gift, and ◙you don't want your ◙girlfriend to be sad, ◙do you？
+00448
+Haha, you're so reliable. ◙Let's work together.
+00449
+Yes, it's up to you.
+00450
+Did you find something good ◙▲MANAKA▲？
+00451
+Yeah... I saw something ◙over there...
+00452
+Oh, what is it？
+00453
+Emm, I'll look for it.
+00454
+Hey, ▲MANAKA▲.
+00455
+... And she's gone.
+00456
+(You are pretty serious ◙even at times like this ◙▲MANAKA▲...)
+00457
+Oh, sorry. I went on my ◙own... What happened？
+00458
+Wait... ◙▲GIRLNAME▲ is here.
+00459
+I see... did you talk to ◙her？
+00460
+Well...
+00461
+Did she misunderstood ◙something？ What should I ◙do？
+00462
+It's okay.
+00463
+But...
+00464
+Don't worry about it. It's ◙okay. So, how was it, ◙▲MANAKA▲？
+00465
+Oh, uh...
+00466
+You saved me today. ◙Thank you, really.
+00467
+Don't mention it, I hope ◙it was helpful.
+00468
+Yes, it was perfect！
+00469
+Hehe. Then do your best.
+00470
+See you.
+00471
+Manaka
+00472
+▲PLAYER▲.
+00473
+○○○○○○○○
+00474
+▲MANAKA▲！？
+00475
+...Why are you so ◙surprised？
+00476
+Well, you know, it was ◙sudden.
+00477
+So, are you two going ◙out？
+00478
+Huh？
+00479
+...
+00480
+Emm...
+00481
+It's an activity of the ◙library committee？
+00482
+Is this a part-time job？
+00483
+Well, I guess that's the ◙way it is.
+00484
+...That so, do your best. ◙I'm going now.
+00485
+Yes, see you.
+00486
+(I wonder if you saw ◙▲MANAKA▲...)
+00487
+Manaka
+00488
+Um, be careful okay？
+00489
+○○○○○○○○
+00490
+Eh, what？
+00491
+Your relationship with ◙your girlfriend. It seems ◙like you have been doing ◙it for a long time...
+00492
+Is that right？
+00493
+Yes. Especially avoid ◙light-hearted behavior at ◙school.
+00494
+(She hit the nail.)
+00495
+Manaka
+00496
+Hey, please be careful.
+00497
+○○○○○○○○
+00498
+Eh, did I do something？
+00499
+Your relationship with ◙your girlfriend may have ◙gone too far.
+00500
+It's normal to do that.
+00501
+...Maybe that's right, ◙but from my point of view, ◙it has gone too far.
+00502
+(So that's not up to your ◙standards then, ◙▲MANAKA▲...)
+00503
+Manaka
+00504
+Why can you do that ◙now... without hesitating ◙so much？
+00505
+○○○○○○○○
+00506
+Eh, what are you... ◙Are you talking about my ◙girlfriend？
+00507
+That's right. It's good ◙to be on good terms, but ◙remember you are a high ◙school student, okay？
+00508
+I'm a high school student. ◙I'm going to do it, ◙should I make a report ◙about it？
+00509
+Report it... stupid！
+00510
+(She said it...)
+00511
+Manaka
+00512
+May we speak a little？
+00513
+○○○○○○○○
+00514
+What？ No way...
+00515
+Yes, it's about your ◙relationship.
+00516
+I'm not doing anything ◙bad.
+00517
+Geez！
+00518
+Manaka
+00519
+I knew it, I wonder if ◙your girlfriend is having ◙a hard time.
+00520
+○○○○○○○○
+00521
+Emm, I don't think so.
+00522
+You say that, but you're ◙a little lazy...
+00523
+Eh！？
+00524
+I'm sure you're having a ◙lot of troubles...
+00525
+(That's terrible...)
+00526
+Manaka
+00527
+I think it's going great ◙with your girlfriend.
+00528
+○○○○○○○○
+00529
+Huh？ Well, maybe.
+00530
+I'm listening to your ◙selfishness.
+00531
+I don't think I'm such a ◙selfish person...
+00532
+Yes, I'm on your ◙girlfriend's side.
+00533
+(▲GIRLNAME▲ and ◙▲MANAKA▲ ◙united... It's scary.)
+00534
+Manaka
+00535
+Maybe your girlfriend has ◙a little responsibilities.
+00536
+○○○○○○○○
+00537
+Hmm？　What happened to you ◙▲GIRLNAME▲？
+00538
+That's not the case. I ◙wonder if your girlfriend ◙is also responsible for ◙you being lazy.
+00539
+...Are you lazy？
+00540
+Well, maybe I am. ◙I don't know if it's just ◙because it's us. ◙Especially at school！
+00541
+(Should I reflect on it？)
+00542
+Manaka
+00543
+Your girlfriend is so ◙good...
+00544
+○○○○○○○○
+00545
+Why？ Well, ◙▲GIRLNAME▲ is ◙the best, but ◙▲MANAKA▲ ◙is second to none！
+00546
+I don't have a boyfriend ◙to say that to me.
+00547
+Huh...？ Do you want a ◙boyfriend？
+00548
+That's not the case！ ◙Stop it.
+00549
+(It doesn't look like ◙it's okay...)
+00550
+Manaka
+00551
+I knew it, your ◙girlfriend is wonderful.
+00552
+○○○○○○○○
+00553
+Haha, why so suddenly？ ◙Wait！
+00554
+But me too...
+00555
+Huh？
+00556
+... It's nothing.
+00557
+(...What about you？)
+00558
+Manaka
+00559
+I shouldn't do...
+00560
+○○○○○○○○
+00561
+What happened？ Your ◙studies, club activities, ◙life attitudes... ◙What troubles you？
+00562
+Not that...
+00563
+Hmm？
+00564
+Love or something like ◙that... it's not going ◙good at all.
+00565
+(Well, you will be okay, ◙▲MANAKA▲...)
+00566
+Manaka
+00567
+Hey, are you okay？
+00568
+○○○○○○○○
+00569
+Me？ Why？ ◙Is there anything wrong？
+00570
+Somehow... Is it not fun ◙just to have a ◙relationship？
+00571
+No it's nothing like ◙that... I think it's okay. ◙It's not hard for my ◙girlfriend！
+00572
+That so, amazing...
+00573
+(I impressed her.)
+00574
+Manaka
+00575
+I wonder if I can't fall ◙in love without ◙confidence.
+00576
+○○○○○○○○
+00577
+Hmm, I don't know. ◙I don't think that's true.
+00578
+When I look at both you ◙and your girlfriend, you ◙seem so proud of each ◙other.
+00579
+I see？ Hmm... well, maybe ◙that's true！
+00580
+I'm a little jealous.
+00581
+(I made her jealous.)

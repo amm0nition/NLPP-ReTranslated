@@ -1,0 +1,380 @@
+00000
+Manaka
+00001
+You turned off the power ◙without saving, right？ ◙That's against the rules.
+00002
+Manaka
+00003
+Did you turn off the power ◙without saving？ Why are ◙you doing something so ◙terrible？
+00004
+Manaka
+00005
+You turned off the power ◙without saving, right？ ◙That's not a good ◙prospect.
+00006
+Manaka
+00007
+You turned off the power ◙without saving again... ◙And I went through all this ◙trouble to forgive you.
+00008
+Manaka
+00009
+You turned off the power ◙without saving again... ◙I told you to be careful ◙the other day.
+00010
+Manaka
+00011
+Did you turn off the power ◙without saving again？ ◙Don't you hear what I ◙tell you？
+00012
+Manaka
+00013
+You know why I'm angry ◙right？ You turned off the ◙power without saving, ◙right？
+00014
+Manaka
+00015
+You turned off the power ◙without saving too many ◙times... It's not good if ◙it's on purpose.
+00016
+Manaka
+00017
+You turned off the power ◙without saving, again. How ◙many times have you done ◙this？ This is my limit.
+00018
+Manaka
+00019
+Say "I won't do it anymore, ◙please forgive me". Say it ◙with your heart.
+00020
+Manaka
+00021
+The way to apologize is ◙saying "I won't do it ◙anymore, please forgive ◙me". Then... I'll believe ◙in you again.
+00022
+Manaka
+00023
+Until you say "I won't do ◙it anymore, please forgive ◙me", I won't forgive you, ◙understand？
+00024
+Manaka
+00025
+...Now, say it.
+00026
+Manaka
+00027
+Don't you feel bad...？
+00028
+Manaka
+00029
+Have courage, do it.
+00030
+Manaka
+00031
+"I won't do it anymore, ◙please forgive me"... ◙Don't make me say it again.
+00032
+Manaka
+00033
+Listen well. "I won't do it ◙anymore, please forgive me".
+00034
+Manaka
+00035
+"I won't do it anymore, ◙please forgive me". ◙Can you say it？
+00036
+Manaka
+00037
+Say it properly. Because ◙this is important.
+00038
+Manaka
+00039
+I'm sorry, I didn't get ◙that. One more time, okay？
+00040
+Manaka
+00041
+I'm not convinced with ◙just that. Clearly, one ◙more time.
+00042
+Manaka
+00043
+I can believe that... ◙Yes, I forgive you.
+00044
+Manaka
+00045
+Huh... that's unfair. ◙You know, I forgive you...
+00046
+Manaka
+00047
+Ah... That's different ◙from what I asked... ◙That's not right... ◙But, I forgive you.
+00048
+Manaka
+00049
+Alright, you finally said ◙it.
+00050
+Manaka
+00051
+Okay... You've said it ◙properly.
+00052
+Manaka
+00053
+Ah, geez... I can't do ◙anything about it.
+00054
+Manaka
+00055
+I beg of you, don't do ◙anything so horrible ◙anymore.
+00056
+Manaka
+00057
+I'll believe in you again.
+00058
+Manaka
+00059
+Okay then, we'll finish ◙this chat with this part. ◙Right？
+00060
+Manaka
+00061
+Please, don't let me down ◙any more...
+00062
+Manaka
+00063
+So, you're choosing to ◙keep silent and say ◙nothing...
+00064
+Manaka
+00065
+...You're making a ◙comparison？ I won't lose.
+00066
+Manaka
+00067
+You turned off the power ◙without saving again... ◙Stop doing that already！
+00068
+Manaka
+00069
+You turned off the power ◙without saving again... ◙Can't you remember what ◙I told you？
+00070
+Manaka
+00071
+I know it, you turned off ◙the power without saving ◙again.
+00072
+Manaka
+00073
+If you want me to forgive ◙you... "I love Manaka the ◙most". Now you say it.
+00074
+Manaka
+00075
+Can you say "I love Manaka ◙the most"？ Then I will ◙forgive you...
+00076
+Manaka
+00077
+"I love Manaka the most". ◙I can't forgive you ◙unless you say me that.
+00078
+Manaka
+00079
+No way, are you going to ◙keep quiet all the time？
+00080
+Manaka
+00081
+Why don't you say ◙something？
+00082
+Manaka
+00083
+Don't you feel remorse？
+00084
+Manaka
+00085
+I'll know if you cheat. ◙Say it one more time.
+00086
+Manaka
+00087
+I want you to say it right. ◙Can you try again？
+00088
+Manaka
+00089
+Say it clearly one more ◙time.
+00090
+Manaka
+00091
+I don't want to hear that.
+00092
+Manaka
+00093
+Don't you want to say ◙another thing？
+00094
+Manaka
+00095
+I don't really understand ◙what you are saying...
+00096
+Manaka
+00097
+...Yes. I heard you.
+00098
+Manaka
+00099
+I'm glad... I was wondering ◙what would you do if I ◙didn't chastise you.
+00100
+Manaka
+00101
+Yes, thank you. This makes ◙me glad.
+00102
+Manaka
+00103
+But now that's not enough. ◙Say "I like you" 3 times.
+00104
+Manaka
+00105
+Next... Say "I like you" ◙3 times. Then I'll accept ◙your apology.
+00106
+Manaka
+00107
+Now, if you say "I like ◙you" 3 times, I'll really ◙forgive you.
+00108
+Manaka
+00109
+I'll get angrier next ◙time, okay？
+00110
+Manaka
+00111
+Don't you want to make up？
+00112
+Manaka
+00113
+Don't be so shy, say it.
+00114
+Manaka
+00115
+You know what I mean, ◙right？
+00116
+Manaka
+00117
+I don't care anymore...
+00118
+Manaka
+00119
+I don't want you to tell ◙me something silly...
+00120
+Manaka
+00121
+Hehe, I made you say it.
+00122
+Manaka
+00123
+...I was excited.
+00124
+Manaka
+00125
+Yes... let me tell you, ◙but... I'm shy.
+00126
+Manaka
+00127
+Okay, we can make up again. ◙No doing this anymore, ◙okay？ These are important ◙memories for us.
+00128
+Manaka
+00129
+Finally. Remember this: ◙even if something seems ◙unpleasant, it's still a ◙memory of us.
+00130
+Manaka
+00131
+Promise me you'll never ◙do this again. All the ◙good and bad things are ◙part of our memories.
+00132
+Manaka
+00133
+That's not nice...
+00134
+Manaka
+00135
+What a troublesome ◙person...
+00136
+Manaka
+00137
+...You haven't done it ◙again, have you？
+00138
+Manaka
+00139
+If you're really pondering ◙on it... I want you to say ◙a lot of words of love to ◙prove you're serious.
+00140
+Manaka
+00141
+The word I want you to ◙say is "I love you".
+00142
+Manaka
+00143
+Um... I would like for you ◙to say "I'm sorry" a lot, ◙okay？
+00144
+Manaka
+00145
+Okay then... Say "I will ◙never cheat".
+00146
+Manaka
+00147
+Do your best♪
+00148
+Manaka
+00149
+Fight！
+00150
+Manaka
+00151
+Hmm... That way, my ◙feelings can't reach you.
+00152
+Manaka
+00153
+It was so close！
+00154
+Manaka
+00155
+Yes. You were able to ◙convey your feelings.
+00156
+Manaka
+00157
+Nice♪ You've set a new ◙record！
+00158
+Manaka
+00159
+If you're thinking about ◙it, express those feelings ◙of repentance.
+00160
+Manaka
+00161
+Do your best, do your best.
+00162
+Manaka
+00163
+You can write beautiful ◙things.
+00164
+Manaka
+00165
+I have to write it down ◙carefully.
+00166
+Manaka
+00167
+Please write it down！
+00168
+Manaka
+00169
+I'm really loving it. ◙It was really good♪
+00170
+Manaka
+00171
+Wow, you've set a new ◙record！
+00172
+Manaka
+00173
+If you've reflected on it, ◙can you stare at my eyes？ ◙If you can't then you're ◙not being honest.
+00174
+Manaka
+00175
+Yes, look at me.
+00176
+Manaka
+00177
+Just me... Just look at me.
+00178
+Manaka
+00179
+Don't move anymore！
+00180
+Manaka
+00181
+Don't look away！
+00182
+Manaka
+00183
+You have such beautiful ◙eyes.
+00184
+Manaka
+00185
+Incredible！ You have set ◙a new record♪
+00186
+Manaka
+00187
+I'm ready to give up. ◙You're going to reflect on ◙it, aren't you？
+00188
+Manaka
+00189
+Okay... I'll forgive you ◙his time.

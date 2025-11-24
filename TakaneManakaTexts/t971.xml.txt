@@ -1,0 +1,14 @@
+00000
+○○○○○○○○
+00001
+Corridor
+00002
+Courtyard
+00003
+Behind the school
+00004
+Clubroom
+00005
+Library
+00006
+Rooftop

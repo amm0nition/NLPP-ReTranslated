@@ -1,0 +1,752 @@
+00000
+○○○○○○○○
+00001
+What do you plan to do on ◙New Year's？
+00002
+Manaka
+00003
+I'll rest on New Year's ◙Day. But after that, I'll ◙be busy going around and ◙greeting people.
+00004
+I see. Do you have to visit ◙many people？
+00005
+Not that many, but it's ◙still very tiresome.
+00006
+Why？
+00007
+I have to make desserts ◙for New Year's gifts every ◙year. I'm quite worried ◙about that...
+00008
+Every year？ Can't you just ◙stop doing that？
+00009
+My parents said I didn't ◙have to do it, but I just ◙don't want to quit.
+00010
+It would be like losing if ◙I quit, right...？
+00011
+(Even in a situation like ◙this, she's still ◙competitive...)
+00012
+○○○○○○○○
+00013
+Setsubun is in February. ◙What do you do at home, ◙▲MANAKA▲？
+00014
+Manaka
+00015
+We decorate our home with ◙the evil buster charm and ◙scatter beans to drive ◙evil away.
+00016
+The evil buster charm？
+00017
+You don't know what it is？ ◙It's made with holly olive ◙and pilchard's head.
+00018
+Papa always takes care of ◙scattering the beans. Mama ◙and I just do the cleaning ◙later.
+00019
+Who takes the demon role ◙then？
+00020
+No one. It's like we ◙exorcise the invisible evil ◙spirits.
+00021
+After it's done, we just ◙have some good luck tea. ◙It's delicious. Hehe, I ◙can't wait.
+00022
+(They have such an elegant ◙Setsubun tradition...)
+00023
+○○○○○○○○
+00024
+It's almost that time of ◙year again. Valentine's ◙Day！
+00025
+Manaka
+00026
+...Are you concerned about ◙it？
+00027
+Well yeah, because I have ◙a girlfriend who's very ◙good at cooking！
+00028
+Come on... But, don't ◙expect too much, okay？
+00029
+Eh？ This is rare. Cooking ◙is your specialty, isn't ◙it？
+00030
+Yeah... But I couldn't ◙find the topping I intended ◙to use. It's sold out ◙everywhere.
+00031
+Ah... I'll have to find a ◙substitute for it.
+00032
+(Even good cooks encounter ◙such tough situations, ◙huh...？)
+00033
+○○○○○○○○
+00034
+Hey, it's almost that time ◙of year again, right？ ◙Valentine's Day！
+00035
+Manaka
+00036
+Yes. Right now, I have so ◙many choices that I really ◙can't decide.
+00037
+So, if you have any ◙requests, maybe you should ◙tell me... I'm kidding.
+00038
+You can make whatever you ◙want. Anything is okay for ◙me！ I'll leave it to you ◙▲MANAKA▲.
+00039
+Hehe！ Somehow, that's what ◙I expected you to say.
+00040
+I'll try my best to make ◙something that will make ◙you happy.
+00041
+(Ah, I can't wait！)
+00042
+○○○○○○○○
+00043
+Hey, it's almost that time ◙of year again, right？ ◙Valentine's Day！
+00044
+Manaka
+00045
+Are you expecting for ◙something？
+00046
+Of course！
+00047
+...I have to apologize ◙first. I'm sorry.
+00048
+Eh！？ W-Why？
+00049
+It might be so delicious ◙that your jaw will drop▼
+00050
+Hehe！
+00051
+(Hah. What a surprise... ◙But now I can't wait！)
+00052
+○○○○○○○○
+00053
+Hinamatsuri is coming up ◙soon. Do you have doll ◙decorations at your house, ◙▲MANAKA▲？
+00054
+Manaka
+00055
+Yes, of course. We have ◙them up for the whole month ◙of February.
+00056
+You put them up that early？
+00057
+Yeah. We put them up early ◙and then put them away as ◙soon as the festival ends. ◙It's our tradition.
+00058
+I see. But why？ They are ◙so pretty. It would be ◙better to display them ◙longer.
+00059
+......
+00060
+Hmm？
+00061
+Maybe I should leave them ◙on a little longer... Hehe.
+00062
+(...？)
+00063
+○○○○○○○○
+00064
+By the way, it's almost ◙White Day...
+00065
+Manaka
+00066
+Yeah.
+00067
+Eh？ Don't tell me you ◙don't expect anything at ◙all.
+00068
+I'm expecting something. ◙But it's not like I want ◙anything luxurious in ◙return, so don't worry.
+00069
+But, if I had to say...
+00070
+I'm expecting something ◙packed with your feelings.
+00071
+Hehe. Do your best and ◙think about it, okay？
+00072
+(All right. I'll do my ◙best！)
+00073
+○○○○○○○○
+00074
+To think of it... It's ◙almost a month after ◙Valentine's Day.
+00075
+Manaka
+00076
+White Day's coming, right？
+00077
+Do you have anything you ◙want in particular？
+00078
+No. Just your feelings are ◙more than enough.
+00079
+▲MANAKA▲...
+00080
+Really, anything is fine. ◙For me, everything you give ◙me is always a precious ◙treasure.
+00081
+(Ah！ She's saying it in ◙such a cute way. It makes ◙me want to do my best for ◙her！)
+00082
+○○○○○○○○
+00083
+It's been almost a month ◙since Valentine's Day, huh？
+00084
+Manaka
+00085
+Yeah▼
+00086
+Eh...？ Are you anticipating ◙something big because of ◙me？
+00087
+Hehe.
+00088
+More than anticipation... ◙Right now, you must be ◙thinking a lot about the ◙return gift, right？
+00089
+Yeah.
+00090
+T-That means you're ◙thinking about me all the ◙time, right？ I'm so happy.
+00091
+I wonder what kind of gift ◙you'll choose for me. I'm ◙anticipating that.
+00092
+I can't wait▼
+00093
+(All right. I'll do my ◙best choosing a gift for ◙her！)
+00094
+○○○○○○○○
+00095
+It's the cherry blossom ◙season.
+00096
+Manaka
+00097
+Yeah. When I was a kid, I ◙often went to see weeping ◙cherry blossom trees.
+00098
+How were they？
+00099
+They were so big and ◙pretty. I felt like I was ◙walking under raining ◙petals.
+00100
+Hmm... I want to see them ◙too.
+00101
+But those trees are ◙located very far from here. ◙We can't go there in a ◙one-day trip.
+00102
+I see...
+00103
+But we'll go to see them ◙together, okay？ Maybe when ◙we grow up. Let's promise.
+00104
+○○○○○○○○
+00105
+It's almost Golden Week. ◙Do you want to go somewhere ◙▲MANAKA▲？
+00106
+Manaka
+00107
+It's going to be crowded ◙everywhere, isn't it？ It's ◙okay if I can just hang ◙out with you at home...
+00108
+You're like a worn-out ◙salaryman！
+00109
+......
+00110
+How's my joke？
+00111
+...I won't go anywhere ◙with you. I won't even let ◙you in my house！
+00112
+(Eh！？ Why？)
+00113
+○○○○○○○○
+00114
+It's almost the sports ◙festival. Are you going to ◙participate in any events, ◙▲MANAKA▲？
+00115
+Manaka
+00116
+Yes, many of them.
+00117
+As I thought... You're ◙good at everything ◙▲MANAKA▲.
+00118
+Hey, if I win in a lot of ◙events, will you give me a ◙reward？
+00119
+Oh, of course I will！
+00120
+Yay▼ I'll do my best. Maybe ◙I can win all of them.
+00121
+(Then I'll have to do my ◙best, too！)
+00122
+○○○○○○○○
+00123
+By the way, it's time to ◙change uniforms again.
+00124
+Manaka
+00125
+I prefer the winter ◙uniform.
+00126
+Really？ Why？ Isn't the ◙summer uniform nice？
+00127
+I don't want to get ◙sunburnt.
+00128
+Ah, that's the reason...
+00129
+I can never understand why ◙guys are so happy when ◙girls dress so lightly.
+00130
+Um... That's... Well...
+00131
+...Geez. Never ever look ◙at other girls like that ◙with those eyes, okay？
+00132
+(I'll be careful...)
+00133
+○○○○○○○○
+00134
+It's July now... What do ◙you plan to wish for on ◙Tanabata？
+00135
+Manaka
+00136
+My family set up a bamboo ◙decoration at home, so I'll ◙hang my wish card there.
+00137
+Wow. Family celebrates ◙almost every festival, eh, ◙▲MANAKA▲？
+00138
+Yeah, pretty much. My ◙family just likes things ◙like this.
+00139
+I heard that they didn't ◙do this much to begin with, ◙but started to after I was ◙born.
+00140
+I'm a girl, but they ◙celebrate Boys' Festival by ◙hanging carp streamers too. ◙Next is the Moon Festival, ◙I think...
+00141
+Wow, they really celebrate ◙them all... Oh, about your ◙wish, what will you wish ◙for？
+00142
+That's... To be with you... ◙Never mind. It's my secret.
+00143
+(Eh...？)
+00144
+○○○○○○○○
+00145
+Ah！ Can't summer break ◙come any faster！？
+00146
+Manaka
+00147
+Why？
+00148
+Eh？ Aren't you looking ◙forward to it？
+00149
+Well, not really. During ◙the holidays, it's more ◙difficult for us to meet ◙every day.
+00150
+Yeah, that's true... But ◙we can always hang out ◙together outside, too.
+00151
+...That's right. Yeah, I'm ◙also looking forward to it ◙then.
+00152
+Good！ I can't wait to go ◙to lots of seasonal events ◙with you. I want to see you ◙in a swimsuit and in a ◙yukata too.
+00153
+So those are all you're ◙looking forward to？
+00154
+Boo, not just those. A lot ◙more！ We're gonna have a ◙busy summer, so be ◙prepared ◙▲MANAKA▲.
+00155
+Yes~▼
+00156
+(Let's have fun！)
+00157
+○○○○○○○○
+00158
+It's almost sea bathing ◙season, right？
+00159
+Manaka
+00160
+Yeah... Swimsuits, huh...
+00161
+You aren't confident？ I'm ◙sure you'll look good in ◙any swimsuit, bikini or ◙tankini. Don't worry about ◙it！
+00162
+I don't know which one I ◙should wear... Can I ◙consult you？
+00163
+Of course！
+00164
+Great. I'll trouble you ◙for that.
+00165
+(But if you wear a school ◙swimsuit, I'll be angry, ◙you know...？)
+00166
+○○○○○○○○
+00167
+It's almost fireworks ◙season... Have you bought ◙your yukata？
+00168
+Manaka
+00169
+Hehe, I did. You can look ◙forward to it, okay？
+00170
+By the way, can you put on ◙a yukata by yourself, ◙▲MANAKA▲？
+00171
+Yes. If you remember the ◙order, it's quite simple.
+00172
+It's just that having to ◙wear a yukata with a tight ◙sash is quite irritating ◙in the summer.
+00173
+Hmm？ Then if you can't ◙stand it, I can help you ◙untie the sash. It'll make ◙you feel better...
+00174
+......
+00175
+...Huh？ N-No！ I didn't ◙mean it that way！ I said it ◙with innocent intentions...！
+00176
+I don't care.
+00177
+(Ahhhhh~)
+00178
+○○○○○○○○
+00179
+Ah... Summer is ending ◙soon.
+00180
+Manaka
+00181
+What？ Why are you sighing？
+00182
+I like school days more. ◙I can see you more often ◙than during the break...
+00183
+Yeah... But, still...
+00184
+Ah, I know. You haven't ◙finished your homework, ◙right？
+00185
+Yeah, that's one reason, ◙too...
+00186
+Geez, what a helpless guy. ◙Come on. I'll help you, so ◙cheer up, okay？
+00187
+(Yay！ ...But I still don't ◙want summer break to end...)
+00188
+○○○○○○○○
+00189
+It's almost the Harvest ◙Moon.
+00190
+Manaka
+00191
+Yeah, I already prepared ◙some pampas grass. Later, ◙I'll only have to prepare ◙the offerings.
+00192
+So you're the one in ◙charge of the offerings, ◙▲MANAKA▲？
+00193
+Well, every year, Mama and ◙I make sweet dumplings ◙together.
+00194
+How about your father？
+00195
+He joins us too. I think ◙he kind of likes it. He's ◙like a kid sometimes.
+00196
+Hahaha. That's good. I want ◙to join in, too.
+00197
+It'd be nice if you become ◙a part of my family...
+00198
+Right！ ...What！？
+00199
+Hehe！
+00200
+○○○○○○○○
+00201
+It's time to change our ◙uniforms again.
+00202
+Manaka
+00203
+Yeah. I really like the ◙winter uniform.
+00204
+Um, you look good in it.
+00205
+...Even if you try to ◙flatter me, I don't have ◙anything for you.
+00206
+It's not flattery and I ◙don't want anything♪
+00207
+...Hey. You're just making ◙fun of me.
+00208
+Your face is all red. ◙You're so cute ◙▲MANAKA▲.
+00209
+...I don't care！
+00210
+(It's the truth. It's so ◙cute that you get so ◙embarrassed like this ◙▲MANAKA▲.)
+00211
+○○○○○○○○
+00212
+It's almost the culture ◙festival.
+00213
+Manaka
+00214
+Yeah. Everyone is so ◙excited about it. I wonder ◙if we can get all the ◙preparation done in time.
+00215
+Who knows.
+00216
+Hehe. I guess so. Hey, ◙you'll have some free time, ◙right？
+00217
+Of course！ Let's go around ◙the festival together. We ◙can go to the haunted ◙house, and then the haunted ◙house.
+00218
+Fine... But why did you ◙mention it twice？
+00219
+Ah, no... I just thought ◙that it would be good to go ◙to the haunted house...
+00220
+...Too bad.
+00221
+...？
+00222
+I'm quite cool with it. I ◙won't get scared. If you've ◙planned something, it's ◙probably useless.
+00223
+(...Is it true or is she ◙just bluffing？)
+00224
+○○○○○○○○
+00225
+It's almost skiing season.
+00226
+Manaka
+00227
+Ski...
+00228
+Are you bad at skiing？
+00229
+Yeah... I'm not good. I ◙keep falling down all the ◙time.
+00230
+You also have some weak ◙points too, huh, ◙▲MANAKA▲？
+00231
+Of course. No one is ◙flawless.
+00232
+No, I didn't mean I want ◙you to be flawless. It's ◙just that I'm happy to ◙learn more about you.
+00233
+Ah...
+00234
+...I'm sorry. If we go ◙skiing, will you teach me ◙then？
+00235
+Of course！
+00236
+○○○○○○○○
+00237
+It's almost Christmas...
+00238
+Manaka
+00239
+Yes. I like the atmosphere ◙like this. Every place ◙looks sparkling and ◙everyone is so happy...
+00240
+Yeah, you're right.
+00241
+And being able to be with ◙you makes me like it even ◙more.
+00242
+Yeah, me too.
+00243
+Hehe. I can't wait for ◙Christmas.
+00244
+(I'll try to make Christmas ◙this year a nice one for ◙her.)
+00245
+○○○○○○○○
+00246
+It's almost Christmas day. ◙You told me before that ◙you'd have a party at your ◙house, right, ◙▲MANAKA▲？
+00247
+Manaka
+00248
+Yeah. But the party will ◙start very late this year, ◙so it's fine.
+00249
+Why？
+00250
+...I just tried my best, ◙that's why.
+00251
+...？
+00252
+Never mind！ I can't wait ◙for Christmas.
+00253
+(I'll try to make Christmas ◙this year a nice one for ◙her.)
+00254
+○○○○○○○○
+00255
+It's almost Christmas...
+00256
+Manaka
+00257
+Yes. Last time, I said that ◙I loved the atmosphere, ◙right？ This is just so ◙amazing.
+00258
+When I have you by my side, ◙I feel like I'm a heroine.
+00259
+So now, I'm your prince, ◙and you're my princess, ◙▲MANAKA▲ ？
+00260
+Hehe. Will you take me to ◙the party by a carriage ◙with white horses？
+00261
+(I'll try to make Christmas ◙this year a nice one for ◙her.)
+00262
+○○○○○○○○
+00263
+It's almost the end of ◙the year... A lot of things ◙happened this year, huh？
+00264
+Manaka
+00265
+Yeah... Right.
+00266
+What was the most memorable ◙thing for you ◙▲MANAKA▲？
+00267
+That's... Of course, it's ◙that thing...
+00268
+Our first date？
+00269
+Our first kiss？
+00270
+What is it？
+00271
+It must be our first date, ◙right？ It became the big ◙news of the year.
+00272
+Yes. I still can't believe ◙it even now.
+00273
+Huh？ What？
+00274
+That you and I are talking ◙to each other like this. ◙Just a while ago, we were ◙still just friends...
+00275
+I'm very grateful to God ◙for giving me this chance. ◙...Please continue to treat ◙me well.
+00276
+Likewise！
+00277
+It must be... our first ◙kiss, right？
+00278
+...Yeah. People say that ◙first kiss is something ◙special. And it really is.
+00279
+For me too... Huh？ What's ◙wrong？
+00280
+...Don't look. When I think ◙of it, I feel really ◙embarrassed...
+00281
+(It only happens once in ◙our lifetime. Now even I ◙feel embarrassed...)
+00282
+Huh？ What is it？
+00283
+It's... Hey...
+00284
+...Look at you. You knew ◙it, right？
+00285
+I really don't know.
+00286
+Enough already... You're ◙just so stupid.
+00287
+(You don't have to say ◙that...)
+00288
+○○○○○○○○
+00289
+It's the end of the year. ◙Many things have happened, ◙eh？
+00290
+Manaka
+00291
+Yeah. Please be nice to me ◙next year too, okay？
+00292
+Likewise！
+00293
+...Hehe.
+00294
+Huh？ What？
+00295
+Somehow, I feel like we ◙might just repeat this ◙conversation next year too.
+00296
+Haha. I guess so. Maybe we ◙should talk about our ◙plans for the next New ◙Year's.
+00297
+I agree. So, let's think ◙about it.
+00298
+(Um, it's very nice like ◙this.)
+00299
+○○○○○○○○
+00300
+It's almost spring.
+00301
+Manaka
+00302
+We'll start to smell the ◙flower's fragrances in the ◙wind, right？
+00303
+And then the grocers will ◙go out to find bamboo ◙shoots and stuff.
+00304
+Yeah, it's this time of ◙year. Such a nice season.
+00305
+Right. It's also fun to ◙think about menus to match ◙the seasons.
+00306
+Maybe I'll try cooking a ◙bamboo shoot dish later.
+00307
+(Sounds nice. Ah, now I'm ◙getting hungry...)
+00308
+○○○○○○○○
+00309
+It's getting warmer now.
+00310
+Manaka
+00311
+Hehe. The feeling of ◙spring, eh？
+00312
+Ah, right. I have to buy ◙some strawberries on the ◙way home.
+00313
+Do you like strawberries ◙▲MANAKA▲？
+00314
+Love them▼ I can make jam, ◙or fluffy mousse, or a lot ◙more. I can eat them all.
+00315
+It's called "strawberry ◙hell" at the Takanes during ◙this season. Hehe▼
+00316
+(Isn't it supposed to be ◙"heaven"？ Somehow, this ◙sounds scary...)
+00317
+○○○○○○○○
+00318
+The days seems to be longer ◙now. Summer is coming soon, ◙I guess.
+00319
+Manaka
+00320
+Ah...
+00321
+Eh？ You don't like summer？
+00322
+No, that's not the case, ◙but... I have to deal with ◙sunburns.
+00323
+When I get sunburnt, my ◙whole body becomes red.
+00324
+I see. It's not easy to be ◙a girl.
+00325
+That's right. I have to ◙plan ahead on how to avoid ◙getting burned.
+00326
+But I'm a bit jealous of ◙others. I want to get ◙tanned skin, too.
+00327
+(And somehow, I want to ◙see that.)
+00328
+○○○○○○○○
+00329
+It's summer already... ◙It's hot. Too hot.
+00330
+Manaka
+00331
+Do you want to be in an ◙air-conditioned room all ◙day？ That's not good for ◙your health.
+00332
+Huh？ So, you don't have ◙air conditioning at home, ◙▲MANAKA▲？
+00333
+I do, but I only use it at ◙night. I don't quite like ◙it.
+00334
+How about an electric fan？
+00335
+I like it. I like to say ◙"Aaaaa" in front of it.
+00336
+"Waa ree waa ree waaaa" ◙like this. I do this every ◙year.
+00337
+(I bet I'm the only one who ◙knows she does something ◙like that！)
+00338
+○○○○○○○○
+00339
+Lately, the sky has become ◙higher.
+00340
+Manaka
+00341
+The clouds are also ◙changing their shapes. ◙It's almost fall, right？
+00342
+Yeah. By the way, what do ◙you like most in fall, ◙▲MANAKA▲？
+00343
+Hehe. What I like most？ I ◙like music, I guess. Fall ◙is the best time to listen ◙or to play the piano.
+00344
+You chose music, not food, ◙eh？
+00345
+Hey, don't make me look ◙like a glutton...
+00346
+Eh？ You aren't？
+00347
+...Anyway, I'm just a ◙moderate glutton.
+00348
+(Which part is moderate！？)
+00349
+○○○○○○○○
+00350
+It's getting dark quite ◙early. It's fall already, ◙eh？
+00351
+Manaka
+00352
+It's a peaceful season. ◙Food is delicious during ◙this season too. So nice.
+00353
+Fall makes me think of ◙eggplants, mushrooms, ◙pikes, potatoes...
+00354
+Don't forget pears, grapes, ◙ginkgos, persimmons, and ◙chestnuts▼
+00355
+Fall, the season for ◙eating. Hooray！
+00356
+Hehe. So you've become a ◙glutton now, right？
+00357
+(I'm a glutton, eh？)
+00358
+○○○○○○○○
+00359
+It's getting cold.
+00360
+Manaka
+00361
+Will it get colder？ If it ◙does, I'll have to wear my ◙coat.
+00362
+Are you okay with cold ◙weather like this, ◙▲MANAKA▲？
+00363
+Yeah, relatively okay.
+00364
+It's different from hot ◙weather. As long as I'm ◙wearing enough clothes, I ◙can stay warm.
+00365
+Sometimes I keep wearing ◙coat in the house and my ◙parents are like "Just ◙turn on the heat！" Hehe！
+00366
+(So you're quite concerned ◙about energy conservation, ◙▲MANAKA▲？)
+00367
+○○○○○○○○
+00368
+Urgh, so cold... As I ◙expected of winter.
+00369
+Manaka
+00370
+It'd be good if we could ◙eat hot pot every day to ◙keep ourselves warm.
+00371
+Yeah. And then get under a ◙kotatsu table and eat some ◙oranges.
+00372
+Or you can have some ice ◙cream too.
+00373
+Nah, thinking about the ◙season, oranges are way ◙better.
+00374
+！！ Urgh...
+00375
+(What was that now...？)

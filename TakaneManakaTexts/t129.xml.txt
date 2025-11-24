@@ -1,0 +1,374 @@
+00000
+Manaka
+00001
+If you don't mind, why ◙don't we study together ◙for the next test？
+00002
+○○○○○○○○
+00003
+There were a lot of tests ◙last time...
+00004
+Let's do it
+00005
+Better next time
+00006
+Manaka
+00007
+The last test's results ◙were disappointing... ◙Do you want to review the ◙studying materials now？
+00008
+○○○○○○○○
+00009
+It would be bad if I ◙obtained a score like ◙that again...
+00010
+Let's do it together
+00011
+Better next time
+00012
+Manaka
+00013
+Do you want to hold a ◙study session together？ ◙Wouldn't that be better？
+00014
+○○○○○○○○
+00015
+(Don't you care that my ◙test's results were bad？)
+00016
+Let's do it
+00017
+Better next time
+00018
+Manaka
+00019
+Okay then, come to my ◙house after school.
+00020
+Manaka
+00021
+Yes. Is it okay if it's in ◙my house？ I'll be waiting ◙for you.
+00022
+Manaka
+00023
+Roger that. Then, please ◙take care of me in my ◙house. I'm kidding.
+00024
+Manaka
+00025
+If you think so, that's ◙fine...
+00026
+Manaka
+00027
+Do you have any plans？ ◙If that's the case, we ◙can't do anything about it.
+00028
+Manaka
+00029
+That so？ Well, see you ◙next time.
+00030
+Manaka
+00031
+Welcome. I've been waiting ◙for you.
+00032
+○○○○○○○○
+00033
+It's so nice to see you ◙today.
+00034
+Manaka
+00035
+Welcome. Let's do our best ◙together today.
+00036
+○○○○○○○○
+00037
+Yes, I have to study hard.
+00038
+Manaka
+00039
+Welcome. Now then, want to ◙go inside？
+00040
+○○○○○○○○
+00041
+Okay, I'm coming in.
+00042
+Manaka
+00043
+Focus only on studying ◙today. Okay？
+00044
+○○○○○○○○
+00045
+I understand.
+00046
+Manaka
+00047
+I think it's beautiful, ◙because I put it away ◙recently...
+00048
+○○○○○○○○
+00049
+Isn't your room always ◙clean, ▲MANAKA▲？
+00050
+Manaka
+00051
+Huh？ Is there anything ◙wrong？
+00052
+○○○○○○○○
+00053
+No, it's nothing. Let's do ◙our best today.
+00054
+Manaka
+00055
+Okay, we should start. ◙Let's stay calm and solve ◙each question one by one.
+00056
+○○○○○○○○
+00057
+We have plenty of time.
+00058
+Manaka
+00059
+Do you want to start now？
+00060
+○○○○○○○○
+00061
+Yes. I have to get ready.
+00062
+Manaka
+00063
+If there's something you ◙don't understand, don't ◙hesitate to tell me okay？
+00064
+○○○○○○○○
+00065
+Sure, I'll get started！
+00066
+Manaka
+00067
+That's right... Which ◙subject would you like ◙review first？
+00068
+Manaka
+00069
+Which subject would be ◙best to review...
+00070
+Manaka
+00071
+Then, which subject do you ◙want to cover first？
+00072
+General
+00073
+Japanese
+00074
+Social
+00075
+Science
+00076
+Math
+00077
+English
+00078
+▲MANAKA▲
+00079
+Manaka
+00080
+...That subject does not ◙exist.
+00081
+Manaka
+00082
+You promised to study, ◙didn't you？ Let's start ◙with some general things.
+00083
+Manaka
+00084
+If you say so... I get it.
+00085
+Manaka
+00086
+...If you're sure, then by ◙all means.
+00087
+Manaka
+00088
+I'm being pushy... ◙I understand.
+00089
+Manaka
+00090
+Then, let's get started.
+00091
+Manaka
+00092
+Okay. Let's do our best.
+00093
+Manaka
+00094
+Sure. Yes, sir.
+00095
+Manaka
+00096
+Did you answer all ◙questions correctly？ You ◙did your best.
+00097
+○○○○○○○○
+00098
+My eyes get so tired when ◙I concentrate. Can I take ◙a break？
+00099
+Of course. Please, wait ◙here a minute.
+00100
+Manaka
+00101
+You are doing great. ◙Aren't you tired？ Do you ◙want to take a break？
+00102
+○○○○○○○○
+00103
+Sounds nice. I just wanted ◙to rest for a bit.
+00104
+Then I'll make some tea. ◙You can relax here.
+00105
+Manaka
+00106
+Amazing... I'm sure you'll ◙be fine in the next test！
+00107
+○○○○○○○○
+00108
+All right！ Well then... ◙Can we take a break？
+00109
+Hehe, that's fine. Let's ◙have our break with some ◙tea.
+00110
+Manaka
+00111
+Congratulations, you tried ◙really hard... I have to ◙give you a reward.
+00112
+Manaka
+00113
+Wow, you answered all my ◙questions correctly, right？ ◙Well then... I have to give ◙you a reward right？
+00114
+Manaka
+00115
+Wow, that's amazing！ ◙Then I'll give you a ◙reward.
+00116
+Manaka
+00117
+...You didn't concentrate ◙at all, did you？
+00118
+○○○○○○○○
+00119
+Well, maybe.
+00120
+Take a little break, ◙because that'll make you ◙more efficient.
+00121
+Manaka
+00122
+What's wrong with you？ ◙Are you getting tired？
+00123
+○○○○○○○○
+00124
+Hmm... Maybe that's true.
+00125
+Then, do you want to take ◙a little break？ Wait a ◙minute.
+00126
+Manaka
+00127
+...Do you want to rest a ◙little？
+00128
+○○○○○○○○
+00129
+Yes... I think I will.
+00130
+Wait a minute, I'll go ◙make some tea.
+00131
+Manaka
+00132
+That dress you gave me as ◙a present... I'll show it ◙only to you.
+00133
+Manaka
+00134
+How do you like it？ ◙I'm happy the clothes you ◙gave me look so good.
+00135
+Manaka
+00136
+I tried to wear the clothes ◙you gave me as a present. ◙Does it make you happy？
+00137
+Manaka
+00138
+I'm feeling a little ◙embarrassed... but, ◙if it's for you...
+00139
+Manaka
+00140
+This is your reward... ◙But, don't look at me that ◙much.
+00141
+Manaka
+00142
+So, are you happy？ Do you ◙like your reward？
+00143
+Manaka
+00144
+I went a through a great ◙deal of trouble... It ◙might be a good idea to ◙take a pic... I'm kidding.
+00145
+Manaka
+00146
+If you don't mind... ◙a photo... I'd be glad if ◙you could take one.
+00147
+Manaka
+00148
+I'd like to keep this ◙memory in a photo... ◙I'm kidding. Don't you ◙agree？
+00149
+Manaka
+00150
+Sorry to keep you waiting. ◙Here, this is for you.
+00151
+○○○○○○○○
+00152
+Oh, is it handmade？
+00153
+Yes. I was really ◙motivated, so I wanted to ◙try making something.
+00154
+I see, thank you. Alright, ◙after eating this I will ◙do my best.
+00155
+Manaka
+00156
+Here, take this. I hope it ◙fits your tastes.
+00157
+○○○○○○○○
+00158
+Is it handmade？ This makes ◙me so happy, ◙▲MANAKA▲.
+00159
+You're doing your best, ◙so I'm going to support ◙you too.
+00160
+Alright, thank you for ◙the food.
+00161
+Manaka
+00162
+Here comes the long-awaited ◙tea time.
+00163
+○○○○○○○○
+00164
+Oh, this looks so tasty. ◙Is it handmade？
+00165
+Of course. Let's eat and ◙do our best.
+00166
+Thank you. Well then, let's ◙enjoy.
+00167
+Manaka
+00168
+Now then, shall we resume ◙our studies？
+00169
+Let's do it
+00170
+That's enough for now
+00171
+Manaka
+00172
+It's about time... Let's ◙start.
+00173
+You're right
+00174
+Let's stop for now
+00175
+Manaka
+00176
+Okay, do you want to ◙continue studying？
+00177
+Yes, let's do it
+00178
+...I think this is ◙enough for now
+00179
+○○○○○○○○
+00180
+Now, let's do our best for ◙this last push.
+00181
+Manaka
+00182
+Yes, that's the spirit.
+00183
+○○○○○○○○
+00184
+That's enough for now. ◙We've studied hard, so ◙let's stop for the day.
+00185
+Manaka
+00186
+That's right. I need to ◙take a break, so now is a ◙good time.

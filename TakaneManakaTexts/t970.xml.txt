@@ -1,0 +1,214 @@
+00000
+Dummy
+00001
+Leave it to me
+00002
+▲OPTION1▲
+00003
+▲OPTION2▲
+00004
+▲OPTION3▲
+00005
+▲OPTION4▲
+00006
+Choose what to debug
+00007
+1:Choose by chopstick type
+00008
+2:Choose by restaurant menu
+00009
+3:By old flow before 7/23
+00010
+4:Choose by dish number
+00011
+5:Settings
+00012
+6
+00013
+Choose which tools to use
+00014
+Choose another
+00015
+Chopsticks:Rice
+00016
+Chopsticks:Ramen
+00017
+Chopsticks:Zaru Soba
+00018
+Fork
+00019
+Knife and fork
+00020
+Spoon:Curry
+00021
+Spoon:Stew
+00022
+Hands
+00023
+Hands:Ichibu-mochi
+00024
+Hands:Kushi-mochi
+00025
+Straw
+00026
+Cup
+00027
+Settings screen
+00028
+1:random behavior
+00029
+2:innocent
+00030
+3:by girlfriend's feelings
+00031
+4:
+00032
+5:
+00033
+Return
+00034
+random=＆gt;Default behaviour
+00035
+random=＆gt;0固定
+00036
+random=＆gt;1固定
+00037
+random=＆gt;2固定
+00038
+random=＆gt;3固定
+00039
+random=＆gt;4固定
+00040
+Set up
+00041
+Set to innocent
+00042
+Set to not innocent
+00043
+Feeling:Set to low
+00044
+Feeling:Set to normal
+00045
+Feeling:Set to high
+00046
+▲OPTION5▲
+00047
+▲OPTION6▲
+00048
+Next
+00049
+Italian restaurant
+00050
+Restaurant
+00051
+Girlfriend's house
+00052
+Curry shop
+00053
+Cake buffet
+00054
+Chani store/WB
+00055
+Chain store/Coffee shop
+00056
+Chain store/Dixies
+00057
+Chain store/Dixies competitor
+00058
+Ramen shop
+00059
+Restaurant
+00060
+Beach
+00061
+School meal
+00062
+Coffee shop
+00063
+Lakeside restaurant
+00064
+Hero's house/Normal
+00065
+Hero's house/See a Doctor
+00066
+Handmade bento
+00067
+Sushi shop
+00068
+Store
+00069
+Yakiniku store
+00070
+Chinese restaurant
+00071
+Japanese sweet shop
+00072
+Morning
+00073
+Renge
+00074
+One hand:Zenbu-mochi
+00075
+百の位 000
+00076
+百の位 100
+00077
+百の位 200
+00078
+百の位 300
+00079
+百の位 400
+00080
+百の位 500
+00081
+百の位 600
+00082
+百の位 700
+00083
+百の位 800
+00084
+百の位 900
+00085
+十の位 00
+00086
+十の位 10
+00087
+十の位 20
+00088
+十の位 30
+00089
+十の位 40
+00090
+十の位 50
+00091
+十の位 60
+00092
+十の位 70
+00093
+十の位 80
+00094
+十の位 90
+00095
+一の位 0
+00096
+一の位 1
+00097
+一の位 2
+00098
+一の位 3
+00099
+一の位 4
+00100
+一の位 5
+00101
+一の位 6
+00102
+一の位 7
+00103
+一の位 8
+00104
+一の位 9
+00105
+Once again
+00106
+Stop

@@ -1,0 +1,88 @@
+00000
+○○○○○○○○
+00001
+Ah, I just remembered. ◙Your birthday is coming up ◙▲MANAKA▲.
+00002
+What should I buy as a ◙present...？
+00003
+Ah, I remembered now. Your ◙birthday is next week ◙▲MANAKA▲.
+00004
+Your birthday is this week ◙▲MANAKA▲...
+00005
+I guess I'd better prepare ◙a present for her...
+00006
+Your birthday is tomorrow ◙▲MANAKA▲！
+00007
+I have to buy her a ◙present...
+00008
+Your birthday is today ◙▲MANAKA▲！
+00009
+I've got to hurry and buy ◙her a present...
+00010
+By the way, it'll be ◙White Day soon.
+00011
+What should I get for you ◙▲MANAKA▲...？
+00012
+By the way, White Day is ◙next week.
+00013
+Ah, White Day is this ◙week...
+00014
+What would be a good return ◙gift for you ◙▲MANAKA▲...？
+00015
+Ah！ Tomorrow is White Day！
+00016
+I have to get something ◙nice for you, ◙▲MANAKA▲...
+00017
+Ah！ Today is White Day！
+00018
+I must hurry and get ◙something for you ◙▲MANAKA▲...
+00019
+Christmas's atmosphere is ◙in the air.
+00020
+What should I get for you, ◙▲MANAKA▲...？
+00021
+It'll be Christmas next ◙week.
+00022
+It'll be Christmas this ◙week.
+00023
+I'd better get something ◙nice for you, right ◙▲MANAKA▲...？
+00024
+Ah！ Tomorrow is Christmas ◙Eve！
+00025
+I'll get something for you, ◙▲MANAKA▲...
+00026
+Ah！ Today is Christmas ◙Eve！
+00027
+I should hurry and get ◙something for you, ◙▲MANAKA▲...
+00028
+Ah, I remembered now. Our ◙anniversary is coming soon ◙▲MANAKA▲.
+00029
+I'd better prepare a ◙present for her...
+00030
+Ah, I remembered now. Our ◙anniversary is coming up ◙next week, ◙▲MANAKA▲.
+00031
+Ah！ Our anniversary is ◙coming up this week, ◙▲MANAKA▲.
+00032
+Ah！ Our anniversary is ◙tomorrow, ◙▲MANAKA▲！
+00033
+Our anniversary is today ◙▲MANAKA▲！
+00034
+Boutique
+00035
+Cosmetic Store
+00036
+Accessory Shop
+00037
+Should I buy a present ◙here...？
+00038
+▲OPTION1▲
+00039
+▲OPTION2▲
+00040
+▲OPTION3▲
+00041
+Don't buy
+00042
+Okay, I'll have this one. ◙Hopefully, you will like it ◙▲MANAKA▲ ...
+00043
+Hmm... I think I'll try ◙another shop. I'll come ◙to shop again next time.

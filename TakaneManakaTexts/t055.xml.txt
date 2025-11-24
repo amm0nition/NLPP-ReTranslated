@@ -1,0 +1,880 @@
+00000
+○○○○○○○○
+00001
+Oh, I can see ◙▲MANAKA▲...
+00002
+Yo！
+00003
+▲MANAKA▲！
+00004
+All right, the chop！
+00005
+Don't call out to her
+00006
+Manaka
+00007
+Huh？！
+00008
+Yes.
+00009
+Hiya！
+00010
+Kyaa...！ What？
+00011
+▲PLAYER▲.
+00012
+Yo, what's up？
+00013
+I'm about to go home...
+00014
+About to go home？
+00015
+Yeah. So, I need to get ◙going.
+00016
+I see. Sorry for stopping ◙you.
+00017
+No, don't worry. See you ◙later.
+00018
+(She's not as hard to ◙approach as everyone says, ◙eh...？)
+00019
+(Well, whatever. I'll get ◙going...)
+00020
+○○○○○○○○
+00021
+Well, I guess I'll go ◙home...
+00022
+▲MANAKA▲.
+00023
+Manaka
+00024
+......
+00025
+Yo！
+00026
+▲MANAKA▲！
+00027
+All right, the chop！
+00028
+Don't call out to her
+00029
+Huh？！
+00030
+Yes.
+00031
+Hiya！
+00032
+Kyaa...！ What？
+00033
+▲PLAYER▲.
+00034
+Yo, what's up？
+00035
+I was about to head home.
+00036
+I see. Then how about we ◙walk together？
+00037
+Um, I'm sorry...
+00038
+(It's no good...)
+00039
+(Well, whatever. I'll get ◙going...)
+00040
+○○○○○○○○
+00041
+(I just can't do it right. ◙What should I do...？)
+00042
+(Ah, there's ◙▲MANAKA▲.)
+00043
+Yo！
+00044
+▲MANAKA▲！
+00045
+All right, the chop！
+00046
+Don't call out to her
+00047
+Manaka
+00048
+Huh？！
+00049
+Yes.
+00050
+Hiya！
+00051
+Kyaa...！ What？
+00052
+▲PLAYER▲.
+00053
+Hey, I have something I'd ◙like you to teach me. Is ◙that okay？
+00054
+Eh？ You want me to？ ...Yes, ◙if you think I can help.
+00055
+Thank you. For example, ◙when I do it like this...
+00056
+That's it！ I understand it ◙now.
+00057
+I wonder if I was of any ◙help.
+00058
+Of course. Thanks！
+00059
+I'm glad. You're welcome.
+00060
+(You're such a nice person ◙▲MANAKA▲！)
+00061
+(I'll pass. I'll ask ◙someone else.)
+00062
+○○○○○○○○
+00063
+Phew, time for a break.
+00064
+(Everyone's still excited, ◙even during a break.)
+00065
+(Eh？ ▲MANAKA▲ ◙is spacing out alone ◙again.)
+00066
+Yo！
+00067
+▲MANAKA▲！
+00068
+All right, the chop！
+00069
+Don't call out to her
+00070
+Manaka
+00071
+Huh？！
+00072
+Yes.
+00073
+Hiya！
+00074
+Kyaa...！ What？
+00075
+▲PLAYER▲. Nice work ◙today.
+00076
+How's everything？
+00077
+For me... I guess it's the ◙same as usual.
+00078
+Ah, break time's over. See ◙you later.
+00079
+Okay, see you later.
+00080
+(It's time for a break. ◙I'd better rest a bit.)
+00081
+○○○○○○○○
+00082
+(Huh？ That's... Oh, it's ◙▲MANAKA▲.)
+00083
+Yo！
+00084
+▲MANAKA▲！
+00085
+All right, the chop！
+00086
+Don't call out to her
+00087
+Manaka
+00088
+Huh？！
+00089
+Yes.
+00090
+Hiya！
+00091
+Kyaa...！ What？
+00092
+Yo, what's up？
+00093
+▲PLAYER▲. I'm going ◙to the staff room for some ◙class business.
+00094
+I see, just as always. ◙Anything I can help with？
+00095
+Thanks. But I'm doing this ◙because I like it.
+00096
+Nah, just let me help. ◙Come on.
+00097
+Okay. Then I guess I'll ◙ask for your help.
+00098
+(Well, whatever. I'll get ◙going...)
+00099
+○○○○○○○○
+00100
+(Oh, ▲MANAKA▲ ◙is over there.)
+00101
+Yo！
+00102
+▲MANAKA▲！
+00103
+All right, the chop！
+00104
+Don't call out to her
+00105
+Manaka
+00106
+Huh？！
+00107
+Yes.
+00108
+Hiya！
+00109
+Kyaa...！ What？
+00110
+▲PLAYER▲.
+00111
+Ah, I have to go.
+00112
+Eh？ It's time already？
+00113
+Actually, I have to be in ◙the classroom before the ◙bell rings.
+00114
+I see. Sorry.
+00115
+Bye.
+00116
+(You're always serious, huh ◙▲MANAKA▲？)
+00117
+(Well, whatever. I'll get ◙going...)
+00118
+○○○○○○○○
+00119
+(Ah, it's ◙▲MANAKA▲.)
+00120
+What's up？
+00121
+Hey
+00122
+I'll give her a surprise！
+00123
+Don't call her
+00124
+What's up？
+00125
+Manaka
+00126
+Ah.
+00127
+Hey.
+00128
+Me？
+00129
+Hiya！
+00130
+Kyaa！
+00131
+...Hey.
+00132
+▲PLAYER▲.
+00133
+Well, don't you need to be ◙going？ I'm sorry that I ◙talked so much. I should ◙go now.
+00134
+Really？ Then see you.
+00135
+See you.
+00136
+(Well, whatever. I'll get ◙going...)
+00137
+○○○○○○○○
+00138
+I'm so bored. Is there ◙anything interesting...？
+00139
+Manaka
+00140
+▲PLAYER▲.
+00141
+...？
+00142
+What's up？
+00143
+Oh, ▲MANAKA▲！
+00144
+Take this！
+00145
+What's up？
+00146
+Hehe.
+00147
+Oh, ▲MANAKA▲！
+00148
+Yes.
+00149
+Take this！ Kyaa！
+00150
+Ah！ Oh no. I shouldn't make ◙Mama wait.
+00151
+I see. You should go then.
+00152
+Yeah, I'm sorry I took your ◙time here. See you.
+00153
+(It's rare for you to call ◙out for me, huh ◙▲MANAKA▲？)
+00154
+○○○○○○○○
+00155
+Hah... Finally, break ◙time...
+00156
+(Ah, I can see ◙▲MANAKA▲...)
+00157
+What's up？
+00158
+Hey
+00159
+I'll give her a surprise！
+00160
+Don't call her
+00161
+What's up？
+00162
+Manaka
+00163
+Ah.
+00164
+Hey.
+00165
+Me？
+00166
+Hiya！
+00167
+Kyaa！
+00168
+...Hey.
+00169
+What are you doing ◙▲MANAKA▲？
+00170
+Oh, I'm just picking up ◙these balls during break ◙time ▲PLAYER▲.
+00171
+I see. Well, I'll help you ◙then.
+00172
+Thank you... Then please ◙help me with this.
+00173
+(Whatever...)
+00174
+○○○○○○○○
+00175
+Oh, ▲MANAKA▲'s ◙rally is about to start.
+00176
+(She sure is good...)
+00177
+You're in top condition, ◙as usual right, ◙▲MANAKA▲？
+00178
+Manaka
+00179
+▲PLAYER▲. Thank you. ◙Um... did you notice ◙anything wrong when you ◙were watching me？ I mean, ◙my form, perhaps...
+00180
+I don't know
+00181
+You hit the balls too low！
+00182
+There's no problem at all！
+00183
+I don't know. You and I are ◙on different levels ◙▲MANAKA▲.
+00184
+Ah, is that so？ Maybe you ◙could tell me later if you ◙notice something.
+00185
+Ah, really？ Thank you. ◙I'll pay more attention ◙next time.
+00186
+There's no problem at all. ◙Don't worry too much！
+00187
+I guess I'm on my prime ◙condition today.
+00188
+(Don't tell me she wasn't ◙feeling very good about ◙it...)
+00189
+○○○○○○○○
+00190
+Ah, I don't understand what ◙to do with this homework...
+00191
+Ah, ▲MANAKA▲. ◙Good timing.
+00192
+What's up？
+00193
+Hey
+00194
+I'll give her a surprise！
+00195
+Don't call her
+00196
+What's up？
+00197
+Manaka
+00198
+Ah.
+00199
+Hey.
+00200
+Me？
+00201
+Hiya！
+00202
+Kyaa！
+00203
+...Hey.
+00204
+(It's okay... I'd better ◙ask others.)
+00205
+▲PLAYER▲.
+00206
+Ah, excuse me. I'm having ◙a problem with the ◙homework... I wonder if ◙you can help me with it.
+00207
+Ah, okay. Let's see if ◙there's anything I can do.
+00208
+Thank you！ Um, see here...
+00209
+You're right！ I understand ◙now. You really saved me！
+00210
+You're welcome. Hehe, I'm ◙glad.
+00211
+(You're getting easier to ◙talk to lately ◙▲MANAKA▲.)
+00212
+Manaka
+00213
+▲PLAYER▲.
+00214
+○○○○○○○○
+00215
+Hmm？
+00216
+What's up？
+00217
+Ah, ▲MANAKA▲.
+00218
+Take this！
+00219
+What's up？
+00220
+Hehe.
+00221
+Ah, ▲MANAKA▲.
+00222
+Yes.
+00223
+Take this！ Kyaa！
+00224
+How's it going？
+00225
+Well, Suzuki-sensei asked ◙me to do something, but I ◙don't think I can do it ◙alone...
+00226
+Ah, then I'll help. What ◙should we do？
+00227
+Thank you！ Well then...
+00228
+And that should be all.
+00229
+Thank you very much！ I'm ◙really sorry that you have ◙to help me like this.
+00230
+Don't mention it. I didn't ◙have anything to do anyway. ◙See you.
+00231
+Manaka
+00232
+▲PLAYER▲.
+00233
+○○○○○○○○
+00234
+Ah...
+00235
+What are you doing ◙▲MANAKA▲？
+00236
+I'm here to buy something. ◙How about you？
+00237
+I came to buy something, ◙too.
+00238
+Ah, sorry. I've kept you ◙occupied here.
+00239
+No, it's fine. It turned ◙out to be my lucky day ◙today.
+00240
+Eh？
+00241
+Nothing. I'll see you ◙later.
+00242
+(Lucky day...？)
+00243
+Manaka
+00244
+▲PLAYER▲.
+00245
+○○○○○○○○
+00246
+Ah...
+00247
+▲MANAKA▲.
+00248
+What are you doing？
+00249
+Um, I was just thinking of ◙you. It was a surprise ◙that you really appeared.
+00250
+No, it's okay. I was the ◙one who called out to you, ◙and...
+00251
+Hmm？
+00252
+Nothing. See you. Bye.
+00253
+(You looked really happy, ◙▲MANAKA▲.)
+00254
+Manaka
+00255
+▲PLAYER▲.
+00256
+○○○○○○○○
+00257
+Huh？ ▲MANAKA▲？
+00258
+It's really you.
+00259
+Eh？
+00260
+I thought that you looked ◙familiar. Hehe, I'm glad ◙that I chased after you.
+00261
+Ah, sorry. I've kept you ◙occupied here.
+00262
+No. I really had fun, so ◙it's okay. Bye.
+00263
+(She... had fun？)
+00264
+○○○○○○○○
+00265
+Yo！
+00266
+Hah！
+00267
+Hmm...
+00268
+Manaka
+00269
+▲PLAYER▲.
+00270
+Hmm？
+00271
+So you have been watching ◙▲MANAKA▲？
+00272
+Yeah. You're working hard. ◙How's everything？
+00273
+Well, not very good.
+00274
+Well then, how about we ◙practice together？
+00275
+Now I know how to move. ◙You're really good at ◙teaching the basics ◙▲MANAKA▲！
+00276
+Hehe. No, you're really ◙good at learning.
+00277
+(Yeah！ I'll try my best！)
+00278
+○○○○○○○○
+00279
+Captain Tezuka... is really ◙good...
+00280
+Manaka
+00281
+▲PLAYER▲.
+00282
+Yo, ▲MANAKA▲. ◙Captain Tezuka is so cool, ◙right？ I can't compare to ◙him at all.
+00283
+That's not the case. If ◙you ask me, I would say ◙that you are...
+00284
+Huh？
+00285
+Never mind.
+00286
+(What was that...？)
+00287
+○○○○○○○○
+00288
+Hiya！
+00289
+Oh no！
+00290
+Manaka
+00291
+Kyaa！
+00292
+I'm sorry！ ◙▲MANAKA▲！
+00293
+▲PLAYER▲.
+00294
+Sorry. My bad. Did you get ◙hurt？
+00295
+I'm okay. It didn't hit me. ◙It just surprised me.
+00296
+I see. That's good then.
+00297
+Ah, such a cruel comment. ◙Hehe.
+00298
+(You have become more ◙cheerful lately, ◙▲MANAKA▲...)
+00299
+○○○○○○○○
+00300
+Phew, finally done...
+00301
+Manaka
+00302
+▲PLAYER▲.
+00303
+Eh？ ▲MANAKA▲. ◙Do you need anything？
+00304
+No, I'm just wondering how ◙you're doing.
+00305
+I have to go. Somehow, I've ◙become quite talkative ◙lately.
+00306
+Haha, I see. Bye.
+00307
+○○○○○○○○
+00308
+Phew, finally done...
+00309
+Oh, is that ◙▲MANAKA▲？
+00310
+Manaka
+00311
+▲PLAYER▲.
+00312
+Why are you here？ Ah, is ◙it possible that you came ◙to see me？
+00313
+Yeah. I kind of wanted to ◙talk with you.
+00314
+Then, why didn't you come ◙inside？
+00315
+It would be embarrassing...
+00316
+I had fun. Can I come here ◙again？
+00317
+Yes, of course.
+00318
+○○○○○○○○
+00319
+Phew, finally done...
+00320
+Manaka
+00321
+Kyaa！
+00322
+Sorry！.. Eh？ ◙▲MANAKA▲？
+00323
+I have to say sorry too. ◙Hehe, now I'm here.
+00324
+Did you just run along the ◙corridor？
+00325
+A little bit. Our break ◙time is too short.
+00326
+Ah, I'll have to go. Don't ◙run down the corridor, ◙okay？
+00327
+Okay！
+00328
+She ran anyway...
+00329
+(You have become more ◙cheerful lately, ◙▲MANAKA▲...)
+00330
+Manaka
+00331
+What？
+00332
+○○○○○○○○
+00333
+Come on. No one's watching ◙now... Okay？
+00334
+What？ N-No. Not here...
+00335
+It's okay... Come on.
+00336
+Geez...
+00337
+Manaka
+00338
+W-What！？
+00339
+○○○○○○○○
+00340
+Come on. No one's watching ◙now... Okay？
+00341
+H-Here...？ But... people ◙will probably come...
+00342
+No？
+00343
+I didn't say no... You're ◙so naughty...
+00344
+○○○○○○○○
+00345
+Hey, ▲MANAKA▲...
+00346
+Manaka
+00347
+Huh？ What？
+00348
+Come on. No one's watching ◙now... Okay？
+00349
+What...？ You shouldn't... ◙Not in a place like this.
+00350
+Come on！
+00351
+Hehe... Geez...
+00352
+○○○○○○○○
+00353
+Huh？ What's that noise？
+00354
+Manaka
+00355
+Ahem... Okay, shall we go？
+00356
+Eh？
+00357
+Don't say "Eh？"
+00358
+Manaka
+00359
+Huh...
+00360
+○○○○○○○○
+00361
+Hah...
+00362
+No, it's so embarrassing...
+00363
+Manaka
+00364
+Okay, that's it. Someone ◙might see us...
+00365
+○○○○○○○○
+00366
+Don't mind, don't mind.
+00367
+I mind！
+00368
+Manaka
+00369
+What's wrong？
+00370
+○○○○○○○○
+00371
+Hmm... Somehow it's just ◙the two of us now...
+00372
+And？
+00373
+...Not good？
+00374
+Hey... You're so selfish.
+00375
+Manaka
+00376
+W-What's wrong？
+00377
+○○○○○○○○
+00378
+Hmm... Somehow it's just ◙the two of us now...
+00379
+Um... But, someone might ◙come...
+00380
+No one is coming！
+00381
+Then... Just a little bit, ◙okay？
+00382
+Manaka
+00383
+Huh？ What's wrong？
+00384
+○○○○○○○○
+00385
+Hmm... Somehow it's just ◙the two of us now...
+00386
+Really？ So？
+00387
+...Not good？
+00388
+Hey... You're so selfish！ ◙How about doing it before ◙someone comes？
+00389
+Manaka
+00390
+Ah！ See, someone is coming.
+00391
+○○○○○○○○
+00392
+Let's pretend we don't ◙see...
+00393
+Hey, don't get too carried ◙away！
+00394
+Manaka
+00395
+See？ Someone is coming, ◙right？
+00396
+○○○○○○○○
+00397
+It's probably your ◙imagination！
+00398
+No way！ That's it！
+00399
+Manaka
+00400
+See？ Someone is coming！
+00401
+○○○○○○○○
+00402
+Just a little bit！
+00403
+Let me go！
+00404
+Manaka
+00405
+What？
+00406
+○○○○○○○○
+00407
+See？ No one is watching, ◙right？
+00408
+Here, at school...？ We ◙shouldn't do this.
+00409
+It's not against school ◙regulations.
+00410
+But... It's not good.
+00411
+Manaka
+00412
+W-What's wrong？
+00413
+○○○○○○○○
+00414
+See？ No one is watching us.
+00415
+Here... You know we're at ◙school, right？
+00416
+Then we do it as students.
+00417
+Geez, I don't get you.
+00418
+Manaka
+00419
+Huh？ What's wrong？
+00420
+○○○○○○○○
+00421
+See？ No one is watching us.
+00422
+Don't tell me... You want ◙to do it here？
+00423
+...Not good？
+00424
+This is not good. What if ◙someone sees us...？
+00425
+Manaka
+00426
+I spoiled you again...
+00427
+○○○○○○○○
+00428
+I'm spoiled again！
+00429
+Geez, you idiot！
+00430
+Manaka
+00431
+We've done a bad thing.
+00432
+○○○○○○○○
+00433
+Nah...！
+00434
+Hey！
+00435
+Manaka
+00436
+Hey！ Doing this at school？ ◙Reflect on your actions！
+00437
+○○○○○○○○
+00438
+Y~e~s.
+00439
+Teehee▼

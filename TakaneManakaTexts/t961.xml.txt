@@ -1,0 +1,118 @@
+00000
+Friends and others
+00001
+Family
+00002
+Others
+00003
+Select from list
+00004
+【DEBUG】Registered face of ◙boyfriend
+00005
+▲FRIEND▲
+00006
+Pal
+00007
+Family
+00008
+Other
+00009
+Select from list
+00010
+【DEBUG】Registered face of ◙boyfriend
+00011
+▲FRIEND▲
+00012
+Celebrity
+00013
+Father
+00014
+Mother
+00015
+Big brother
+00016
+Big sister
+00017
+Lil' brother
+00018
+Lil' sister
+00019
+Son
+00020
+Daughter
+00021
+A Type
+00022
+B Type
+00023
+AB Type
+00024
+O Type
+00025
+Kind
+00026
+Cold
+00027
+Quiet
+00028
+Noisy
+00029
+Serious
+00030
+Interesting
+00031
+Nasty
+00032
+Sign Up
+00033
+Start Over
+00034
+○
+00035
+×
+00036
+For how long have you been ◙dating？
+00037
+What's your boyfriend's ◙favorite place？
+00038
+What has made you happy？
+00039
+What worries you？
+00040
+What are your hobbies？
+00041
+What is your favorite dish？
+00042
+How old are you？
+00043
+○
+00044
+×
+00045
+Nice to meet you
+00046
+Wrong
+00047
+A Type
+00048
+B Type
+00049
+O Type
+00050
+AB Type
+00051
+Passionate
+00052
+Rough
+00053
+Natural
+00054
+Careful
+00055
+Out
+00056
+Selfish
+00057
+Introduce to others
+00058
+End

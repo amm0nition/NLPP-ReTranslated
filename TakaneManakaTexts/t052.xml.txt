@@ -1,0 +1,264 @@
+00000
+Manaka
+00001
+Ah, hello.
+00002
+○○○○○○○○
+00003
+Hello. It's me. I was ◙wondering if you wanted ◙to meet me somewhere.
+00004
+Yes, I also want to see ◙you.
+00005
+Then let's meet at the ◙▲LOCATION▲.
+00006
+I'll be there right away. ◙I'll probably arrive ◙first, but you don't have ◙to hurry, all right...？
+00007
+Ah... Sorry, I can't go ◙now.
+00008
+Is that so？ I see. Then ◙talk to you later.
+00009
+Um, I'm really sorry....
+00010
+Manaka
+00011
+Hello.
+00012
+○○○○○○○○
+00013
+It's me. Want to meet up？
+00014
+I've... been wanting to ◙see you as well...
+00015
+Then let's meet at the ◙▲LOCATION▲.
+00016
+Well, then... I'll see ◙you later, okay？
+00017
+Now...？ Sorry, I have ◙something else to do.
+00018
+Is that so？ I see. Then, ◙talk to you later.
+00019
+I'm so sorry... Let's ◙meet up next time.
+00020
+Manaka
+00021
+Hello. What's up？
+00022
+○○○○○○○○
+00023
+Well, I want to see you ◙right now. Is it okay？
+00024
+Yes, of course.
+00025
+Then let's meet at the ◙▲LOCATION▲.
+00026
+Yes, I'm glad you said ◙you wanted to meet me... ◙Teehee...
+00027
+I can't... I can't go out ◙now.
+00028
+Huh, it's a shame. Talk to ◙you later then.
+00029
+I'm so sorry... Let's meet ◙next time.
+00030
+Manaka
+00031
+Hello？
+00032
+○○○○○○○○
+00033
+Hello. It's me. I was ◙wondering if you wanted ◙to meet me somewhere.
+00034
+Now...？ Yeah, it's fine.
+00035
+Then see you at the ◙▲LOCATION▲.
+00036
+Okay, got it. Well, talk ◙to you later.
+00037
+Ah... I can't go now.
+00038
+Is that so？ Then it can't ◙be helped.
+00039
+Yes, later.
+00040
+Manaka
+00041
+Hello？
+00042
+○○○○○○○○
+00043
+Well, I want to see you ◙right now. Is it okay？
+00044
+Let me see... Okay, fine.
+00045
+Then see you at the ◙▲LOCATION▲.
+00046
+Okay. Well, talk to you ◙later.
+00047
+I have something else to ◙do right now...
+00048
+Is that so？ Then it can't ◙be helped.
+00049
+Yes, sorry.
+00050
+Manaka
+00051
+Hello？ What's up？
+00052
+○○○○○○○○
+00053
+Well, I want to see you ◙right now. Is it okay？
+00054
+Hmm, that's... okay.
+00055
+Then see you at the ◙▲LOCATION▲.
+00056
+Got it. Talk to you later.
+00057
+I can't. I'm very busy ◙now.
+00058
+Is that so？ Then it can't ◙be helped.
+00059
+Yes, sorry.
+00060
+Manaka
+00061
+...Hello.
+00062
+○○○○○○○○
+00063
+Hello. It's me. I was ◙wondering if you wanted to ◙meet me somewhere.
+00064
+I don't want to see you, ◙though.
+00065
+Really！？
+00066
+Yes, so... I'm hanging up. ◙Bye.
+00067
+(She seemed to be in a ◙very bad mood...)
+00068
+Manaka
+00069
+Um... Hello.
+00070
+○○○○○○○○
+00071
+Well, I want to see you ◙right now. Is it okay？
+00072
+No, I don't want to meet ◙you.
+00073
+Really！？
+00074
+Yes. Bye, I'm hanging up.
+00075
+(She seemed to be in a ◙very bad mood...)
+00076
+Manaka
+00077
+Yes？
+00078
+○○○○○○○○
+00079
+Well, I want to see you ◙right now. Is it okay？
+00080
+I don't want to meet you.
+00081
+What！？ Why！？
+00082
+I just don't want to meet ◙you. That's it. I'll hang ◙up.
+00083
+(She seemed to be in a ◙very bad mood...)
+00084
+○○○○○○○○
+00085
+Hello？
+00086
+Manaka
+00087
+Hello, this is Manaka. ◙Do you want to meet ◙somewhere right now？
+00088
+Now, huh...？
+00089
+Okay, that sounds good.
+00090
+Let's schedule a time.
+00091
+I'm sorry...
+00092
+All right. I'll see you at ◙the ▲LOCATION▲ then. ◙I'll hurry there.
+00093
+You don't have to hurry... ◙No, you should... ◙I really want to see you ◙soon.
+00094
+Haha. Roger that.
+00095
+Yes, that's fine.
+00096
+Then at ▲TIME▲, ◙I'll see you at the ◙▲LOCATION▲ then.
+00097
+Sorry, I can't go now...
+00098
+Is that so...？ It can't ◙be helped.
+00099
+Um, see you.
+00100
+○○○○○○○○
+00101
+Hello？
+00102
+Manaka
+00103
+Hello. Emm, it's me... ◙Manaka. Do you want to ◙meet somewhere right now？
+00104
+Now, huh...？
+00105
+Okay, that sounds good
+00106
+Let's schedule a time
+00107
+I'm sorry...
+00108
+All right. I'll see you at ◙▲LOCATION▲ then.
+00109
+Sorry that I want to meet ◙you all of a sudden.
+00110
+It's okay. I'll see you ◙there.
+00111
+Yes, that's fine.
+00112
+Then at ▲TIME▲, ◙I'll see you at ◙▲LOCATION▲ then.
+00113
+Sorry, I can't go now...
+00114
+Is that so...？ Sorry for ◙asking you all of a sudden.
+00115
+Um, see you.
+00116
+○○○○○○○○
+00117
+Hello？
+00118
+Manaka
+00119
+Yo！ It's Manaka. I want ◙to hang out with you. ◙Are you busy？
+00120
+Now, huh...？
+00121
+Okay, that sounds good.
+00122
+Let's schedule a time.
+00123
+I'm sorry...
+00124
+All right. I'll see you at ◙the ▲LOCATION▲ then.
+00125
+Hehe, yay！ See you later.
+00126
+Okay, later.
+00127
+Yes, that's fine.
+00128
+Then at ▲TIME▲, ◙I'll see you at the ◙▲LOCATION▲ then.
+00129
+Sorry, I can't go now...
+00130
+Is that so...？ Yeah, I ◙know, it was sudden.
+00131
+Um, see you.

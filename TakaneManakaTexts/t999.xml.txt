@@ -1,0 +1,160 @@
+00000
+Manaka
+00001
+Waiting expression check...
+00002
+Waiting....
+00003
+Normal
+00004
+Laugh
+00005
+Anger 1
+00006
+Anger 2
+00007
+Sad
+00008
+Entertained
+00009
+Surprised
+00010
+Troubled
+00011
+Fidgety
+00012
+Excited
+00013
+Laughing face
+00014
+Angry face
+00015
+Embarrassed 1
+00016
+Embarrassed 2
+00017
+Surprised
+00018
+Funny face
+00019
+Fidgety face
+00020
+Shocked
+00021
+Troubled laugh
+00022
+Smiling face
+00023
+Kissing face
+00024
+Kissing face with blink
+00025
+Kiss with half-closed eyes
+00026
+Kiss face, blinking, long
+00027
+Kiss sometimes blinking
+00028
+Kiss with closed eyes
+00029
+Normal closed
+00030
+Troubled closed
+00031
+Angry closed
+00032
+Excited closed
+00033
+Embarrassed closed
+00034
+Wink
+00035
+Shy wink
+00036
+Smiling
+00037
+Angry face 2
+00038
+Happy cheek
+00039
+Troubled smile
+00040
+Kissing face
+00041
+Sideways sitting
+00042
+Sideways normal
+00043
+Sideways sad
+00044
+Sideways excited
+00045
+Sideways surprised
+00046
+Sideways laughing
+00047
+Sideways trouble
+00048
+Embarrassed
+00049
+That's all.
+00050
+Rinko
+00051
+The day has finally come ◙for Rinko and her friends ◙to conquer the world！
+00052
+Nene
+00053
+First, we'll use Japan as ◙a foothold.
+00054
+Manaka
+00055
+We only speak Japanese, but ◙I think this will be ◙alright...
+00056
+My only worry is, if this ◙will spur the declining ◙birthrate.
+00057
+Yeah... Maybe I'm a little ◙worried about it too...
+00058
+But！ You know what will ◙happen if you cheat, ◙right？
+00059
+I wish many people could ◙play with me... I'm kidding.
+00060
+Rinko and her friends are ◙the heroines.
+00061
+It's rumored that Konami's ◙sales people are very good.
+00062
+3人
+00063
+Thank you very much！
+00064
+Manaka
+00065
+The Mikan-strawberry ◙coffee looks so beautiful.
+00066
+○○○○○○○○
+00067
+Hey...
+00068
+▲MANAKA▲.
+00069
+What's wrong？
+00070
+You know, I won the trip ◙to Atami again.
+00071
+Really？　That's amazing...
+00072
+Yes, that's why I'd like ◙to ask: Would you like to ◙go with me again？
+00073
+...Yes. I want to go again.
+00074
+I see, I'm glad.
+00075
+When should we go？
+00076
+Hmm, that's a good point...
+00077
+Then, let's go two days ◙and one night from ◙▲MONTH▲▲DAY▲！
+00078
+Yup！
+00079
+(Nice, I will go on a trip ◙with ▲MANAKA▲！)

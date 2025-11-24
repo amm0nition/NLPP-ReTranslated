@@ -1,0 +1,24 @@
+00000
+Invite today
+00001
+Invite on weekend
+00002
+Yes, now it's okay
+00003
+Hmm... I don't think it's ◙convenient
+00004
+Invite today
+00005
+Invite on weekend
+00006
+Yes, now it's okay
+00007
+Hmm... I don't think it's ◙convenient
+00008
+Invite today
+00009
+Invite on weekend
+00010
+Yes, now it's okay
+00011
+Hmm... I don't think it's ◙convenient

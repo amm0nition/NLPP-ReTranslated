@@ -1,0 +1,312 @@
+00000
+Manaka
+00001
+Hey, you turned off power ◙without saving, didn't ◙you？ That's not good.
+00002
+Manaka
+00003
+Did you turn off power ◙without saving again？ ◙Since you broke the rule, ◙you need to be punished.
+00004
+Manaka
+00005
+But if you say "Manaka ◙Gomennasai" (I'm sorry, ◙Manaka.), I'll forgive you.
+00006
+Manaka
+00007
+Keeping me waiting won't ◙make the situation better, ◙okay？
+00008
+Manaka
+00009
+Say "Manaka Gomennasai." ◙(I'm sorry, Manaka...)
+00010
+Manaka
+00011
+That's not right... Say it ◙again.
+00012
+Manaka
+00013
+You did say it properly. ◙I'll forgive you this ◙time.
+00014
+Manaka
+00015
+But, next time you have to ◙keep the rule and save ◙before turning off the ◙power, okay？
+00016
+Manaka
+00017
+You didn't say it... ◙Then as I said before, ◙you'll be punished.
+00018
+Manaka
+00019
+Huh？ Did you turn off ◙power without saving？ ◙So, you're the kind of ◙person who likes to do ◙that...
+00020
+Manaka
+00021
+Ah... Did you turn off ◙power without saving？ ◙That's sad...
+00022
+Manaka
+00023
+Don't tell me you turned ◙off power without saving. ◙I was surprised you did ◙that kind of thing...
+00024
+Manaka
+00025
+Did you turn off power ◙without saving again...？ ◙I really misjudged you.
+00026
+Manaka
+00027
+Huh... again？ Turning off ◙power without saving is ◙not good, you know？
+00028
+Manaka
+00029
+Don't tell me you turned ◙off power without saving. ◙Gotta do it properly！
+00030
+Manaka
+00031
+Seems like you turned off ◙power without saving... ◙I can't let you go like ◙this.
+00032
+Manaka
+00033
+I forgave you last time... ◙but people who turn off ◙power without saving must ◙be punished.
+00034
+Manaka
+00035
+I've told you that turning ◙off power without saving ◙is not good. I shouldn't ◙forgive you this time, ◙right？
+00036
+Manaka
+00037
+If you don't say "Suki, ◙Suki, Daisuki," (I love ◙you, love you, love you.) ◙I won't meet you.
+00038
+Manaka
+00039
+Hey, can you say "Suki, ◙Suki, Daisuki" (I love ◙you, love you, love you.)？ ◙If you don't, I won't ◙meet you.
+00040
+Manaka
+00041
+Can you say "Suki, Suki, ◙Daisuki" (I love you, love ◙you, love you.)？ If not, I ◙won't meet you.
+00042
+Manaka
+00043
+Hey, not yet？
+00044
+Manaka
+00045
+Hey, I'm waiting.
+00046
+Manaka
+00047
+Hurry up and say it, okay？
+00048
+Manaka
+00049
+It's "Suki, Suki, Daisuki" ◙You already heard, right？
+00050
+Manaka
+00051
+Say it again. "Suki, Suki, ◙Daisuki." Hey, I beg you.
+00052
+Manaka
+00053
+"Suki, Suki, Daisuki." Can ◙you remember it？
+00054
+Manaka
+00055
+That's not right... One ◙more time.
+00056
+Manaka
+00057
+Not like that. Hey, one ◙more time.
+00058
+Manaka
+00059
+Not good. One more time.
+00060
+Manaka
+00061
+Hey... Say it properly.
+00062
+Manaka
+00063
+Hey... Say it properly.
+00064
+Manaka
+00065
+Hey... Say it properly.
+00066
+Manaka
+00067
+Yes, you pass.
+00068
+Manaka
+00069
+Hehe, nicely said.
+00070
+Manaka
+00071
+Right, that's good enough.
+00072
+Manaka
+00073
+Don't do this ever again, ◙okay？ ...Promise me.
+00074
+Manaka
+00075
+I beg you. This will be ◙the last time, okay？
+00076
+Manaka
+00077
+Enough. This time will be ◙the last time.
+00078
+Manaka
+00079
+...Enough...
+00080
+Manaka
+00081
+If you keep this attitude, ◙I won't be able to forgive ◙you.
+00082
+Manaka
+00083
+Enough！ ...Idiot.
+00084
+Manaka
+00085
+How many times did you ◙turn the power off without ◙saving？ I'm pretty shocked.
+00086
+Manaka
+00087
+Why do you keep turning ◙the power off without ◙saving？ Was it because of ◙something I did？
+00088
+Manaka
+00089
+...Idiot. How many times ◙do I have to warn you？ ◙Don't turn the power off ◙without saving.
+00090
+Manaka
+00091
+If you want me to forgive ◙you... say "Kimi wo ◙ichiban aishiteru" (I love ◙you the most.) now.
+00092
+Manaka
+00093
+Can you say "Kimi wo ◙ichiban aishiteru" (I love ◙you the most.)？ If you do, ◙I'll forgive you...
+00094
+Manaka
+00095
+If you don't say "Kimi wo ◙ichiban aishiteru," ◙(I love you the most.) ◙I won't forgive you.
+00096
+Manaka
+00097
+Say it...
+00098
+Manaka
+00099
+Say it... Will you？
+00100
+Manaka
+00101
+Say it！
+00102
+Manaka
+00103
+I can't hear you. Say it.
+00104
+Manaka
+00105
+Hey, can you say it？ ◙Please.
+00106
+Manaka
+00107
+I can't hear you！ Say it.
+00108
+Manaka
+00109
+Then you won't say it for ◙me...？
+00110
+Manaka
+00111
+Then... You won't say it ◙for me...？
+00112
+Manaka
+00113
+I see. You won't say it, ◙huh？
+00114
+Manaka
+00115
+Really...？
+00116
+Manaka
+00117
+Really？ Well, it's okay ◙then...
+00118
+Manaka
+00119
+Hehe... Then it's okay.
+00120
+Manaka
+00121
+Next, say "Aishiteru" ◙(I love you.) 3 times.
+00122
+Manaka
+00123
+Now, I want you to say ◙"Aishiteru" (I love you.) ◙3 times.
+00124
+Manaka
+00125
+Next. This time, say ◙"Aishiteru" (I love you.) ◙3 times.
+00126
+Manaka
+00127
+Please...
+00128
+Manaka
+00129
+Please...
+00130
+Manaka
+00131
+Please！ ...Okay？
+00132
+Manaka
+00133
+Not like that...
+00134
+Manaka
+00135
+It's not like that...
+00136
+Manaka
+00137
+No, I said it's not like ◙that.
+00138
+Manaka
+00139
+Yes, me too...
+00140
+Manaka
+00141
+Yes... I do, too...
+00142
+Manaka
+00143
+Of course, me too...
+00144
+Manaka
+00145
+Don't do that again. ◙Please preserve our ◙memories together, okay？
+00146
+Manaka
+00147
+Thank goodness... Don't ◙do that again, okay？ Our ◙memories... Please don't ◙delete them, okay？
+00148
+Manaka
+00149
+Never do that again, okay？ ◙Don't let everything I did ◙for you vanish like that.
+00150
+Manaka
+00151
+I think I overestimated ◙you...
+00152
+Manaka
+00153
+I'm so sad. You did this ◙to me...
+00154
+Manaka
+00155
+...What an idiot. I really ◙thought I could trust you.

@@ -1,0 +1,822 @@
+00000
+Manaka
+00001
+Okay, let's go there.
+00002
+○○○○○○○○
+00003
+Sure, let's go！
+00004
+Manaka
+00005
+Do you want to go to ◙another place？
+00006
+○○○○○○○○
+00007
+Yup, let's go.
+00008
+Manaka
+00009
+Hey, hey, isn't it time to ◙start our date？
+00010
+○○○○○○○○
+00011
+You're right, let's go.
+00012
+Manaka
+00013
+Hey, should we go to our ◙date spot？
+00014
+○○○○○○○○
+00015
+Yes, let's.
+00016
+Manaka
+00017
+Emm, for today...
+00018
+○○○○○○○○
+00019
+Yeah, this looks nice. ◙Let's go.
+00020
+Manaka
+00021
+Ah, it's time.
+00022
+○○○○○○○○
+00023
+Yeah, let's move.
+00024
+Manaka
+00025
+Hey, let's go already.
+00026
+○○○○○○○○
+00027
+Uh... Sure.
+00028
+Manaka
+00029
+I'm ready.
+00030
+○○○○○○○○
+00031
+I see... Let's go.
+00032
+Manaka
+00033
+...What's wrong？ Don't you ◙want to go？
+00034
+○○○○○○○○
+00035
+Yes, you're right. Sorry.
+00036
+Manaka
+00037
+Okay, it's right here.
+00038
+○○○○○○○○
+00039
+Yup. We finally arrived.
+00040
+Manaka
+00041
+Okay, we arrived.
+00042
+○○○○○○○○
+00043
+Great.
+00044
+Manaka
+00045
+Did I arrive here first？ ◙Did I beat you？
+00046
+○○○○○○○○
+00047
+Haha. Yes, you did.
+00048
+Manaka
+00049
+Okay, we arrived.
+00050
+○○○○○○○○
+00051
+Alright.
+00052
+Manaka
+00053
+Yes, we finally arrived.
+00054
+○○○○○○○○
+00055
+Yup.
+00056
+Manaka
+00057
+Alright, we arrived.
+00058
+○○○○○○○○
+00059
+Yeah.
+00060
+Manaka
+00061
+...It's right here.
+00062
+○○○○○○○○
+00063
+Indeed it is.
+00064
+Manaka
+00065
+I'm getting a little ◙tired...
+00066
+○○○○○○○○
+00067
+It's alright, we've ◙arrived.
+00068
+Manaka
+00069
+Hey, haven't we arrived ◙yet？
+00070
+○○○○○○○○
+00071
+Ah, it's true... Sorry.
+00072
+Manaka
+00073
+...Our date has almost run ◙out of time.
+00074
+○○○○○○○○
+00075
+Yes, it's time to go home.
+00076
+Manaka
+00077
+I don't want to say it... ◙But, look at the clock.
+00078
+○○○○○○○○
+00079
+Ah, it's late. We have to ◙go back home.
+00080
+Manaka
+00081
+...Our date time has ◙already passed.
+00082
+○○○○○○○○
+00083
+I see. I guess we can't ◙do anything now.
+00084
+Manaka
+00085
+Is it almost the end of ◙the day？
+00086
+○○○○○○○○
+00087
+Yeah, we have to go back ◙home.
+00088
+Manaka
+00089
+We're going to be late.
+00090
+○○○○○○○○
+00091
+I see. It's time to go ◙home.
+00092
+Manaka
+00093
+I want to stay a little ◙longer, but I have to go ◙home.
+00094
+○○○○○○○○
+00095
+That's right. Let's go.
+00096
+Manaka
+00097
+Sorry, it's time to go ◙home.
+00098
+○○○○○○○○
+00099
+Yup. Let's go.
+00100
+Manaka
+00101
+Any more, and Papa will get ◙angry.
+00102
+○○○○○○○○
+00103
+You're right, we should go.
+00104
+Manaka
+00105
+Oh no, we ran out of time！
+00106
+○○○○○○○○
+00107
+Sorry. Let's go home.
+00108
+○○○○○○○○
+00109
+Where are we going today？
+00110
+Manaka
+00111
+I'm looking forward for ◙where you'll take me.
+00112
+○○○○○○○○
+00113
+Want to pick where to go ◙next？
+00114
+Manaka
+00115
+Lemme see... Yes, please.
+00116
+Manaka
+00117
+I want you to take me to ◙a funny place.
+00118
+○○○○○○○○
+00119
+Okay, then...
+00120
+Manaka
+00121
+I get lost easily. Hey, ◙where do you want to go？
+00122
+○○○○○○○○
+00123
+I want...
+00124
+Manaka
+00125
+I'm sorry, I can't decide.
+00126
+○○○○○○○○
+00127
+Well then...
+00128
+Manaka
+00129
+Do you want to choose where ◙to go ▲PLAYER▲？
+00130
+○○○○○○○○
+00131
+Yes.
+00132
+Manaka
+00133
+Haven't you decided where ◙we should go？
+00134
+○○○○○○○○
+00135
+Well...
+00136
+Manaka
+00137
+Can I stay here forever？
+00138
+○○○○○○○○
+00139
+Yes. I don't want you to ◙go...
+00140
+Manaka
+00141
+I will follow you ◙anywhere...
+00142
+○○○○○○○○
+00143
+Okay, I'll pick a place.
+00144
+Manaka
+00145
+This is getting fun. What ◙do you want to do next？
+00146
+○○○○○○○○
+00147
+Then...
+00148
+Manaka
+00149
+It was fun. What are we ◙doing next？
+00150
+○○○○○○○○
+00151
+Yup. Next is...
+00152
+Manaka
+00153
+I knew it, it was more fun ◙together. What do you want ◙to do after this？
+00154
+○○○○○○○○
+00155
+Well then...
+00156
+Manaka
+00157
+Is it time to change ◙places？
+00158
+○○○○○○○○
+00159
+Yeah, let's go.
+00160
+Manaka
+00161
+What should we do after ◙this？
+00162
+○○○○○○○○
+00163
+Okay, let's go to another ◙place.
+00164
+Manaka
+00165
+Hey, do you want to go ◙here？
+00166
+○○○○○○○○
+00167
+Okay, let's go.
+00168
+Manaka
+00169
+Well, right here is... ◙Do you want me to say it？
+00170
+○○○○○○○○
+00171
+Alright. Leave it to me.
+00172
+Manaka
+00173
+Which movie is good... ◙Do you have any ◙recommendations？
+00174
+○○○○○○○○
+00175
+Yes, I think...
+00176
+Manaka
+00177
+Hey, which one do you ◙recommend？ Want to go？
+00178
+○○○○○○○○
+00179
+Okay, let's go...
+00180
+Manaka
+00181
+You can decide for us.
+00182
+○○○○○○○○
+00183
+Alright, then...
+00184
+Manaka
+00185
+What do you want to watch？ ◙I'll go with you.
+00186
+○○○○○○○○
+00187
+Really？ If so...
+00188
+Manaka
+00189
+Emm... I can't decide. ◙Baton pass.
+00190
+○○○○○○○○
+00191
+Alright, challenge ◙accepted.
+00192
+Manaka
+00193
+Which one do you want to ◙see？
+00194
+○○○○○○○○
+00195
+I want...
+00196
+Manaka
+00197
+It's alright, please ◙choose what'd you like.
+00198
+○○○○○○○○
+00199
+Okay, then...
+00200
+Manaka
+00201
+Anything is fine. Please, ◙choose.
+00202
+○○○○○○○○
+00203
+Alright...
+00204
+Manaka
+00205
+Do you still have time？ ◙I was wondering if we ◙could watch another.
+00206
+○○○○○○○○
+00207
+Agreed. Let's do it！
+00208
+Manaka
+00209
+It was really good. I'm ◙also interested in others ◙movies as well.
+00210
+○○○○○○○○
+00211
+I see. Do you want to ◙watch another one？
+00212
+Manaka
+00213
+I have a suggestion. Want ◙to do a movie day today？
+00214
+○○○○○○○○
+00215
+Yeah, let's see another ◙one！
+00216
+Manaka
+00217
+I'm not worrying about ◙anything else. Why don't ◙we just watch another one？
+00218
+○○○○○○○○
+00219
+Okay, let's do that.
+00220
+Manaka
+00221
+I want to see another one. ◙I hope you still have some ◙time.
+00222
+○○○○○○○○
+00223
+Of course, I feel like ◙watching other...
+00224
+Manaka
+00225
+I feel like it's not ◙enough. Do you want to ◙watch another movie？
+00226
+○○○○○○○○
+00227
+Yeah, I felt it too. What ◙do you want to watch？
+00228
+Manaka
+00229
+Yeah, I agree.
+00230
+Manaka
+00231
+Yes, that was good.
+00232
+Manaka
+00233
+Hehe, we're matching. ◙I like that too.
+00234
+Manaka
+00235
+Yeah. Do you want to go ◙there？
+00236
+Manaka
+00237
+I'm fine going there.
+00238
+Manaka
+00239
+Yeah, maybe.
+00240
+Manaka
+00241
+I wonder if that place ◙it's fun.
+00242
+Manaka
+00243
+Right there？ ...Yeah, you ◙won't know unless you go.
+00244
+Manaka
+00245
+Why over there？ ◙...Well, it's fine.
+00246
+Manaka
+00247
+Hey, do you know of a ◙good place around here for ◙lunch？
+00248
+○○○○○○○○
+00249
+Oh, your timing was good. ◙I was getting hungry.
+00250
+Manaka
+00251
+It's about lunch time... ◙Ah, I'm hungry... ◙Well, just a little.
+00252
+○○○○○○○○
+00253
+Haha, let's go eat ◙something.
+00254
+Manaka
+00255
+Hey, are you hungry？ ◙I might feel a bit ◙peckish.
+00256
+○○○○○○○○
+00257
+Okay, let's sate that ◙hunger.
+00258
+Manaka
+00259
+I want to have lunch...
+00260
+○○○○○○○○
+00261
+Is that time already？ ◙Okay, let's go have some ◙lunch.
+00262
+Manaka
+00263
+▲PLAYER▲. Aren't ◙you hungry？
+00264
+○○○○○○○○
+00265
+Ah, it's almost lunch time. ◙Let's go grab some food.
+00266
+Manaka
+00267
+Hey, didn't you forget ◙about something？ It's time.
+00268
+○○○○○○○○
+00269
+Ah, it's lunch time. ◙I'm sorry, let's go.
+00270
+Manaka
+00271
+Aren't you thirsty？ ◙Let's take a break around ◙here and have some tea.
+00272
+○○○○○○○○
+00273
+Oh, that sounds nice. ◙Let's go.
+00274
+Manaka
+00275
+I want to take our time ◙while we're talking...
+00276
+○○○○○○○○
+00277
+Do you want to have some ◙tea？
+00278
+Manaka
+00279
+Hey, why don't we take a ◙break while having some ◙tea？
+00280
+○○○○○○○○
+00281
+Agreed. Let's find a seat.
+00282
+Manaka
+00283
+Is it time for tea？
+00284
+○○○○○○○○
+00285
+Yeah, let's have some.
+00286
+Manaka
+00287
+Sorry, my legs are getting ◙a little tired.
+00288
+○○○○○○○○
+00289
+Do you want to have a ◙break with some tea？
+00290
+Manaka
+00291
+I want to take a break. ◙Can we rest a little？
+00292
+○○○○○○○○
+00293
+Sure. Let's have some tea.
+00294
+Manaka
+00295
+Can I have dinner with ◙you tonight？
+00296
+○○○○○○○○
+00297
+Sure, I'd like to.
+00298
+Manaka
+00299
+It's almost time to eat... ◙I want to eat together.
+00300
+○○○○○○○○
+00301
+Okay, let's grab some ◙food.
+00302
+Manaka
+00303
+We'll have dinner together ◙after this... right？
+00304
+○○○○○○○○
+00305
+Of course. Let's go now！
+00306
+Manaka
+00307
+Hey, aren't you feeling a ◙bit hungry？ I'm a little ◙hungry.
+00308
+○○○○○○○○
+00309
+Me too. Then, let's go ◙somewhere to eat.
+00310
+Manaka
+00311
+It's about time to eat. ◙I'm feeling a little ◙hungry. What about you？
+00312
+○○○○○○○○
+00313
+Me too. Let's decide where ◙to eat.
+00314
+Manaka
+00315
+I still have time to eat ◙before going home.
+00316
+○○○○○○○○
+00317
+Alright, next time let's ◙have dinner together.
+00318
+Manaka
+00319
+We arrived. Hurry up, ◙hurry up！
+00320
+Manaka
+00321
+We arrived. Have you ◙decided what to order ◙first？
+00322
+Manaka
+00323
+I'm so hungry. Everything ◙looks so delicious.
+00324
+Manaka
+00325
+Okay, open wide... ◙I'm kidding.
+00326
+Manaka
+00327
+Is there any seats ◙available？
+00328
+Manaka
+00329
+Should I try a different ◙menu？
+00330
+Manaka
+00331
+...Are you really going ◙home now？
+00332
+Manaka
+00333
+I said I might be late ◙today...
+00334
+Manaka
+00335
+Are you really going back ◙home？ Don't you want to ◙be with me a little more？
+00336
+Manaka
+00337
+More... I want to be with ◙you more. Can't I？
+00338
+○○○○○○○○
+00339
+Yes, I also want to be ◙with you.
+00340
+Manaka
+00341
+I don't want to go home ◙yet...
+00342
+○○○○○○○○
+00343
+Me neither. Let's continue ◙our date.
+00344
+Manaka
+00345
+Is our date over？
+00346
+○○○○○○○○
+00347
+No, of course not.
+00348
+○○○○○○○○
+00349
+Can we continue with our ◙date？
+00350
+Manaka
+00351
+Of course. I'll follow you ◙anywhere.
+00352
+Okay, let's go...
+00353
+○○○○○○○○
+00354
+Okay, let's have some more ◙fun.
+00355
+Manaka
+00356
+Hehe, yay！
+00357
+Then...
+00358
+○○○○○○○○
+00359
+I still have some free ◙time. If its okay to you, ◙▲MANAKA▲...
+00360
+Manaka
+00361
+Thank you, let's play a ◙little more.
+00362
+I wonder where should we ◙go...
+00363
+○○○○○○○○
+00364
+You're right, but...
+00365
+Manaka
+00366
+I see... Then it's okay.
+00367
+○○○○○○○○
+00368
+Emm... that might be...
+00369
+Manaka
+00370
+Okay, let's go back home.
+00371
+○○○○○○○○
+00372
+It's getting late, let's ◙go home.
+00373
+Manaka
+00374
+...Meanie.
+00375
+Manaka
+00376
+Yeah, I'd like that too.
+00377
+○○○○○○○○
+00378
+Well then, let's go.
+00379
+Manaka
+00380
+Yup, no objection ◙whatsoever... I'm kidding.
+00381
+○○○○○○○○
+00382
+Okay then, let's go.
+00383
+Manaka
+00384
+Yup, let's go.
+00385
+○○○○○○○○
+00386
+Haha, you're so eager.
+00387
+Manaka
+00388
+We're going to far now, ◙at this hour...
+00389
+○○○○○○○○
+00390
+I'm sorry, I didn't think ◙about the distance.
+00391
+Manaka
+00392
+Hey, that takes some time ◙to reach.
+00393
+○○○○○○○○
+00394
+You're right, we might be ◙late.
+00395
+Manaka
+00396
+If you want to go that ◙far, maybe I should try ◙doing my best too.
+00397
+○○○○○○○○
+00398
+Oh, you're right. It's a ◙little too far.
+00399
+Manaka
+00400
+Over there... I'm sorry, ◙but I think we should head ◙home.
+00401
+○○○○○○○○
+00402
+Oh, I'm sorry. You're ◙right.
+00403
+Manaka
+00404
+That's enough for today.
+00405
+○○○○○○○○
+00406
+You're right. Let's go ◙home.
+00407
+Manaka
+00408
+Hmm. I'm sorry, I think we ◙shouldn't go that far.
+00409
+○○○○○○○○
+00410
+...I understand. Let's head ◙back home for today...

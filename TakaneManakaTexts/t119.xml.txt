@@ -1,0 +1,460 @@
+00000
+Manaka
+00001
+I heard that many people ◙prefer to have just bread ◙for breakfast. Even in the ◙club, some members prefer ◙bread.
+00002
+○○○○○○○○
+00003
+I've been hearing the same ◙thing. Maybe it's true.
+00004
+Which one do you like？ ◙Bread or rice.
+00005
+Me？ Well, for breakfast I ◙like...
+00006
+Rice
+00007
+Bread
+00008
+○○○○○○○○
+00009
+I prefer rice in the ◙mornings. You have to eat ◙well to start the day ◙full of energy.
+00010
+Manaka
+00011
+I see. Do you wake up in ◙the mornings to prepare ◙breakfast？
+00012
+Yeah, I get up early...
+00013
+Can I make breakfast for ◙you？ I'm kidding.
+00014
+○○○○○○○○
+00015
+For me, some bread does ◙the trick. It's easy to ◙have, because I have no ◙time in the mornings.
+00016
+Manaka
+00017
+Even if it's just some ◙bread, it tastes good if ◙you put something on it, ◙right？
+00018
+Really？ I have to check ◙that out.
+00019
+Even I want to do it ◙sometimes...
+00020
+○○○○○○○○
+00021
+Having some bread isn't ◙bad, but breakfast has to ◙be rice！
+00022
+Manaka
+00023
+You have to eat well in ◙the morning, after all. ◙But for rice, you have to ◙get up a little early and ◙get it ready.
+00024
+Get up early, huh...
+00025
+Are you nervous？ ◙Then, why don't we prepare ◙breakfast next time？
+00026
+○○○○○○○○
+00027
+I think I prefer some ◙bread.
+00028
+Manaka
+00029
+Really？ Bread, huh...
+00030
+Yes. Well, for now at ◙least.
+00031
+Okay, I'll give you some ◙bread next time. Wait for ◙it, okay？
+00032
+Manaka
+00033
+Lately, don't you feel like ◙trying some new dishes？
+00034
+○○○○○○○○
+00035
+Yeah, I was thinking I ◙wanted to try a new dish ◙of this kind...
+00036
+Japanese
+00037
+Western
+00038
+Chinese
+00039
+None
+00040
+○○○○○○○○
+00041
+Some Japanese food sounds ◙good. As a proper ◙Japanese！
+00042
+Manaka
+00043
+Japanese food？　That makes ◙me happy. I'll do my best♪
+00044
+○○○○○○○○
+00045
+Recently, I've been ◙thinking about trying ◙some Japanese food.
+00046
+Manaka
+00047
+Japanese, huh... I have to ◙do some research about it.
+00048
+Hmm？ Research？
+00049
+No, it's nothing.
+00050
+○○○○○○○○
+00051
+Some Western food sounds ◙good！
+00052
+Manaka
+00053
+That's something boys ◙enjoy, right？ Leave it to ◙me.
+00054
+○○○○○○○○
+00055
+It has to be some ◙Western food, absolutely！
+00056
+Manaka
+00057
+Really？ Western food, ◙huh...
+00058
+Huh？ What's wrong？
+00059
+No, it's okay. If I do my ◙best, I'll be fine.
+00060
+○○○○○○○○
+00061
+Recently, I've been ◙thinking about Chinese ◙food.
+00062
+Manaka
+00063
+Ah, roger that. Chinese ◙food is delicious♪
+00064
+○○○○○○○○
+00065
+I want to eat Chinese ◙food.
+00066
+Manaka
+00067
+Really？ Chinese cuisine ◙has a lot of dishes...
+00068
+Hmm？ What do you mean？
+00069
+Umm, don't worry. I wonder ◙where I should start ◙looking.
+00070
+○○○○○○○○
+00071
+Hmm, nothing comes to ◙mind. I suspect I'm not ◙hungry enough！ I don't ◙wanna talk about it.
+00072
+Manaka
+00073
+You're right. I'll give ◙it some thought, so I can ◙make something later, ◙so it's okay.
+00074
+○○○○○○○○
+00075
+Mmm, I don't think I have ◙anything in particular I ◙want to taste.
+00076
+Manaka
+00077
+Really？ Then... What ◙should I do now？
+00078
+Huh？ What do you mean？
+00079
+It's nothing. I... I won't ◙give up.
+00080
+Manaka
+00081
+Can you tell me about your ◙favorite foods, please？
+00082
+○○○○○○○○
+00083
+Only one？ In that case...
+00084
+○○○○○○○○
+00085
+I like this one... ◙▲MENU▲！
+00086
+Manaka
+00087
+Ah, I remember that one. ◙I'll make it for you ◙someday.
+00088
+○○○○○○○○
+00089
+Really？ I'll eagerly wait ◙for it.
+00090
+Manaka
+00091
+Is that all？
+00092
+○○○○○○○○
+00093
+Yes. Oh, and I love you.
+00094
+Manaka
+00095
+Huh？ It's different from ◙before... Did you tire of ◙other dish？
+00096
+○○○○○○○○
+00097
+Not really, it's just ◙that I want to try other ◙dishes sometimes.
+00098
+Manaka
+00099
+It's difficult to wear ◙socks, fashion wise... ◙Do you have any preference ◙in the length of your ◙socks？
+00100
+○○○○○○○○
+00101
+My socks？ Well I prefer ◙them...
+00102
+Short ones
+00103
+Normal ones
+00104
+Longer ones
+00105
+Just what looks good
+00106
+○○○○○○○○
+00107
+Don't you think short ◙socks are the best？ ◙After all, you have to ◙show your beautiful legs.
+00108
+Manaka
+00109
+The way you say it's a ◙little... But, I think it's ◙better if they're short.
+00110
+○○○○○○○○
+00111
+I think socks should be ◙of normal length. That ◙way, you can match them ◙with anything.
+00112
+Manaka
+00113
+Certainly, that might be ◙the case... I'll use it ◙as reference.
+00114
+○○○○○○○○
+00115
+I think long socks are ◙good. They seem nice and ◙comfortable.
+00116
+Manaka
+00117
+No, I wasn't asking that. ◙I want to know what do you ◙like.
+00118
+○○○○○○○○
+00119
+I know, why don't you just ◙choose one kind of socks ◙that suits your clothes ◙each time？
+00120
+Manaka
+00121
+I see, that might just ◙work... Thank you.
+00122
+Manaka
+00123
+About what happened the ◙other day, I just wanna ◙say that I'm sorry...
+00124
+○○○○○○○○
+00125
+The other day？ What do you ◙mean？
+00126
+Well, the discussion we ◙had...
+00127
+Oh, that...
+00128
+It was nice to fight
+00129
+Don't worry
+00130
+It was a little hard...
+00131
+Manaka
+00132
+Are you still angry with ◙me？
+00133
+○○○○○○○○
+00134
+Hmm？ About what？
+00135
+The fight we had last ◙time... I made you feel ◙uncomfortable.
+00136
+Ah, it was about that. ◙Well...
+00137
+It was nice to fight
+00138
+Don't worry
+00139
+It was a little hard...
+00140
+Manaka
+00141
+I reflected about the ◙fight we had last time.
+00142
+○○○○○○○○
+00143
+You reflected？
+00144
+I'm afraid I might have ◙hurt you with what I ◙said...
+00145
+Well, you know...
+00146
+It was nice to fight
+00147
+Don't worry
+00148
+It was a little hard...
+00149
+○○○○○○○○
+00150
+You know, I'm glad we got ◙into a fight back then.
+00151
+Manaka
+00152
+Huh？ Why？
+00153
+Because it's better to ◙be in a relationship where ◙you can say exactly what ◙you think, don't you think？
+00154
+Yeah, you're right... ◙But, after fighting, let's ◙try to make up right away.
+00155
+○○○○○○○○
+00156
+I'm glad we got into a ◙fight. Now that had ◙become a memory for us！
+00157
+Manaka
+00158
+...You're so positive. ◙I'm surprised.
+00159
+But it's true, isn't it？
+00160
+...Yes, you're right. ◙I have to reflect on it ◙and connect it to the ◙future.
+00161
+○○○○○○○○
+00162
+I'm glad we got into a ◙fight like that. You don't ◙have to think about it, ◙do you？
+00163
+Manaka
+00164
+Why？
+00165
+Because you are being ◙honest with you feelings, ◙rather than holding them ◙up, right？  That's ◙something nice.
+00166
+...Hehe. I didn't think ◙you would say that. ◙Thank you.
+00167
+○○○○○○○○
+00168
+Don't worry about it, ◙I don't even care anymore.
+00169
+Manaka
+00170
+Really？ It's because ◙I'm...
+00171
+That sort of thing happens ◙once in a while. But all ◙you have to do is remember ◙the good things, right？
+00172
+...Yes, I get it. Thank ◙you.
+00173
+○○○○○○○○
+00174
+Don't worry about it. ◙That's already in the ◙past.
+00175
+Manaka
+00176
+But I...
+00177
+Don't sweat it. I don't ◙care about it, so it's ◙fine！
+00178
+...I understand. You are ◙so kind.
+00179
+○○○○○○○○
+00180
+I've already forgiven you, ◙haven't I？ So don't worry ◙about it.
+00181
+Manaka
+00182
+Really？
+00183
+Let's not dwell on it ◙any more than this ◙▲MANAKA▲.
+00184
+I wonder if I worried too ◙much about this. That was ◙not a good thing to do, ◙I'm sorry.
+00185
+○○○○○○○○
+00186
+It was hard. I felt a ◙little bad after that.
+00187
+Manaka
+00188
+I'm really sorry.
+00189
+You've already apologized ◙to me. It's water under ◙the bridge now.
+00190
+Okay then, let's forget ◙about this. Please let's ◙get along again, okay？
+00191
+○○○○○○○○
+00192
+It was difficult, and I ◙was kinda sad that time.
+00193
+Manaka
+00194
+It's true... All because ◙of me.
+00195
+We've made up now, let's ◙not talk about it anymore.
+00196
+Yes... Don't worry, I won't.
+00197
+○○○○○○○○
+00198
+It was difficult at that ◙time. We had a huge ◙argument.
+00199
+Manaka
+00200
+That's right. I did ◙something terrible...
+00201
+I think we did both wrong. ◙Let's be careful from now ◙on, both of us.
+00202
+Yup！
+00203
+Manaka
+00204
+Can I ask you about ◙something？
+00205
+○○○○○○○○
+00206
+Yes, sure, whatever you ◙want.
+00207
+Well... if a girlfriend is ◙good at cooking, then the ◙boyfriend is going to be ◙happy, right？
+00208
+Hmmm, lemme see. I'd say...
+00209
+I'm sure they must be
+00210
+I think it won't change
+00211
+I don't care about that
+00212
+○○○○○○○○
+00213
+Well, I'd be happier to ◙eat something delicious ◙every now and then.
+00214
+Manaka
+00215
+I see, yes... You're right.
+00216
+And if it's you, then I'm ◙not worried about it, ◙▲MANAKA▲.
+00217
+I still have a long way to ◙go. I'm going to improve ◙more, so look forward to ◙my food, okay？
+00218
+○○○○○○○○
+00219
+Don't you think it's ◙normal？ I mean, I don't ◙think it's that special.
+00220
+Manaka
+00221
+Really？ Wouldn't it be ◙better if it was delicious？
+00222
+If you say so. You will do ◙your best, won't you, ◙▲MANAKA▲？
+00223
+Ah... You're already ◙looking forward to it. ◙Hehe.
+00224
+○○○○○○○○
+00225
+Well, I don't care if ◙you're not a good cook.
+00226
+Manaka
+00227
+Eh, why！？
+00228
+If you're not good, you ◙won't give food to anyone ◙else, right？ That way, I ◙can have your food, ◙▲MANAKA▲.
+00229
+Oh you, saying such ◙things...

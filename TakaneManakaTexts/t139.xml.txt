@@ -1,0 +1,536 @@
+00000
+Manaka
+00001
+Hello, it's Manaka. Is it ◙okay to speak now？
+00002
+○○○○○○○○
+00003
+Yes, it's okay.
+00004
+Well, if you'd like... ◙I made dinner today, so why ◙don't you come to eat？
+00005
+I'll definitely go！
+00006
+I can't today
+00007
+○○○○○○○○
+00008
+I'll definitely go！
+00009
+Manaka
+00010
+That makes me happy. I'll ◙go back to it. I'll wait ◙for you today, so please ◙come to my house.
+00011
+Okay. I understand.
+00012
+○○○○○○○○
+00013
+I'll absolutely go！
+00014
+Manaka
+00015
+I'm so happy. Then I'll ◙be waiting for you, so ◙look forward to it, okay？
+00016
+Yes, thank you.
+00017
+○○○○○○○○
+00018
+I'm sorry, today is not ◙possible...
+00019
+Manaka
+00020
+I see... It was so sudden, ◙so you don't have to worry. ◙See you next time.
+00021
+(Yeah, it's a shame...)
+00022
+○○○○○○○○
+00023
+Good evening.
+00024
+Manaka
+00025
+Welcome home♪
+00026
+Manaka
+00027
+This is the first time ◙you've eaten at my house, ◙right？
+00028
+○○○○○○○○
+00029
+Yes, and I'm a little ◙nervous.
+00030
+Manaka
+00031
+Go ahead and relax for a ◙bit.
+00032
+○○○○○○○○
+00033
+Oh, sure. I'll do that.
+00034
+Manaka
+00035
+You know, there is a dish ◙I wanted you to try today. ◙I hope it suits your ◙tastes.
+00036
+Manaka
+00037
+I'm thinking about this ◙a little, but... Do you ◙have any requests？
+00038
+I'll leave it to you
+00039
+Make a request
+00040
+Manaka
+00041
+I've learned new recipes ◙for tasty new dishes, so ◙I'll try one.
+00042
+Manaka
+00043
+I understand. I'll cook ◙your favorite dishes.
+00044
+○○○○○○○○
+00045
+If possible, I would like ◙to try this dish ◙▲MENU▲.
+00046
+Manaka
+00047
+Sorry to keep you waiting. ◙I've done this dish like ◙I knew, so expect a great ◙flavor, okay？ I'm kidding♪
+00048
+Manaka
+00049
+Here it is, thank you for ◙waiting. I hope it's ◙delicious...
+00050
+Manaka
+00051
+I made a little mistake... ◙But I think the taste is ◙okay, so please try it.
+00052
+Manaka
+00053
+I tried a little for ◙myself. I hope it tastes ◙good.
+00054
+Manaka
+00055
+I tried to make a new ◙arrangement here... What ◙do you think about it？
+00056
+Manaka
+00057
+I tried to develop a new ◙taste. Did you get it？
+00058
+Manaka
+00059
+I put this dish in a love ◙flower pattern, do you ◙see it？ Hehe♪
+00060
+Manaka
+00061
+The classic taste is also ◙good, but I tried a new ◙flavor for today.
+00062
+Manaka
+00063
+I tried a little for ◙myself. How do you like it？
+00064
+Manaka
+00065
+I'm confident in my ◙Japanese cuisine.
+00066
+Manaka
+00067
+You know, my Japanese food ◙has a good reputation with ◙Mama and Papa.
+00068
+Manaka
+00069
+I'm good making Japanese ◙food, maybe.
+00070
+Manaka
+00071
+There are a lot of dishes ◙you can make with Western ◙food.
+00072
+Manaka
+00073
+Do you think I'm good ◙enough making Western food？
+00074
+Manaka
+00075
+How does it taste？ I'm ◙good making Western food, ◙so I think it's delicious.
+00076
+Manaka
+00077
+Do you have a knack for ◙Chinese food？ Hehe♪
+00078
+Manaka
+00079
+I'm confident preparing ◙Chinese food, so I hope ◙you'll think it's ◙delicious too.
+00080
+Manaka
+00081
+Doesn't my Chinese food ◙looks good？ Hehe.
+00082
+Manaka
+00083
+I'm glad I've been able ◙to cook this kind of food ◙these days♪
+00084
+Manaka
+00085
+I think it's surprising I ◙can cook something like ◙this. I'm pretty good at ◙this, don't I？
+00086
+Manaka
+00087
+What do you think？ It's my ◙specialty.
+00088
+Manaka
+00089
+I'm able to cook any kind ◙of food fairly well.
+00090
+Manaka
+00091
+I love how you say that ◙every dish I make is ◙delicious♪
+00092
+Manaka
+00093
+Do you want me to make ◙something now？
+00094
+Manaka
+00095
+Japanese food is somewhat ◙hard to make... If I can ◙succeed with love alone, ◙I'm confident about this...
+00096
+Manaka
+00097
+I... I might not be good ◙making Japanese food. But ◙there's a love of love in ◙it, so that counts right？
+00098
+Manaka
+00099
+Japanese food is so ◙delicate and difficult. ◙Do you like it？ I did my ◙best, so try it.
+00100
+Manaka
+00101
+I'm trying to do it in my ◙own way, but... I couldn't ◙get the points to prepare ◙Western food.
+00102
+Manaka
+00103
+Western food seems easy ◙to make, but it's quite ◙difficult. I wonder if I ◙lack sense...
+00104
+Manaka
+00105
+I struggle with Western ◙style food, for some ◙reason. I know you like a ◙challenge...
+00106
+Manaka
+00107
+It's difficult to set up ◙Chinese food. I wish I ◙could get through with ◙love alone...
+00108
+Manaka
+00109
+I couldn't decide how to ◙season Chinese food... ◙I'm just following the ◙recipe...
+00110
+Manaka
+00111
+I can't get the hang of ◙Chinese food. What do you ◙think of it？
+00112
+Manaka
+00113
+Actually, I'm not good ◙making this kind of dish. ◙But you made it so ◙difficult for me, didn't ◙you？
+00114
+Manaka
+00115
+I'm doing my best. ◙However, I'm not sure about ◙this type of cooking.
+00116
+Manaka
+00117
+How about this dish？ ◙I'm not good making it... ◙I'm a little worried.
+00118
+Manaka
+00119
+Somehow, I couldn't get ◙the taste right, no matter ◙what I tried. I'm not ◙sure... I'd be happy if ◙you could try it.
+00120
+Manaka
+00121
+Cooking is so difficult... ◙I wish I could cook a dish ◙that gives you a lot of ◙confidence.
+00122
+Manaka
+00123
+The point of cooking today ◙is... Isn't it enough to ◙cooking using just love？
+00124
+Manaka
+00125
+Is this tableware the ◙same you have at your ◙house？ She should use it ◙carefully♪
+00126
+Manaka
+00127
+I really like to have ◙matching tableware with ◙you.
+00128
+○○○○○○○○
+00129
+Ah, I'm already full. ◙Thank you for the meal.
+00130
+○○○○○○○○
+00131
+(I feel like I've got new ◙powers.)
+00132
+Manaka
+00133
+You're welcome♪　How was ◙it... I'd like to hear ◙your thoughts.
+00134
+○○○○○○○○
+00135
+Sure.
+00136
+(I can't stop smiling.)
+00137
+Manaka
+00138
+Hey, can I hear your ◙thoughts？ I think I was ◙able to do it well today.
+00139
+○○○○○○○○
+00140
+(It was really good...)
+00141
+Yup.
+00142
+Manaka
+00143
+So, how was it？ I feel you ◙really liked it today♪
+00144
+○○○○○○○○
+00145
+Yeah, sure.
+00146
+(Yeah, I really enjoyed ◙the food...)
+00147
+Manaka
+00148
+How was it？ Can I you ◙tell me what you think？
+00149
+○○○○○○○○
+00150
+Yeah, it was...
+00151
+(Well, I think it was ◙good...)
+00152
+Manaka
+00153
+Well, er... Was it ◙delicious？
+00154
+○○○○○○○○
+00155
+(Mmm, it had good taste.)
+00156
+Yeah, you see...
+00157
+Manaka
+00158
+If possible, I'd like to ◙hear what'd you think ◙about it.
+00159
+○○○○○○○○
+00160
+(Well, it wasn't bad...)
+00161
+Yeah, sure...
+00162
+Manaka
+00163
+Sorry... It wasn't good ◙enough, wasn't it？
+00164
+○○○○○○○○
+00165
+(Hmm... I don't know what ◙to say.)
+00166
+Well, you see...
+00167
+Manaka
+00168
+I'm sorry... It wasn't ◙delicious, was it？
+00169
+○○○○○○○○
+00170
+(I don't want to make her ◙sad...)
+00171
+Let's see...
+00172
+Manaka
+00173
+I'm afraid to hear your ◙impressions... Do you want ◙me to ask you？
+00174
+○○○○○○○○
+00175
+My impressions？
+00176
+(Hmm...)
+00177
+It was delicious
+00178
+It wasn't bad
+00179
+I didn't like it
+00180
+○○○○○○○○
+00181
+It was really tasteful.
+00182
+Manaka
+00183
+I'm glad！ If you praise ◙me like that, I think I ◙can do my best again♪
+00184
+○○○○○○○○
+00185
+It really was delicious.
+00186
+Manaka
+00187
+Really？ Hehe, I'm glad♪
+00188
+○○○○○○○○
+00189
+It was surprisingly ◙delicious.
+00190
+Manaka
+00191
+What！？ I see... Then it ◙was fine, right？
+00192
+○○○○○○○○
+00193
+I think it was rather ◙delicious.
+00194
+Manaka
+00195
+Really？ In that case I'll ◙stop worrying.
+00196
+○○○○○○○○
+00197
+It had a normal taste.
+00198
+Manaka
+00199
+I see. Then... Can I be ◙happy about it？
+00200
+○○○○○○○○
+00201
+I think it was normal, ◙don't you think？
+00202
+Manaka
+00203
+Really！？ I thought it was ◙a failure...
+00204
+○○○○○○○○
+00205
+That taste... I guess I ◙didn't like it very much.
+00206
+Manaka
+00207
+Really？ I was really ◙confident too, but... ◙I should think about it ◙twice.
+00208
+○○○○○○○○
+00209
+This kind of flavor is ◙little different from my ◙tastes.
+00210
+Manaka
+00211
+I see.... It wasn't good ◙after all, was it？ I'll ◙study cooking harder and ◙do my best.
+00212
+○○○○○○○○
+00213
+I think it was a little ◙different from what you ◙usually make, ◙▲MANAKA▲...
+00214
+Manaka
+00215
+You care about me, so I'll ◙try harder and make it ◙delicious next time, so ◙wait.
+00216
+Manaka
+00217
+Hey, don't you think it'll ◙be better to eat something ◙else rather than bentos？
+00218
+But I like your bento
+00219
+I'll try school lunch
+00220
+○○○○○○○○
+00221
+I like your bentos.
+00222
+Manaka
+00223
+Really？ Then I'll make ◙you some again♪
+00224
+○○○○○○○○
+00225
+Yeah, I think it's time ◙to switch to the school ◙meals.
+00226
+Manaka
+00227
+Well, that might be good, ◙too.
+00228
+Manaka
+00229
+Do you usually prepare ◙breakfast in the morning？
+00230
+○○○○○○○○
+00231
+Yeah, I think it's a good ◙thing to do sometimes.
+00232
+Well, if you'd like... ◙How about I go to make ◙your breakfast？ If it's ◙not annoying.
+00233
+Lemme see...
+00234
+Manaka
+00235
+Umm, can I go and make you ◙breakfast again？
+00236
+○○○○○○○○
+00237
+Let's see...
+00238
+Please！
+00239
+I'll do it myself
+00240
+○○○○○○○○
+00241
+If you're offering to do it ◙for me, then I'll gladly ◙accept your help ◙▲MANAKA▲.
+00242
+Manaka
+00243
+I'm happy. Okay, I'll come ◙and see you next time.
+00244
+○○○○○○○○
+00245
+Well, that's... I'll make ◙it myself.
+00246
+Manaka
+00247
+I see... Maybe it's ◙uncomfortable for you if ◙I come in the mornings.
+00248
+Manaka
+00249
+I've been making sweets ◙recently. If you don't ◙mind, do you want some？
+00250
+○○○○○○○○
+00251
+Of course！ I really like ◙your sweets！
+00252
+I'm really happy. Then I'll ◙make something delicious, ◙so look forward to it♪
+00253
+Yes, please.
+00254
+Manaka
+00255
+Say, can I go to your house ◙again to prepare dinner？
+00256
+○○○○○○○○
+00257
+Lemme see...
+00258
+Yeah, please do
+00259
+I'll make it myself
+00260
+○○○○○○○○
+00261
+I'd really like to ask you ◙for your help.
+00262
+Manaka
+00263
+Really？ Well then, I'll ◙go make dinner next time♪
+00264
+○○○○○○○○
+00265
+Well, you know... I'll make ◙it myself.
+00266
+Manaka
+00267
+I see... It's also ◙important to do things like ◙that for yourself.

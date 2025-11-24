@@ -1,0 +1,1000 @@
+00000
+Manaka
+00001
+▲PLAYER▲.
+00002
+○○○○○○○○
+00003
+What's wrong, ◙▲MANAKA▲？
+00004
+You've been acting cold ◙recently...
+00005
+That's sudden. I don't ◙think so.
+00006
+Is that so！
+00007
+Eh？... Calm down.
+00008
+You're so cold.
+00009
+Huh？
+00010
+....
+00011
+(Well, she's in a bad mood ◙today. Certainly I might ◙have been cold recently.)
+00012
+I'm really sorry, I won't ◙do it anymore！
+00013
+Don't worry about that！
+00014
+...Is that bad？
+00015
+Be in a good mood.
+00016
+I don't want to forgive ◙you.
+00017
+Why are you... I'll ◙apologize, so please ◙calm down.
+00018
+If you understand, it's ◙okay...
+00019
+Wait a minute, ◙▲MANAKA▲！
+00020
+(What is it...？)
+00021
+If I made you feel ◙uncomfortable, I'm sorry.
+00022
+I wonder what happened.
+00023
+Sorry...
+00024
+Yes, it's good. I was ◙acting a little weird ◙today.
+00025
+(I wonder if she forgave ◙me. I have to be careful.)
+00026
+Manaka
+00027
+▲PLAYER▲.
+00028
+○○○○○○○○
+00029
+What's wrong, ◙▲MANAKA▲？
+00030
+Hey, these days... ◙Why are you acting so ◙cold？
+00031
+...Really？
+00032
+Emm... Maybe so... I'm ◙kidding.
+00033
+There's no such thing.
+00034
+No, is that ...It ◙definitely is.
+00035
+I wonder.
+00036
+Do you hate me？
+00037
+▲MANAKA▲...
+00038
+(Hmm, was she hurt？ I may ◙have been cold recently...)
+00039
+I'm really sorry, I won't ◙do it anymore！
+00040
+Don't worry about that！
+00041
+...Is that bad？
+00042
+....
+00043
+Don't be in a bad mood.
+00044
+...It's painful.
+00045
+Is it painful？
+00046
+Maybe I shouldn't...
+00047
+Wait a minute, ◙▲MANAKA▲！
+00048
+(What is this...？)
+00049
+...That is...
+00050
+Ask me, please！
+00051
+Sorry. I said something ◙weird.
+00052
+Then...
+00053
+Yes, I'm kinda weird ◙these days.
+00054
+(She forgave me. I have ◙to be careful.)
+00055
+Manaka
+00056
+▲PLAYER▲.
+00057
+○○○○○○○○
+00058
+What's wrong, ◙▲MANAKA▲？
+00059
+You've been acting cold ◙recently. Why？
+00060
+Cold？ ...It's your ◙imagination！
+00061
+No... It's not my ◙imagination. Because...
+00062
+Hmm？
+00063
+Because... I don't know ◙what to do...
+00064
+...Are you angry？
+00065
+I don't know！
+00066
+(This looks serious... ◙Certainly I might have ◙been cold recently...)
+00067
+I'm really sorry, I won't ◙do it anymore！
+00068
+Don't worry about that！
+00069
+...Is that bad？
+00070
+....
+00071
+Don't be in a bad mood.
+00072
+There is no reason to ◙listen to you anymore.
+00073
+Haha, don't get so angry. ◙Look, laugh a little.
+00074
+Geez, I don't like this ◙anymore！
+00075
+Wait a minute, ◙▲MANAKA▲！
+00076
+(What is this...？)
+00077
+I'll fix it soon...
+00078
+Hey, please. Do you feel ◙upset？ Teehee▼
+00079
+... I'm kidding.
+00080
+... Geez. Yes, I might be ◙a little too angry too.
+00081
+(I wonder if she forgave ◙me. I have to be careful.)
+00082
+○○○○○○○○
+00083
+Well, let's go home.
+00084
+(Ah, she's there... Are you ◙still angry, ◙▲MANAKA▲？)
+00085
+Invite to go together
+00086
+Go back alone
+00087
+Hey, ▲MANAKA▲！
+00088
+Hey, let's go home ◙together.
+00089
+Manaka
+00090
+Before that, I think you ◙have something to say.
+00091
+▲MANAKA▲！
+00092
+(She's still angry...)
+00093
+(She's still angry, it's ◙okay...)
+00094
+○○○○○○○○
+00095
+Well, let's go home.
+00096
+(Oh, she's over there... ◙Are you still angry ◙▲MANAKA▲？)
+00097
+Invite to go together
+00098
+Go back alone
+00099
+Hey, ▲MANAKA▲！
+00100
+Hey, let's go home ◙together.
+00101
+Manaka
+00102
+...No, not yet...
+00103
+▲MANAKA▲！
+00104
+(She's still angry...)
+00105
+(She's still angry, it's ◙okay...)
+00106
+○○○○○○○○
+00107
+Well, let's go back.
+00108
+(Oh, she's over there... ◙Are you still angry, ◙▲MANAKA▲？)
+00109
+Invite to go together
+00110
+Go back alone
+00111
+Hey, ▲MANAKA▲！
+00112
+Hey, let's go home ◙together.
+00113
+Manaka
+00114
+You haven't reflected at ◙all！
+00115
+▲MANAKA▲！
+00116
+(She's still angry...)
+00117
+(She may still be angry, ◙it's okay...)
+00118
+Manaka
+00119
+...Hello.
+00120
+○○○○○○○○
+00121
+Let's go on a date, ◙▲MANAKA▲.
+00122
+...No. I still haven't ◙forgiven you yet.
+00123
+(She's still angry...)
+00124
+Manaka
+00125
+Hello？
+00126
+○○○○○○○○
+00127
+Let's go on a date, ◙▲MANAKA▲.
+00128
+Date... No can do. I'm ◙not willing to.
+00129
+(She's still angry...)
+00130
+Manaka
+00131
+Yes？
+00132
+○○○○○○○○
+00133
+Let's go on a date, ◙▲MANAKA▲.
+00134
+Date？ You still haven't ◙apologized.
+00135
+(She's still angry...)
+00136
+○○○○○○○○
+00137
+(It's my phone... Oh, it's ◙her. Are still angry with ◙me ▲MANAKA▲？)
+00138
+Hello？ ◙▲MANAKA▲？
+00139
+Manaka
+00140
+Hey, you promised me a ◙date last time.
+00141
+Oh, yeah. I remember.
+00142
+Huh... Let me cancel it. ◙See you.
+00143
+Eh！？
+00144
+(She's still angry...)
+00145
+○○○○○○○○
+00146
+It's my phone... Ah, it's ◙her. Are still angry with ◙me ▲MANAKA▲？)
+00147
+Hello？ ◙▲MANAKA▲？
+00148
+Manaka
+00149
+You know, I promised you ◙a date last time.
+00150
+Ah, yes. What's wrong？
+00151
+After what happened, let's ◙cancel it okay？ Sorry.
+00152
+Eh！？
+00153
+(She's still angry...)
+00154
+○○○○○○○○
+00155
+It's my phone... Oh, it's ◙her. Are still angry with ◙me ▲MANAKA▲？)
+00156
+Hello？ ◙▲MANAKA▲？
+00157
+Manaka
+00158
+Hey. We made a promise to ◙date next time.
+00159
+Oh, yes. Looking forward ◙to it？
+00160
+No. We should not make ◙those promises for the ◙time being.
+00161
+Eh！？
+00162
+(She's still angry...)
+00163
+Manaka
+00164
+Hello.
+00165
+○○○○○○○○
+00166
+Excuse me, can you see me ◙now ▲MANAKA▲？
+00167
+Not good yet. I don't want ◙to see you yet.
+00168
+(She's still angry...)
+00169
+Manaka
+00170
+Yes, hello.
+00171
+○○○○○○○○
+00172
+Excuse me, can you see me ◙now ▲MANAKA▲？
+00173
+Um... Sorry.
+00174
+(She's still angry...)
+00175
+Manaka
+00176
+Hello.
+00177
+○○○○○○○○
+00178
+Excuse me, can you see me ◙now ▲MANAKA▲？
+00179
+I don't want to see you.
+00180
+(She's still angry...)
+00181
+Manaka
+00182
+I'll do my best to do it.
+00183
+Manaka
+00184
+I wish you cared about me ◙too...
+00185
+Manaka
+00186
+Hmm.
+00187
+Manaka
+00188
+...I didn't watch it.
+00189
+Manaka
+00190
+Because I'm worried.
+00191
+Manaka
+00192
+I'm doing it again. Hah...
+00193
+Manaka
+00194
+As expected... but...
+00195
+Manaka
+00196
+...Good for you.
+00197
+Manaka
+00198
+But as my boyfriend...
+00199
+Manaka
+00200
+I wasn't watching it, ◙because I was going to ◙blame you.
+00201
+Manaka
+00202
+It's complex...
+00203
+Manaka
+00204
+Hehe.. No, it's not good ◙to laugh.
+00205
+○○○○○○○○
+00206
+(Oh, it's her... Are you ◙still angry with me ◙▲MANAKA▲？)
+00207
+Hey
+00208
+Do not speak
+00209
+Hey.
+00210
+Manaka
+00211
+It's still early...
+00212
+(It's still no good...)
+00213
+(Let's leave her for now.)
+00214
+○○○○○○○○
+00215
+(Oh, it's her... Are you ◙still angry with me ◙▲MANAKA▲？)
+00216
+Hey
+00217
+Do not speak
+00218
+Hey.
+00219
+Manaka
+00220
+Ah... sorry.
+00221
+(It's still no good...)
+00222
+(Let's leave her for now.)
+00223
+○○○○○○○○
+00224
+(Oh, it's her... Are you ◙still angry with me ◙▲MANAKA▲？)
+00225
+Time to be on my knees！
+00226
+Do not speak
+00227
+Hah！
+00228
+Manaka
+00229
+What are you doing？
+00230
+(It's still no good.)
+00231
+(Let's leave her for now.)
+00232
+Manaka
+00233
+Ah.
+00234
+○○○○○○○○
+00235
+Huh？
+00236
+Ah, ▲MANAKA▲.
+00237
+....
+00238
+(She's still angry...)
+00239
+Manaka
+00240
+Ah...
+00241
+○○○○○○○○
+00242
+Huh？
+00243
+Ah, ▲MANAKA▲.
+00244
+I'm sorry.
+00245
+(She's still angry...)
+00246
+Manaka
+00247
+Ah...
+00248
+○○○○○○○○
+00249
+Huh？
+00250
+Ah, ▲MANAKA▲.
+00251
+...Move please.
+00252
+(She's still angry...)
+00253
+Manaka
+00254
+▲PLAYER▲.
+00255
+○○○○○○○○
+00256
+▲MANAKA▲. ◙From that moment, I...
+00257
+I know. You worked hard ◙for me.
+00258
+I'm sorry, I regret it ◙all. Not being able to talk ◙to you was painful, ◙▲MANAKA▲.
+00259
+Yes, it was painful...
+00260
+I'm sorry, forgive me.
+00261
+That's not the case... ◙What would I do if you ◙started hating me...
+00262
+But such a thing...
+00263
+Sorry... That's what I ◙think...
+00264
+▲MANAKA▲...
+00265
+Manaka
+00266
+▲PLAYER▲.
+00267
+○○○○○○○○
+00268
+▲MANAKA▲... ◙Since then, I...
+00269
+Yup. I saw you doing your ◙best.
+00270
+Yes, I know I was wrong.
+00271
+I'm sorry too. But I don't ◙want you to do it ◙anymore...
+00272
+Yes. I don't want to be ◙hated by you anymore, ◙▲MANAKA▲.
+00273
+No, even if it's messed ◙up, I started to like you ◙more and more... ◙I'm afraid of it...
+00274
+....
+00275
+So kiss me...
+00276
+▲MANAKA▲...
+00277
+Manaka
+00278
+▲PLAYER▲.
+00279
+○○○○○○○○
+00280
+▲MANAKA▲... ◙Since then, I...
+00281
+Yes, you were doing your ◙best.
+00282
+Did I？ I didn't like it...
+00283
+I know, because of me. ◙I'm sorry.
+00284
+I thought you would hate ◙me... I was scared...
+00285
+I'm really sorry. I made ◙you feel pain.
+00286
+Idiot！
+00287
+I was scared... I was ◙lonely！
+00288
+▲MANAKA▲...
+00289
+○○○○○○○○
+00290
+(I wonder how have you been ◙doing since then ◙▲MANAKA▲...)
+00291
+Manaka
+00292
+Yes.
+00293
+It's me, ◙▲MANAKA▲.
+00294
+Eh！？ Wait a minute... ◙Where are you？
+00295
+▲PLAYER▲.
+00296
+Did you come to visit me？
+00297
+Yes, it's a little easier. ◙Thank you. I'm sorry, for ◙going out of the way.
+00298
+That's obvious. I worry ◙about you.
+00299
+Yes, I'm happy.
+00300
+You're always trying too ◙hard. You need to get out ◙more ▲MANAKA▲.
+00301
+Hehe, like you？
+00302
+Haha. Yes, like me.
+00303
+If it's for too long, ◙it's bad for your health. ◙It's time to go home.
+00304
+Yes, thank you for coming.
+00305
+Of course. Well then, take ◙care.
+00306
+(I hope you get well soon, ◙▲MANAKA▲.)
+00307
+○○○○○○○○
+00308
+(I wonder how have you been ◙▲MANAKA▲...)
+00309
+Manaka
+00310
+Yes？
+00311
+It's me, ◙▲MANAKA▲.
+00312
+Eh？ Um, wait a minute... ◙Please come in.
+00313
+▲PLAYER▲.
+00314
+I'm visiting you. Is it ◙okay？
+00315
+Thank you. Yeah, it's a ◙lot easier.
+00316
+I see, I'm glad.
+00317
+Hehe...
+00318
+Huh？ What's the matter？
+00319
+I was just bored. I was ◙wondering if I could see ◙you.
+00320
+Me too. That's why if I ◙can't see you, I'll get ◙sick, ▲MANAKA▲.
+00321
+Hehe.
+00322
+If it's too long, it's ◙bad for you. It's time to ◙go home.
+00323
+Oh, are you going already？
+00324
+It's important to get ◙some rest. I'll come ◙again. See you.
+00325
+(I hope you get better soon ◙▲MANAKA▲.)
+00326
+○○○○○○○○
+00327
+(I wonder how have you been ◙▲MANAKA▲...)
+00328
+Manaka
+00329
+Yes！
+00330
+It's me, ◙▲MANAKA▲.
+00331
+No way？ No, wait a sec... ◙Okay, come in.
+00332
+▲PLAYER▲.
+00333
+Can't you wait a little？
+00334
+Yes. I was waiting.
+00335
+Oh, you're more honest ◙than usual.
+00336
+I'm always honest, aren't ◙I？
+00337
+Haha, that's right. ◙If you're happy, it was ◙worth it.
+00338
+I've been longing for this ◙kind of thing. When you ◙get sick, your boyfriend ◙will come to see you.
+00339
+Hopefully if you're going ◙to visit me, you don't get ◙sick.
+00340
+If it's too long, it's ◙bad for you. I'll be back ◙soon.
+00341
+Will you come again？
+00342
+Yes, I'll come again. ◙See you.
+00343
+(I hope you get better soon ◙▲MANAKA▲.)
+00344
+Manaka
+00345
+I'm happy, but... If you ◙come visit this many ◙times, won't you get sick？
+00346
+○○○○○○○○
+00347
+If that heals you, I'm ◙willing to get sick.
+00348
+No good！ I want to play ◙with you as soon as I'm ◙healed. Don't get sick！
+00349
+Yes, yes. I understand, ◙calm down.
+00350
+Oh you... Do you promise？
+00351
+Manaka
+00352
+When you come visit me ◙like this, it's like I'm ◙keeping you to myself, so ◙it's a bit nice.
+00353
+○○○○○○○○
+00354
+You want to keep me to ◙yourself, right？
+00355
+...Maybe.
+00356
+Right？ That's why, it's ◙better to be healthy.
+00357
+Yeah, let's go play.
+00358
+Manaka
+00359
+I'm glad to see you. ◙Don't you get sick？
+00360
+○○○○○○○○
+00361
+I'm strong.
+00362
+Then, what kind of thing ◙do you want me to pass ◙you？
+00363
+...Now's not good. After ◙I heal.
+00364
+Hehe, I just thought ◙about it.
+00365
+Manaka
+00366
+▲PLAYER▲.
+00367
+○○○○○○○○
+00368
+Ah...
+00369
+▲MANAKA▲！ ◙Are you feeling better？
+00370
+Yes, I'm fine. Maybe ◙thanks to your visit.
+00371
+I hope. Maybe that was ◙bad for your body.
+00372
+That's not true. ◙I'm Papa's daughter, so I ◙have no doubts.
+00373
+I see, then it's nice.
+00374
+Let's play a lot today, ◙okay？
+00375
+Manaka
+00376
+▲PLAYER▲.
+00377
+○○○○○○○○
+00378
+Ah...
+00379
+▲MANAKA▲！ ◙Are you feeling fine？
+00380
+I'm already okay. Thank ◙you for your visit.
+00381
+You're welcome. Don't ◙over do it, okay？
+00382
+Yup. But, isn't it nice ◙to go out with you？
+00383
+Of course！
+00384
+That's fine. Let's get ◙along, okay？
+00385
+Manaka
+00386
+▲PLAYER▲.
+00387
+○○○○○○○○
+00388
+Ah...
+00389
+▲MANAKA▲！ ◙Are you feeling fine？
+00390
+As you can see. It was ◙thanks to your visit.
+00391
+Really？
+00392
+I'm in good shape.
+00393
+Haha.
+00394
+Hehe, let's have a date ◙soon. I've endured enough.
+00395
+○○○○○○○○
+00396
+(I'm bored... I'm tired of ◙being at home.)
+00397
+Who might that be... Yes！
+00398
+Manaka
+00399
+▲PLAYER▲.
+00400
+▲MANAKA▲？　◙Oh, no way.
+00401
+I came to visit.
+00402
+I'm sorry if I'm bothering ◙you.
+00403
+Not at all. I was ◙wondering if you were ◙bored.
+00404
+Correct answer. Thank you ◙for coming.
+00405
+Hehe, I'm glad.
+00406
+Oh, it's annoying if you ◙stay for too long. ◙I'm leaving now.
+00407
+That's not the case ◙though... But okay, thank ◙you for coming.
+00408
+If you have any trouble, ◙let me know please？ About ◙anything.
+00409
+As expected from you. ◙All right, thank you.
+00410
+...Is that so？ Then, be ◙careful.
+00411
+(I have to get well soon, ◙▲MANAKA▲.)
+00412
+○○○○○○○○
+00413
+(I'm bored... I'm tired ◙of staying at home.)
+00414
+Who might that be... Yes！
+00415
+Manaka
+00416
+▲PLAYER▲.
+00417
+▲MANAKA▲？ ◙Oh, no way.
+00418
+I'm visiting. I hope it's ◙not annoying.
+00419
+It's not annoying. I just ◙wanted someone to talk ◙to.
+00420
+I'm glad, you look good.
+00421
+Yes, when I saw you face, ◙I felt better at once, ◙▲MANAKA▲.
+00422
+Oh you... Yes！
+00423
+Oh, it's not good for ◙your health if you talk ◙too much.
+00424
+That's not true...
+00425
+Is your housework okay？ ◙Can I help you with ◙something？
+00426
+It's okay. I'll do ◙something.
+00427
+... Well, I'm going home ◙for today. If something ◙happens, contact me.
+00428
+Yes, I understand. Thank ◙you.
+00429
+(I have to get well soon ◙for you, ◙▲MANAKA▲.)
+00430
+○○○○○○○○
+00431
+(I'm bored... I'm tired ◙of staying home.)
+00432
+Who might that be... Yes！
+00433
+Manaka
+00434
+▲PLAYER▲.
+00435
+▲MANAKA▲？ ◙Oh, no way.
+00436
+Sorry to keep you waiting. ◙I came to see you.
+00437
+Waiting. I'm tired of ◙waiting.
+00438
+Oh you, did you have to ◙be so energetic？
+00439
+Oh, no！ Don't go home！
+00440
+Hehe, I'm not going home.
+00441
+Oh, we talked for a long ◙time. You have to rest. ◙It's time to go home.
+00442
+It's okay.
+00443
+This is coming from the ◙doctor's daughter, okay？ ◙If you overdo it, you'll ◙see a doctor.
+00444
+Eh... as a medical ◙examination？
+00445
+Huh？ What's wrong？
+00446
+N-nothing. Thank you ◙today！
+00447
+Yes, see you.
+00448
+(I have to get well soon, ◙for your sake, ◙▲MANAKA▲.)
+00449
+○○○○○○○○
+00450
+(I'm free...)
+00451
+Oh, maybe...
+00452
+Manaka
+00453
+Do you have any problems？
+00454
+If there are, there are.
+00455
+What？
+00456
+In other words... ◙Hey, do you understand？
+00457
+Geez, idiot.
+00458
+○○○○○○○○
+00459
+(I'm free...)
+00460
+Oh, maybe...
+00461
+Manaka
+00462
+Are you alright？ ◙Does it hurt？
+00463
+My body feels weird.
+00464
+Eh！ Does it hurt ◙somewhere？
+00465
+My mouth feels lonely. ◙I want your kiss.
+00466
+...It's useless. I'll ◙think about it when you ◙get better.
+00467
+○○○○○○○○
+00468
+(I am free...)
+00469
+Oh, maybe...
+00470
+Manaka
+00471
+Did you have a good rest？
+00472
+Yes.
+00473
+Hehe, nice. Get well ◙soon, okay？
+00474
+Yes, we can't kiss if I ◙don't heal...
+00475
+Yup. So you get better ◙soon, okay？
+00476
+○○○○○○○○
+00477
+▲MANAKA▲！
+00478
+Manaka
+00479
+▲PLAYER▲.
+00480
+Sorry to keep you waiting. ◙Thank you for your visit.
+00481
+I'm glad. Aren't you hot ◙anymore？
+00482
+Yes. After that, I want to ◙go and play with you, it ◙will be perfect, ◙▲MANAKA▲.
+00483
+Hehe, I'll cooperate.
+00484
+○○○○○○○○
+00485
+▲MANAKA▲！
+00486
+Manaka
+00487
+▲PLAYER▲.
+00488
+Sorry to keep you waiting. ◙Thank you for your visit.
+00489
+Yes... I'm glad, don't ◙get sick anymore...
+00490
+Yes. I'm sorry to make ◙you feel lonely. I like ◙being together.
+00491
+Yup....
+00492
+○○○○○○○○
+00493
+▲MANAKA▲！
+00494
+Manaka
+00495
+▲PLAYER▲.
+00496
+Sorry to keep you waiting. ◙Thank you for your visit.
+00497
+I'm glad... Oh, you can't ◙get sick and worry your ◙girlfriend anymore, okay？
+00498
+Yes, I will do my best.
+00499
+Let's go play a lot. ◙Then I will forgive you.

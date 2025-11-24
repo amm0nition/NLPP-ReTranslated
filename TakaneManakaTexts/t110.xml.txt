@@ -1,0 +1,442 @@
+00000
+Manaka
+00001
+Hey, are you thirsty？
+00002
+○○○○○○○○
+00003
+Yeah, I'm feeling a little ◙parched.
+00004
+Okay, then I'll go buy ◙something to drink. Can you ◙wait me a little？
+00005
+Sure, of course！
+00006
+Wait！ I'll do it！
+00007
+That's the spirit. Wait ◙for me like a good boy. ◙I'm kidding.
+00008
+I'm sorry to keep you ◙waiting. Here, do you like ◙this one？
+00009
+Yeah, thank you.
+00010
+Really？
+00011
+Of course. I'll be back ◙soon, so wait for me.
+00012
+Sorry to keep you waiting. ◙Did I took too long？
+00013
+Welcome back. You didn't ◙have to hurry back, but ◙thank you.
+00014
+Manaka
+00015
+Why don't we take a break ◙on that bench？
+00016
+○○○○○○○○
+00017
+Sure, sounds good.
+00018
+Whew. I was getting tired.
+00019
+I was getting a little ◙tired, so I'll take it ◙easy for a while.
+00020
+After we rest a little, we ◙should continue our way.
+00021
+I don't mind staying here ◙like this today...
+00022
+Forever？
+00023
+If it's you and me, ◙anywhere, everywhere, ◙forever... I'm kidding.
+00024
+Of course. Hey, where do ◙you want to go next？
+00025
+I'll go anywhere you want ◙to go ▲MANAKA▲！
+00026
+Then, I want to go to your ◙heart▼　I'm kidding.
+00027
+Manaka
+00028
+It's a bit hot today. ◙Maybe I should take off ◙my jacket...
+00029
+Sure, won't that make you ◙feel a little refreshed？
+00030
+I'm not sure, do you want ◙to get a sunburn？
+00031
+Really？ I'm so sorry, ◙I didn't know.
+00032
+Whew. Hmm, now it's so ◙cool.
+00033
+○○○○○○○○
+00034
+Haha, you look so ◙comfortable.
+00035
+Ah... Sure, the sun is a ◙little strong today, isn't ◙it？
+00036
+Okay, I'll fan you with my ◙hands！
+00037
+Hehe！ Okay, please▼
+00038
+Manaka
+00039
+It's a bit cold today...
+00040
+Come closer then, ◙▲MANAKA▲
+00041
+Should we move to another ◙place？
+00042
+○○○○○○○○
+00043
+I'm feeling a bit cold ◙too, let's warm up▼
+00044
+...Oh, okay. I understand.
+00045
+Do you want to go ◙elsewhere？
+00046
+Hmm... I think it's okay ◙if I stick with you.
+00047
+I see...
+00048
+Manaka
+00049
+Don't you smell something ◙good coming from that shop？
+00050
+Why don't we go buy ◙something if you're that ◙curious？
+00051
+Okay, check it out！
+00052
+We should go together
+00053
+○○○○○○○○
+00054
+Welcome back. Was it ◙delicious？
+00055
+...I bought your share, ◙too. Take it.
+00056
+Oh, thank you！
+00057
+I'm curious, so I'll take ◙a look. Wait a minute.
+00058
+In that case, why don't ◙we go together？
+00059
+Ah, it was delicious！
+00060
+That shop seems to be ◙moving around a lot, so we ◙got lucky to come across ◙it, right？
+00061
+Manaka
+00062
+Ah, a kitten. I wonder if ◙it'll let me pet it...
+00063
+Looks a little difficult, ◙why not me instead？
+00064
+It seems like you can, ◙but...
+00065
+Huh, do you want me to ◙pat your head？
+00066
+○○○○○○○○
+00067
+Yes, just like that！
+00068
+...Huh！
+00069
+Ah, hey you've patted me ◙too much！
+00070
+Hehe！ No running away now♪
+00071
+I don't know about it, ◙maybe？
+00072
+Yeah, we should try. Don't ◙scare it, let's go in ◙quiet okay？
+00073
+It was cute right？ ◙But, I think you're a lot ◙cuter...
+00074
+Haha, I wonder about that.
+00075
+Manaka
+00076
+The sun is strong so strong ◙today... It almost feels ◙like its burning my skin.
+00077
+You have to apply some ◙sun oil to make your skin ◙prettier！
+00078
+It's fine to leave as it ◙is！
+00079
+Huh, is it okay to get ◙a sunburn？
+00080
+○○○○○○○○
+00081
+Okay then.
+00082
+Alright, I think I'll do ◙it. Buy you have to apply ◙it yourself.
+00083
+(Tsk...)
+00084
+...Then do you think I ◙should get a tan？
+00085
+Well yes, I think.
+00086
+Alright, I'll do it. But ◙you're going to apply it ◙yourself, okay？
+00087
+Manaka
+00088
+Today we have such a ◙beautiful scenery here... ◙Hey, want to take a photo？
+00089
+I want you to be in the ◙photo with this view, ◙▲MANAKA▲.
+00090
+Okay, let's take our photo ◙together
+00091
+...I just need you on the ◙photo
+00092
+○○○○○○○○
+00093
+Okay, strike a pose！
+00094
+...Oh, dear.
+00095
+Oh, that sounds also good. ◙Ask someone to take it for ◙us, please.
+00096
+Okay, now that that's ◙decided, how about taking ◙it there？
+00097
+Yes▼　Shall we go？
+00098
+Manaka
+00099
+There are a lot of people ◙over there. Is that a ◙popular spot？
+00100
+I think so, but that makes ◙it somewhat noisy, isn't ◙it？
+00101
+I think it's lively and ◙that makes it feel nice！
+00102
+Well, yeah. Just a little ◙bit.
+00103
+But it's so fun being with ◙you. It's strange how that ◙can be, isn't it？
+00104
+There are many couples ◙around here, happily ◙looking at the sights. ◙And we are one of those ◙couples.
+00105
+Hehe！ Are you happy too？
+00106
+Manaka
+00107
+There aren't that many ◙people around here... ◙Isn't this a popular ◙date spot？
+00108
+I think so, but isn't it ◙a bit too quiet？
+00109
+Don't you feel better with ◙this kind of atmosphere？
+00110
+It may be better to enjoy ◙the private feeling we ◙have here
+00111
+○○○○○○○○
+00112
+I see. Well you're right, ◙we should have fun.
+00113
+Hehe, yay！
+00114
+Is it easier to be alone ◙here...？
+00115
+Well, isn't that something ◙we seek too？
+00116
+Hehe, oh you. But I think ◙so too... I'm kidding.
+00117
+Manaka
+00118
+This rain won't stop...
+00119
+You're right, this is too ◙much rain... What a shame.
+00120
+Do you think it's okay ◙if it's rains like this？
+00121
+Yup...
+00122
+...It doesn't matter what ◙kind of weather we're in, ◙if I'm with you, right？
+00123
+...Yeah, you're right, ◙rain may be nice.
+00124
+Manaka
+00125
+Can I go to your house on ◙our way back home today？
+00126
+Of course！
+00127
+...Sorry！ Maybe next time！
+00128
+Yay▼　I was somewhat ◙nervous about what I'll do ◙if you said no.
+00129
+...Why？
+00130
+...I was kidding. I'm sorry ◙to bother you. Next time, ◙tell me it's okay, please？
+00131
+Manaka
+00132
+Do you know there are ◙people who can do fortune ◙telling？ Want to see our ◙compatibility？
+00133
+Even if you can't see it ◙right away, you can know ◙what the future holds.
+00134
+Oh, that sounds ◙interesting. Let's go.
+00135
+...Really？　Hehe♪
+00136
+...Is it that exciting？
+00137
+占い師
+00138
+Your compatibility is the ◙best, and a bright future ◙is ahead of you！
+00139
+You heard it, a bright ◙future！ How did they know？
+00140
+○○○○○○○○
+00141
+That person must be a ◙well-versed future ◙teller.
+00142
+Hehe. The future, huh...▼
+00143
+You two are a good match, ◙and your future will go ◙unhindered.
+00144
+Is it going to go well？
+00145
+That'll be true even if ◙you didn't predict it！ ◙That's how we are, isn't ◙it？
+00146
+Yup▼
+00147
+Your compatibility is... ◙gohogoho！
+00148
+Well, I certainly didn't ◙get that, did you？
+00149
+No matter what happens, ◙I'm confident we can get ◙over it！
+00150
+Me too▼　I'm kidding.
+00151
+Manaka
+00152
+Look, over there. Some ◙cute flowers are in full ◙bloom.
+00153
+Oh, it's true. They are ◙beautiful
+00154
+But you are a lot cuter, ◙▲MANAKA▲
+00155
+I'm sure I wouldn't ◙notice if I was alone
+00156
+○○○○○○○○
+00157
+You're right, I would ◙find it difficult too.
+00158
+We should pay attention ◙to thing like this from ◙now on, shouldn't we？ ◙Just the two of us.
+00159
+Oh you. Don't say such ◙things with a serious face.
+00160
+...But that makes me ◙happy. Thank you.
+00161
+Manaka
+00162
+Ah！ There's someone from ◙my class over there...
+00163
+...Do you want to hide ◙from them？
+00164
+Don't you want them to ◙ask who the person beside ◙you is？
+00165
+No, it's okay. I want to ◙brag about my date with ◙you.
+00166
+...I'm kidding though. ◙Why do you think I'll do ◙something like that？ ◙Hehe.
+00167
+Hmm...？ What's with that？
+00168
+○○○○○○○○
+00169
+I see. That only means no ◙one can match the perfect ◙lovers！
+00170
+Oh you, don't say such ◙things... Even if they're ◙true. I'm kidding▼
+00171
+Manaka
+00172
+Hey... What would you do ◙if I suddenly said I don't ◙want to go home today？
+00173
+What would I do if you'd ◙say that？
+00174
+You're worried I won't go ◙back？
+00175
+What！！
+00176
+...I thought my heart was ◙going to pop out.
+00177
+Yes, isn't that right？ ◙But, someday...
+00178
+I really wanna grow up ◙soon...
+00179
+Manaka
+00180
+I was getting a little ◙hungry a while ago...
+00181
+Okay, let's go eat ◙▲MANAKA▲！
+00182
+Maybe it's just your ◙imagination！
+00183
+Me？ Well, I'm currently ◙doing some training. ◙Do you know some delicious ◙food nearby？
+00184
+Oh you, I don't think ◙that's really the case.
+00185
+○○○○○○○○
+00186
+Haha, it's okay then.
+00187
+Manaka
+00188
+Hey. Is your room clean as ◙usual？
+00189
+I don't know. Just by ◙having you in it, the air ◙becomes fresh and pink, ◙▲MANAKA▲！
+00190
+I was thinking you would ◙come, so I cleaned a ◙little before, ◙▲MANAKA▲...
+00191
+Really？ Hehehe！
+00192
+Then, let's dye it in ◙more Manaka colors, so it ◙lasts for a long time. ◙I'm kidding.
+00193
+You cleaned it up for me. ◙Thank you.
+00194
+...But, can you leave it ◙as it is next time？ I'll ◙do it for you, okay？
+00195
+Manaka
+00196
+If you were to renovate ◙the room, what would you ◙like me to do first？
+00197
+Just leave it as it is！
+00198
+When that time comes, ◙it's better to decide ◙together！
+00199
+Really？
+00200
+○○○○○○○○
+00201
+Of course, that way we can ◙give it a cute feeling to ◙the room. Maybe giving it a ◙feeling like ◙"▲MANAKA▲".
+00202
+...I see. Then, you're ◙going to leave it as it ◙is, won't you？
+00203
+Us, together... Are we ◙going to think about it？
+00204
+Of course. I'll help you.
+00205
+I'm so happy, thank you. ◙When that time comes, ◙please help me▼
+00206
+Manaka
+00207
+Ah. Did you brought the ◙sweets for the tea？
+00208
+I forgot, stay here while ◙I bring them.
+00209
+It's okay, just wait here ◙a little. I have them ◙here.
+00210
+...Geez. I can't do ◙anything about it, so ◙I'll give some to you.
+00211
+Instead, don't go home ◙until I say so, okay？ ◙I'm kidding.
+00212
+Really？ In that case tell ◙any time you want.
+00213
+Manaka
+00214
+...Isn't it funny how ◙we're still not used to ◙being alone together in ◙the same room？
+00215
+Yeah, it's funny. We like ◙each other a lot
+00216
+I don't think it's that ◙strange, do you？
+00217
+I'm so happy. I'm having ◙fun but I'm also excited ◙and anxious.
+00218
+You too, huh？ Somehow, I ◙felt a bit relieved.
+00219
+That doesn't mean you ◙dislike that feeling, do ◙you？
+00220
+I don't know how to ◙explain it...

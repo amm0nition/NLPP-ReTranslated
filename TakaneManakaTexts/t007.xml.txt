@@ -1,0 +1,662 @@
+00000
+Manaka
+00001
+I just had a haircut. What ◙do you think？
+00002
+○○○○○○○○
+00003
+Let me see...
+00004
+Isn't it great？
+00005
+It doesn't suit you
+00006
+Manaka
+00007
+I just had a haircut. ◙Do I look okay？
+00008
+○○○○○○○○
+00009
+Let me see...
+00010
+Isn't it great？
+00011
+It doesn't suit you
+00012
+Manaka
+00013
+I changed my hairstyle to ◙change my image. How is ◙it？
+00014
+○○○○○○○○
+00015
+Let me see...
+00016
+Isn't it great？
+00017
+It doesn't suit you
+00018
+Manaka
+00019
+My hair length is ◙different now. What do you ◙think？
+00020
+○○○○○○○○
+00021
+Let me see...
+00022
+I think it's good
+00023
+It's not good
+00024
+Manaka
+00025
+I couldn't decide on the ◙length of my hair, so it ◙ended up semi-long. Do I ◙look weird？
+00026
+○○○○○○○○
+00027
+Let me see...
+00028
+I think it's good
+00029
+It's not good
+00030
+Manaka
+00031
+I'm trying this hairstyle. ◙How is it？
+00032
+○○○○○○○○
+00033
+Let me see...
+00034
+I think it's good
+00035
+It's not good
+00036
+Manaka
+00037
+My hair is longer now. ◙What do you think？
+00038
+○○○○○○○○
+00039
+Let me see...
+00040
+It suits you
+00041
+It doesn't suit you
+00042
+Manaka
+00043
+I read from a magazine ◙that most guys like women ◙with long hair... I wonder ◙if it's true...
+00044
+○○○○○○○○
+00045
+Let me see...
+00046
+It suits you
+00047
+It doesn't suit you
+00048
+Manaka
+00049
+I think long hair is good, ◙so... What do you think？
+00050
+○○○○○○○○
+00051
+Let me see...
+00052
+It suits you
+00053
+It doesn't suit you
+00054
+Manaka
+00055
+I really expected you to ◙say that.
+00056
+Manaka
+00057
+I get embarrassed when you ◙compliment me. Stop ◙looking at me.
+00058
+Manaka
+00059
+I'm glad you like it. I ◙don't know what I'd do if ◙you said you didn't like ◙it.
+00060
+Manaka
+00061
+Really？ I thought you'd ◙like it though.
+00062
+Manaka
+00063
+I'm glad you told me ◙honestly, but... No... ◙It's okay. Thank you for ◙being honest.
+00064
+Manaka
+00065
+Eh？ Really？ So this is not ◙good...？
+00066
+Manaka
+00067
+How about this？ It's my ◙new hairstyle.
+00068
+○○○○○○○○
+00069
+Let me see...
+00070
+It's nice
+00071
+I think it's not good
+00072
+Manaka
+00073
+I changed my hairstyle. ◙Does it look bad？
+00074
+○○○○○○○○
+00075
+Let me see...
+00076
+It's nice
+00077
+I think it's not good
+00078
+Manaka
+00079
+I changed my hairstyle. ◙How is it？
+00080
+○○○○○○○○
+00081
+Let me see...
+00082
+It's nice
+00083
+I think it's not good
+00084
+Manaka
+00085
+Hehe, I'm glad. It's good ◙that I decided on this.
+00086
+Manaka
+00087
+Great. I've been wondering ◙whether you would like it.
+00088
+Manaka
+00089
+Hehe, yay▼
+00090
+Manaka
+00091
+Really？ What...？
+00092
+Manaka
+00093
+I see... Um.
+00094
+Manaka
+00095
+Eh？ No way. It's not ◙good...
+00096
+Manaka
+00097
+How do I look？
+00098
+○○○○○○○○
+00099
+Let me see...
+00100
+Nice！
+00101
+Not quite good！
+00102
+Manaka
+00103
+I thought I should change ◙my image, so...
+00104
+I hope you like it...
+00105
+○○○○○○○○
+00106
+Let me see...
+00107
+Nice！
+00108
+Not quite good！
+00109
+Manaka
+00110
+I wanted to change my ◙image, so I changed my ◙hairstyle. How is it？
+00111
+○○○○○○○○
+00112
+Let me see...
+00113
+Nice！
+00114
+Not quite good！
+00115
+○○○○○○○○
+00116
+▲MANAKA▲！？
+00117
+Manaka
+00118
+How is this？ I don't know ◙if I overdid it or not...
+00119
+L-Let me see...
+00120
+This is the best！
+00121
+This is bad
+00122
+○○○○○○○○
+00123
+▲MANAKA▲！？
+00124
+Manaka
+00125
+I'm very embarrassed with ◙this...
+00126
+L-Let me see...
+00127
+This is the best！
+00128
+This is bad
+00129
+○○○○○○○○
+00130
+▲MANAKA▲！？
+00131
+Manaka
+00132
+I tried my best but it ◙might not have come out ◙well.
+00133
+L-Let me see...
+00134
+This is the best！
+00135
+This is bad
+00136
+Manaka
+00137
+I thought that I should ◙try changing my clothing ◙style a little bit.
+00138
+Manaka
+00139
+I wanted to change my ◙image a little bit... I ◙hope you like it.
+00140
+Manaka
+00141
+I've been thinking about ◙what kinds of clothes you ◙would like best...
+00142
+Manaka
+00143
+I tried this outfit... ◙What do you think？
+00144
+○○○○○○○○
+00145
+Let me see...
+00146
+It's great
+00147
+It isn't very good
+00148
+I don't care
+00149
+Manaka
+00150
+I don't want to spend too ◙much time dressing up, so ◙I ended up with a simple ◙outfit. Does it suit me？
+00151
+○○○○○○○○
+00152
+Let me see...
+00153
+It's great
+00154
+It isn't very good
+00155
+I don't care.
+00156
+Manaka
+00157
+I want to look like a neat ◙woman, so I tried this ◙outfit. I wonder if it ◙looks good on me...
+00158
+○○○○○○○○
+00159
+Let me see...
+00160
+It's great
+00161
+It isn't very good
+00162
+I don't care
+00163
+Manaka
+00164
+I think my outfit is very ◙girlish today. What do you ◙think？
+00165
+○○○○○○○○
+00166
+Let me see...
+00167
+It's good
+00168
+It doesn't suit you
+00169
+I don't care
+00170
+Manaka
+00171
+I tried this girlish ◙outfit today...
+00172
+○○○○○○○○
+00173
+Let me see...
+00174
+It's good
+00175
+It doesn't suit you
+00176
+I don't care
+00177
+Manaka
+00178
+I'm wearing a very girlish ◙outfit today. I'd be happy ◙if you thought it was cute.
+00179
+○○○○○○○○
+00180
+Let me see...
+00181
+It's good
+00182
+It doesn't suit you
+00183
+I don't care
+00184
+Manaka
+00185
+I stopped wearing formal ◙clothes and tried this ◙style instead. How is it？
+00186
+○○○○○○○○
+00187
+Let me see...
+00188
+I think it's good
+00189
+It's not good
+00190
+I don't care
+00191
+Manaka
+00192
+I'm wearing this casual ◙outfit this time. Do I ◙look weird？
+00193
+○○○○○○○○
+00194
+Let me see...
+00195
+I think it's good
+00196
+It's not good
+00197
+I don't care
+00198
+Manaka
+00199
+My outfit is quite casual ◙today. Do you like it？
+00200
+○○○○○○○○
+00201
+Let me see...
+00202
+I think it's good
+00203
+It's not good
+00204
+I don't care
+00205
+Manaka
+00206
+How do you like my outfit？ ◙I wonder if I overdid it.
+00207
+○○○○○○○○
+00208
+L-Let me see...
+00209
+Very good！
+00210
+You overdid it, I guess
+00211
+Hmm？ You did a good job
+00212
+Manaka
+00213
+It's so embarrassing to ◙wear this...
+00214
+○○○○○○○○
+00215
+L-Let me see...
+00216
+This is the best！
+00217
+You overdid it
+00218
+Hmm...
+00219
+Manaka
+00220
+...I've tried my best. I ◙wonder what you think...
+00221
+○○○○○○○○
+00222
+L-Let me see...
+00223
+I'm very impressed！
+00224
+You overdid it
+00225
+*yawn* ...I'm sleepy
+00226
+Manaka
+00227
+Okay, that's great. I'll ◙keep wearing this style ◙for a while.
+00228
+Manaka
+00229
+I'm so glad... I was ◙wondering what I should do ◙if you said it didn't ◙suit me.
+00230
+Manaka
+00231
+I'm so happy！ I changed it ◙for your sake. Hehe.
+00232
+Manaka
+00233
+I see. Too bad. I didn't ◙think I looked that bad.
+00234
+Manaka
+00235
+Eh？ Really？ Sorry. I'll ◙try harder.
+00236
+Manaka
+00237
+Eh？ Really？ ...But thank ◙you for being honest. ◙It must be hard for you ◙too. Thank you.
+00238
+Manaka
+00239
+What？ It seems like you ◙don't really care. ◙Whatever.
+00240
+Manaka
+00241
+Hey... Aren't you going to ◙say something？ Come on.
+00242
+Manaka
+00243
+Hey, I really tried my ◙best...
+00244
+Manaka
+00245
+So, you don't care, huh？
+00246
+Manaka
+00247
+...I thought you'd at ◙least say something.
+00248
+Manaka
+00249
+No comment at all, huh？
+00250
+Manaka
+00251
+I thought I'd try changing ◙my clothing style. How do ◙you like it？
+00252
+○○○○○○○○
+00253
+Well...
+00254
+I think it looks good
+00255
+It doesn't suit you
+00256
+It doesn't matter
+00257
+Manaka
+00258
+Today, I tried to go for a ◙simple look... What do you ◙think？
+00259
+○○○○○○○○
+00260
+Well...
+00261
+I think it looks good
+00262
+It doesn't suit you
+00263
+It doesn't matter
+00264
+Manaka
+00265
+I don't really like ◙flashiness, so today I ◙chose simple outfit. What ◙do you think？ Do you like ◙it？
+00266
+○○○○○○○○
+00267
+Well...
+00268
+I think it looks good
+00269
+It doesn't suit you
+00270
+It doesn't matter
+00271
+Manaka
+00272
+Here, I'm going for a ◙girlish look. Be honest. ◙What do you think？
+00273
+○○○○○○○○
+00274
+Well...
+00275
+It's good
+00276
+I think it's not good
+00277
+I don't know
+00278
+Manaka
+00279
+I'm sorry... I'm not ◙confident with this... ◙Maybe you prefer a ◙different style, right？
+00280
+○○○○○○○○
+00281
+Well...
+00282
+It's good
+00283
+I think it's not good
+00284
+I don't know
+00285
+Manaka
+00286
+Lately, I like cute stuff ◙like this. What do you ◙think？ As my boyfriend, ◙won't you give me your ◙honest opinion？
+00287
+○○○○○○○○
+00288
+Well...
+00289
+It's good
+00290
+I think it's not good
+00291
+I don't know
+00292
+Manaka
+00293
+It's easy to move in ◙casual clothes but... ◙I wonder if they hide my ◙girlishness. What do you ◙think？
+00294
+○○○○○○○○
+00295
+Well...
+00296
+I think it's good
+00297
+You had better change
+00298
+Whatever
+00299
+Manaka
+00300
+I think these casual ◙clothes make me look more ◙active... Should I change？
+00301
+○○○○○○○○
+00302
+Well...
+00303
+I think it's good
+00304
+You had better change
+00305
+Whatever
+00306
+Manaka
+00307
+What do you think of this ◙kind of casual clothing？
+00308
+○○○○○○○○
+00309
+Well...
+00310
+I think it's good
+00311
+You had better change
+00312
+Whatever
+00313
+Manaka
+00314
+Yeah, I'm glad. Thanks.
+00315
+Manaka
+00316
+I'm glad... But I still ◙have to make more diverse ◙efforts.
+00317
+Manaka
+00318
+Really？ I'm glad. I guess ◙I start to understand ◙what you like. Yeah.
+00319
+Manaka
+00320
+Ah, really. I wonder if ◙it's about time to do an ◙image change.
+00321
+Manaka
+00322
+Really... I'm sorry. Next ◙time I'll think harder ◙before choosing.
+00323
+Manaka
+00324
+Eh？ Really？ I see. ◙I thought I understood ◙your tastes, though...
+00325
+Manaka
+00326
+Is that so？ I guess boys ◙aren't interested in ◙things like clothes.
+00327
+Manaka
+00328
+Mm... I really don't ◙understand that...
+00329
+Manaka
+00330
+Hey, are you feeling ◙embarrassed by any chance？

@@ -1,0 +1,290 @@
+00000
+Manaka
+00001
+People are looking at ◙us...
+00002
+Manaka
+00003
+People are looking at ◙us...
+00004
+Manaka
+00005
+People are looking at ◙us...
+00006
+○○○○○○○○
+00007
+(Alright, I'll gently do ◙skinship.)
+00008
+(Alright, let's play her a ◙prank.)
+00009
+○○○○○○○○
+00010
+(Alright, I'll gently do ◙skinship.)
+00011
+(Alright, let's play her a ◙prank.)
+00012
+○○○○○○○○
+00013
+(Alright, I'll gently do ◙skinship.)
+00014
+(Alright, let's play her a ◙prank.)
+00015
+Manaka
+00016
+...
+00017
+The message number is ◙different.
+00018
+Manaka
+00019
+...
+00020
+The message number is ◙different.
+00021
+Manaka
+00022
+...
+00023
+The message number is ◙different.
+00024
+Manaka
+00025
+...
+00026
+The message number is ◙different.
+00027
+Manaka
+00028
+Emm.
+00029
+Ah.
+00030
+Hehe.
+00031
+Whew.
+00032
+Uff.
+00033
+Hmm.
+00034
+Kya.
+00035
+Yup.
+00036
+Huh？
+00037
+Geez.
+00038
+Yes？
+00039
+That so.
+00040
+Eh？
+00041
+Geez...
+00042
+Finally.
+00043
+It can't be.
+00044
+No.
+00045
+No good.
+00046
+Wow.
+00047
+Umm...
+00048
+Hey stop！
+00049
+No...
+00050
+Yes, up to that point.
+00051
+Isn't it intentional？
+00052
+Will you look down on it？
+00053
+You can't do that.
+00054
+I'll get angry.
+00055
+Not letting it happen.
+00056
+It's bad manners, isn't it？
+00057
+Manaka
+00058
+Eh.
+00059
+Ah.
+00060
+Hehe.
+00061
+Whew.
+00062
+Uff.
+00063
+Hmm.
+00064
+Kya.
+00065
+Yup.
+00066
+Ah？
+00067
+Geez.
+00068
+Yes？
+00069
+That so.
+00070
+Huh？
+00071
+Geez...
+00072
+Finally.
+00073
+It can't be.
+00074
+No.
+00075
+No good.
+00076
+Wow.
+00077
+Umm...
+00078
+Hey, stop！
+00079
+No...
+00080
+Yes, up to that point.
+00081
+It's not on purpose, is it？
+00082
+Will you look down on it？
+00083
+You can't do that.
+00084
+I'll get angry.
+00085
+I'm not letting it happen.
+00086
+It's bad manners, isn't it？
+00087
+Manaka
+00088
+Eh.
+00089
+Ah.
+00090
+Hehe.
+00091
+Whew.
+00092
+Uff.
+00093
+Hmm.
+00094
+Kyaa.
+00095
+Yup.
+00096
+Ah？
+00097
+Geez.
+00098
+Yes？
+00099
+That so.
+00100
+Huh？
+00101
+Geez...
+00102
+Finally.
+00103
+It can't be.
+00104
+No.
+00105
+No good.
+00106
+Wow.
+00107
+Umm...
+00108
+Hey, stop.
+00109
+No...
+00110
+Yes, up to that point.
+00111
+It's not on purpose, is it？
+00112
+Will you look down on it？
+00113
+You can't do that.
+00114
+I'll get angry.
+00115
+I'm not letting it happen.
+00116
+It's bad manner, isn't it？
+00117
+○○○○○○○○
+00118
+Touch Skinship
+00119
+Once again from the start
+00120
+Once again after loading
+00121
+Stop
+00122
+SKINSHIP_RET_UNINITIALIZE
+00123
+SKINSHIP_RET_IDLE
+00124
+SKINSHIP_RET_WAIT
+00125
+SKINSHIP_RET_TOUCH_BODY
+00126
+SKINSHIP_RET_TOUCH_HAND
+00127
+SKINSHIP_RET_THROUGH
+00128
+SKINSHIP_RET_TIME_OUT
+00129
+SKINSHIP_RET_SKIP
+00130
+SKINSHIP_RET_CHANGE_SITUATION
+00131
+SKINSHIP_RET_END
+00132
+SKINSHIP_RET_OTHER
+00133
+Face-to-face
+00134
+Sit down
+00135
+Side by side
+00136
+○○○○○○○○
+00137
+Skinship at any time
+00138
+Face-to-face (date,normal)
+00139
+Sitting (face-to-face)
+00140
+Side by side (moving)
+00141
+Side by side (sitting)
+00142
+One more time
+00143
+Stop
+00144
+Next

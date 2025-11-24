@@ -1,0 +1,140 @@
+00000
+Manaka
+00001
+Yes, hello.
+00002
+○○○○○○○○
+00003
+Hello, it's me, ◙▲MANAKA▲.
+00004
+Yes, I now your tone. ◙What's wrong？
+00005
+Um, you know...
+00006
+Manaka
+00007
+Hello？
+00008
+○○○○○○○○
+00009
+Hello, it's me, ◙▲MANAKA▲.
+00010
+Yeah, I know your voice. ◙What's wrong？
+00011
+Um, you know...
+00012
+Manaka
+00013
+Yes, this is Manaka ◙speaking.
+00014
+○○○○○○○○
+00015
+Hello, it's me, ◙▲MANAKA▲.
+00016
+Hehe, what's wrong？
+00017
+Um, you know...
+00018
+○○○○○○○○
+00019
+I want to change our the ◙day of our date...
+00020
+How does ▲MONTH▲▲DAY▲ at ◙▲TIME▲ sound？
+00021
+Manaka
+00022
+....
+00023
+Yes, that sounds fine. ◙I'm glad we didn't had to ◙cancel our date.
+00024
+It was a relief for me ◙too. See you soon.
+00025
+I'm sorry. It seems like ◙I can't make it that day...
+00026
+I see, well then...
+00027
+○○○○○○○○
+00028
+I want to change the day ◙of our date...
+00029
+How does ▲MONTH▲▲DAY▲ at ◙▲TIME▲ sound？
+00030
+Manaka
+00031
+....
+00032
+That makes me glad... ◙Emm, I mean it's okay.
+00033
+I see, thank you. See you ◙soon.
+00034
+Sorry, that day is a ◙little...
+00035
+I see, well then...
+00036
+○○○○○○○○
+00037
+I want to change the date ◙for our date...
+00038
+How does ▲MONTH▲▲DAY▲ at ◙▲TIME▲ sound？
+00039
+Manaka
+00040
+....
+00041
+Okay. Hehe, I'll indulge ◙your selfish desires.
+00042
+Sorry, sorry. Then, I'll ◙see you soon.
+00043
+Hmm, nope.
+00044
+I see, well then...
+00045
+○○○○○○○○
+00046
+Um... I'm sorry. It was ◙nothing after all.
+00047
+Manaka
+00048
+Geez, what's with that？ ◙But, I'm glad we didn't ◙had to cancel our date. ◙See ya.
+00049
+○○○○○○○○
+00050
+Ah... sorry. It's nothing.
+00051
+Manaka
+00052
+Are you sure？ I wanted to ◙hear your voice a little ◙more... I'm kidding. See ya.
+00053
+○○○○○○○○
+00054
+Actually, I just called ◙because I wanted to hear ◙your voice. I'm kidding.
+00055
+Manaka
+00056
+Geez, that's a lie. But ◙it's okay, thank you. ◙See you later.
+00057
+○○○○○○○○
+00058
+(This is fine. I have to ◙remember about it.)
+00059
+○○○○○○○○
+00060
+(This is fine. It's bad ◙to change the date too ◙many times, so let's go ◙with the original day.)
+00061
+○○○○○○○○
+00062
+I'd like to change the ◙day for our travel...
+00063
+How does this day sound: ◙▲MONTH▲▲DAY▲？
+00064
+Manaka
+00065
+....
+00066
+It's okay, I'm glad you ◙let me know. Don't ◙worry about it.
+00067
+I see, I'm relieved. ◙I'm sorry, I'll see ya.
+00068
+I'm sorry. That day ◙it's not good...
+00069
+I see. Then I'll see you ◙later...

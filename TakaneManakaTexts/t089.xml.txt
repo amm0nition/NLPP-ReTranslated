@@ -1,0 +1,316 @@
+00000
+Manaka
+00001
+Hello... Hehe.
+00002
+○○○○○○○○
+00003
+Hello... Huh, why are you ◙laughing？
+00004
+I had the feeling something ◙good would happen. And I ◙suddenly got your call. ◙What are you doing？
+00005
+Well, you know...
+00006
+Manaka
+00007
+Yes, hello.
+00008
+○○○○○○○○
+00009
+Are you okay to speak now？
+00010
+Yeah, go ahead.
+00011
+You know...
+00012
+Manaka
+00013
+*dial tone*
+00014
+○○○○○○○○
+00015
+Hello... Huh？ hello？
+00016
+I can hear you... ◙What happened？
+00017
+Ah, emmm...
+00018
+○○○○○○○○
+00019
+How does this day sound, ◙▲MONTH▲▲DAY▲？ Why don't we go ◙here ▲LOCATION▲？
+00020
+○○○○○○○○
+00021
+Are you free tomorrow？　◙Why don't we go to ◙▲LOCATION▲, together？
+00022
+○○○○○○○○
+00023
+If you are free, why don't ◙we go to ▲LOCATION▲？
+00024
+Manaka
+00025
+Yes. I was just thinking ◙I wanted to go out. Thank ◙you for inviting me.
+00026
+Manaka
+00027
+Yes, I'm free. So, I'll ◙see you there, okay？
+00028
+Manaka
+00029
+Tomorrow then, got it. ◙It suddenly feels like the ◙day is going slower, ◙I can't wait.
+00030
+Manaka
+00031
+Tomorrow... Yeah, I can ◙make it.
+00032
+Manaka
+00033
+Yes, that's okay. We are ◙going on a date, right？
+00034
+Manaka
+00035
+Okay. I have some free time.
+00036
+Manaka
+00037
+That day is not good. ◙I'm sorry, but...
+00038
+Manaka
+00039
+That day is a little... ◙I can't.
+00040
+Manaka
+00041
+I'm sorry, I have something ◙to do tomorrow. I shouldn't ◙have made plans.
+00042
+Manaka
+00043
+Tomorrow？ I have something ◙to do tomorrow.
+00044
+Manaka
+00045
+I can't go right now... ◙Sorry.
+00046
+Manaka
+00047
+But right now is... ◙It's too sudden.
+00048
+Manaka
+00049
+Please wait. If you don't ◙mind, why don't we go to ◙another place？
+00050
+Manaka
+00051
+If you could change the ◙day, I might be able to ◙go...
+00052
+Manaka
+00053
+This is complicated... ◙What should I do？
+00054
+○○○○○○○○
+00055
+Do you think it's better ◙to pass this time？
+00056
+Manaka
+00057
+What should we do about ◙the time？
+00058
+○○○○○○○○
+00059
+Well then, we will meet ◙at...
+00060
+Manaka
+00061
+Okay. That day is fine ◙for me.
+00062
+○○○○○○○○
+00063
+Then, I'll see you at ◙▲TIME▲ in ◙▲LOCATION▲.
+00064
+Manaka
+00065
+If that's the case, I think ◙I'm going to go home late. ◙Now that we have set the ◙date, I want us to take our ◙time that day...
+00066
+○○○○○○○○
+00067
+Very well, I can't wait.
+00068
+Manaka
+00069
+I'm sorry. I would be ◙grateful if you could ◙move it a little late...
+00070
+○○○○○○○○
+00071
+Well, now that you ◙mention it...
+00072
+Manaka
+00073
+...Hehe, this will keep ◙me happy until that day.
+00074
+○○○○○○○○
+00075
+Haha, yes I get you.
+00076
+Manaka
+00077
+My heart stamp is getting ◙thin. I have to buy it ◙again.
+00078
+○○○○○○○○
+00079
+(You do cute things ◙each time I see you, ◙▲MANAKA▲.)
+00080
+Manaka
+00081
+...I wonder if tomorrow ◙can come already. I've been ◙staring at the clock-hands ◙for a while.
+00082
+○○○○○○○○
+00083
+Haha, I'm impatient too.
+00084
+Manaka
+00085
+Can I hope for tomorrow ◙to come soon？
+00086
+○○○○○○○○
+00087
+Haha, leave it to me.
+00088
+Manaka
+00089
+Now then, do you want to ◙hold a competition to see ◙which one arrives first？
+00090
+○○○○○○○○
+00091
+All right, I'm not going ◙to lose.
+00092
+Manaka
+00093
+I'm going to get ready ◙quickly, so wait for me ◙a little longer, please？
+00094
+○○○○○○○○
+00095
+I'll be waiting for you. ◙You don't have to panic.
+00096
+Manaka
+00097
+Hmm... I really wanted to ◙see you.
+00098
+○○○○○○○○
+00099
+We can't do anything about ◙it. See you next time.
+00100
+Manaka
+00101
+...This is not going to ◙work.
+00102
+○○○○○○○○
+00103
+I agree. I'll invite you ◙again next time.
+00104
+Manaka
+00105
+I see... There's nothing I ◙can do.
+00106
+○○○○○○○○
+00107
+That's too bad...
+00108
+○○○○○○○○
+00109
+I'm sorry, it's nothing. ◙Never mind.
+00110
+Manaka
+00111
+Huh？ Now I'm curious, ◙but... Yeah, I'll see you ◙later then.
+00112
+○○○○○○○○
+00113
+Hmm... Sorry, it was ◙nothing after all！
+00114
+Manaka
+00115
+Nothing？ Oh, okay... ◙If you say so...
+00116
+○○○○○○○○
+00117
+Excuse me but... I'm sorry, ◙is it okay if I just called ◙to hear your voice？
+00118
+Manaka
+00119
+I see, don't worry I ◙understand...
+00120
+Manaka
+00121
+I'll be hanging up soon.
+00122
+○○○○○○○○
+00123
+Sure, see you later.
+00124
+Manaka
+00125
+Okay then... Good night.
+00126
+○○○○○○○○
+00127
+Good night, ◙▲MANAKA▲.
+00128
+Manaka
+00129
+Well, I'll hang up...
+00130
+○○○○○○○○
+00131
+Yes, see you later...
+00132
+Manaka
+00133
+See you later.
+00134
+○○○○○○○○
+00135
+Yes. Good night.
+00136
+Manaka
+00137
+...I don't want to end ◙the call.
+00138
+○○○○○○○○
+00139
+Don't hang up.
+00140
+I want to stay like this ◙for a while... Can we speak ◙a little while longer？
+00141
+...Yes, I want to hear ◙your voice a little longer.
+00142
+But, we have to say goodbye ◙soon. Okay then... ◙Bye-bye.
+00143
+Manaka
+00144
+...Hello？
+00145
+○○○○○○○○
+00146
+Hello？
+00147
+Hehe. I wanted to hear your ◙voice again.
+00148
+Haha...
+00149
+Okay then... See you later.
+00150
+Manaka
+00151
+...Hehe. Why don't you hang ◙up first？
+00152
+○○○○○○○○
+00153
+It's kind of hard to hang ◙up to you...
+00154
+For me too. Hey, can we ◙stay like this forever？
+00155
+Well, now that's something ◙else...
+00156
+It was a joke. Okay then... ◙Bye-bye.
+00157
+(...I thought you meant it.)

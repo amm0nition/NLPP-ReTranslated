@@ -1,0 +1,1254 @@
+00000
+Manaka
+00001
+Should we eat around here？
+00002
+Manaka
+00003
+I think we can have lunch ◙here without trouble.
+00004
+Manaka
+00005
+I tried to do it in a ◙Japanese style. I hope it ◙suits your tastes.
+00006
+○○○○○○○○
+00007
+If you made it, I'm sure ◙it's definitely delicious. ◙Bon appetit, ◙▲MANAKA▲！
+00008
+Manaka
+00009
+Please, have some. ◙Have some tea too.
+00010
+○○○○○○○○
+00011
+Japanese style is good. ◙Bon appetit！
+00012
+Manaka
+00013
+It's a Western-style ◙lunch today. Eat a lot.
+00014
+○○○○○○○○
+00015
+It's amazing, it'll be a ◙waste not to eat this.
+00016
+Manaka
+00017
+I've added a lot of ◙things that make you ◙happy.
+00018
+○○○○○○○○
+00019
+It's okay to eat Western ◙food, it has a lot of ◙things in it. Bon appetit.
+00020
+Manaka
+00021
+What do you think about my ◙Chinese-style bento？
+00022
+○○○○○○○○
+00023
+Oh, it looks delicious. ◙Bon appetit！
+00024
+Manaka
+00025
+Today is a Chinese style ◙lunch. I got up early to ◙make it, Hehe.
+00026
+○○○○○○○○
+00027
+It looks delicious... ◙As expected of you！ ◙Bon appetit, ◙▲MANAKA▲.
+00028
+Manaka
+00029
+Here, a box full of love ◙from Manaka... ◙I'm kidding▼
+00030
+○○○○○○○○
+00031
+I'm a happy guy... ◙Bon appetit！
+00032
+Manaka
+00033
+...I hope it tastes well.
+00034
+○○○○○○○○
+00035
+If you did it I'm sure it's ◙okay. Bon appetit, ◙▲MANAKA▲.
+00036
+Manaka
+00037
+I want to feed you... ◙I'm kidding.
+00038
+Do it, do it！
+00039
+I'll do it myself
+00040
+Manaka
+00041
+Here, open your mouth. ◙Ammm.
+00042
+Manaka
+00043
+Don't be shy. Here, ammm.
+00044
+Manaka
+00045
+Geez, I won't do it even ◙if you asked.
+00046
+Manaka
+00047
+It's okay. Even if I said ◙it seriously...
+00048
+Manaka
+00049
+Hey... I want you to feed ◙me.
+00050
+Then, open wide
+00051
+Eat yourself, don't you？
+00052
+Manaka
+00053
+Really？ Hooray. Ammm.
+00054
+Manaka
+00055
+I want you to feed me. ◙Here, ammm.
+00056
+Manaka
+00057
+You don't have to say it ◙like that. Hmm, a pity.
+00058
+Manaka
+00059
+I see... It's okay.
+00060
+○○○○○○○○
+00061
+I was impressed. It was ◙delicious.
+00062
+Manaka
+00063
+Thank you. I'm so impressed ◙by how happy you look ◙after eating...
+00064
+○○○○○○○○
+00065
+I can't eat any more of ◙your bento, it was so ◙delicious.
+00066
+Manaka
+00067
+Oh you, don't exaggerate.
+00068
+○○○○○○○○
+00069
+Thanks for the food. ◙It was delicious.
+00070
+Manaka
+00071
+I think it was worth the ◙effort.
+00072
+○○○○○○○○
+00073
+Thanks for the food. ◙It was a valuable ◙experience.
+00074
+Manaka
+00075
+...What does that mean？
+00076
+○○○○○○○○
+00077
+(I think your cooking ◙skills need a little more ◙of practice, ◙▲MANAKA▲...)
+00078
+○○○○○○○○
+00079
+(I think your cooking ◙skills are doing great ◙▲MANAKA▲.)
+00080
+○○○○○○○○
+00081
+(I think your cooking ◙skills are getting better ◙▲MANAKA▲.)
+00082
+○○○○○○○○
+00083
+(I really can brag about ◙your cooking skills as your ◙boyfriend ◙▲MANAKA▲.)
+00084
+○○○○○○○○
+00085
+(With your cooking skills I ◙can't think of you as an ◙amateur anymore ◙▲MANAKA▲.)
+00086
+○○○○○○○○
+00087
+(I think you can teach ◙others now that your ◙cooking skills are better, ◙▲MANAKA▲.)
+00088
+○○○○○○○○
+00089
+(You are like a top chef ◙with those cooking skills ◙▲MANAKA▲.)
+00090
+○○○○○○○○
+00091
+(I feel like I'm eating at ◙a three-star restaurant ◙when you cook ◙▲MANAKA▲.)
+00092
+○○○○○○○○
+00093
+(Your cooking skills are ◙the best in the world ◙▲MANAKA▲.)
+00094
+○○○○○○○○
+00095
+(Your cooking skills make ◙you the best cook in human ◙history ◙▲MANAKA▲！)
+00096
+Manaka
+00097
+Hey, what kind of bento ◙do you want next？ I will ◙do some research.
+00098
+○○○○○○○○
+00099
+Umm, let's see...
+00100
+I want some Japanese food
+00101
+I want some Western food
+00102
+Some Chinese food
+00103
+ジャンル４　未使用
+00104
+ジャンル５　未使用
+00105
+ジャンル６　未使用
+00106
+○○○○○○○○
+00107
+I want to eat ◙▲COOKING▲.
+00108
+Manaka
+00109
+Yes. If that's the case ◙I'm confident, so look ◙forward to it.
+00110
+Manaka
+00111
+I understand. Look forward ◙to it.
+00112
+Manaka
+00113
+Emm... okay. I will need ◙some time to practice.
+00114
+Manaka
+00115
+I've never made that. ◙I'll practice, so wait ◙for a bit.
+00116
+Manaka
+00117
+This is my first time at ◙this shop. I wonder if ◙it's delicious.
+00118
+○○○○○○○○
+00119
+Yes, let's get in.
+00120
+Manaka
+00121
+I like this shop.
+00122
+○○○○○○○○
+00123
+Me too. It's nice.
+00124
+Manaka
+00125
+You love this store...
+00126
+○○○○○○○○
+00127
+Yeah, I do too. Let's go ◙in for the time being.
+00128
+Manaka
+00129
+What shall we order today？ ◙I hope there is a new ◙menu.
+00130
+○○○○○○○○
+00131
+It's time to memorize ◙the menu.
+00132
+Manaka
+00133
+Right here？
+00134
+○○○○○○○○
+00135
+It's gonna be fine. Let's ◙go.
+00136
+○○○○○○○○
+00137
+What do you want to order？ ◙Do you see something you'd ◙like to eat ◙▲MANAKA▲？
+00138
+Manaka
+00139
+I wonder what should I ◙do. I'm hungry...
+00140
+Manaka
+00141
+I wonder what should I ◙do... I'm at a loss here.
+00142
+Manaka
+00143
+I wonder what should I ◙do. At this rate, I think ◙I can eat anything.
+00144
+○○○○○○○○
+00145
+Emmm, I want...
+00146
+Menu 1
+00147
+Menu 2
+00148
+Menu 3
+00149
+Leave it to me
+00150
+I want ▲OPTION1▲, ◙and you？
+00151
+Manaka
+00152
+Let me see... How about ◙this？
+00153
+○○○○○○○○
+00154
+▲OPTION1▲？ ◙Do you want to have it？
+00155
+Manaka
+00156
+I... I want this.
+00157
+○○○○○○○○
+00158
+▲OPTION2▲？◙Do you want that one？ ◙Okay, I'll call the clerk.
+00159
+○○○○○○○○
+00160
+By the way your hairstyle, ◙▲MANAKA▲...
+00161
+Manaka
+00162
+My hairstyle？
+00163
+Yes, you know...
+00164
+It suits you
+00165
+Why don't you change it？
+00166
+Return to your old style
+00167
+It's nothing
+00168
+○○○○○○○○
+00169
+I'm sorry, it's nothing.
+00170
+Manaka
+00171
+Is that so？... Then it's ◙fine.
+00172
+○○○○○○○○
+00173
+I want you to try the ◙hairstyle from when we ◙first met.
+00174
+Manaka
+00175
+What's with you so ◙suddenly. I don't mind, ◙though.
+00176
+○○○○○○○○
+00177
+It looked good on you.
+00178
+Manaka
+00179
+It's okay... I can't do ◙it right now.
+00180
+○○○○○○○○
+00181
+Yes, that's right...
+00182
+Manaka
+00183
+By all means...
+00184
+○○○○○○○○
+00185
+It's not impossible, ◙though.
+00186
+○○○○○○○○
+00187
+I want to see a different ◙you. What do you think ◙▲MANAKA▲？
+00188
+Manaka
+00189
+If you say so. Hey, can ◙you help me choose？
+00190
+○○○○○○○○
+00191
+Yes, I can do that.
+00192
+Manaka
+00193
+...Are you tired of ◙seeing me with this ◙style？
+00194
+○○○○○○○○
+00195
+Not really, but... ◙I'm sorry, I didn't think ◙about it.
+00196
+○○○○○○○○
+00197
+That hairstyle suits you, ◙so I don't mind.
+00198
+Manaka
+00199
+Is that so？ Then, I will ◙leave like this for a ◙while.
+00200
+Manaka
+00201
+I'm happy... I'm sorry ◙if I want to change it ◙later.
+00202
+○○○○○○○○
+00203
+Yes, I understand.
+00204
+○○○○○○○○
+00205
+Your hairstyle ◙▲MANAKA▲...
+00206
+Manaka
+00207
+What's wrong with my ◙hair？
+00208
+I was just thinking...
+00209
+A little longer
+00210
+It's best a little ◙shorter
+00211
+Why don't make it short？
+00212
+Medium length suits you
+00213
+It' nothing
+00214
+Manaka
+00215
+You mean... Is it okay to ◙leave it as it is now？
+00216
+○○○○○○○○
+00217
+Huh？ Emm, yes, that's ◙right.
+00218
+Manaka
+00219
+If you say so, I think ◙I'll give it a try.
+00220
+○○○○○○○○
+00221
+Yes, I think it will ◙definitely suit you.
+00222
+Manaka
+00223
+Hmm, I wonder...
+00224
+○○○○○○○○
+00225
+If you don't like that, ◙it's okay ◙▲MANAKA▲.
+00226
+○○○○○○○○
+00227
+Oh, it's about an ◙accessory you're wearing ◙today.
+00228
+Manaka
+00229
+Hmm？
+00230
+On your hair
+00231
+Earrings
+00232
+A necklace
+00233
+The one on your arm
+00234
+It's a ring
+00235
+The glasses
+00236
+You look good
+00237
+Isn't that good？
+00238
+It's nothing
+00239
+○○○○○○○○
+00240
+That hair accessory is ◙perfect for you, ◙▲MANAKA▲.
+00241
+○○○○○○○○
+00242
+Those earrings match your ◙image perfectly, ◙▲MANAKA▲.
+00243
+○○○○○○○○
+00244
+It's a cute necklace. ◙It looks good on you.
+00245
+○○○○○○○○
+00246
+It looks really cute on ◙your arm.
+00247
+○○○○○○○○
+00248
+I think that ring is cute.
+00249
+○○○○○○○○
+00250
+Those glasses are cute.
+00251
+Manaka
+00252
+Thank you. If you like it ◙so much, maybe I'll wear it ◙all the time...
+00253
+○○○○○○○○
+00254
+How nice！
+00255
+○○○○○○○○
+00256
+That hair accessory... ◙may not fit you.
+00257
+○○○○○○○○
+00258
+I feel that those ◙earrings are not good...
+00259
+○○○○○○○○
+00260
+The necklace doesn't look ◙good, does it？
+00261
+○○○○○○○○
+00262
+This accessory on your ◙arm... It doesn't look ◙good.
+00263
+○○○○○○○○
+00264
+...That ring. I think ◙there's something more ◙suitable for you ◙▲MANAKA▲.
+00265
+○○○○○○○○
+00266
+Those glasses may not be ◙good enough...
+00267
+Manaka
+00268
+Is that so... I won't wear ◙it for a while.
+00269
+○○○○○○○○
+00270
+I'm sorry.
+00271
+○○○○○○○○
+00272
+Excuse me. How do you ◙choose your clothes ◙▲MANAKA▲？
+00273
+Manaka
+00274
+How do I？ Hmm...
+00275
+Well then...
+00276
+Let's chance the type
+00277
+Let's change the color
+00278
+Let's change the shape
+00279
+It's not that important
+00280
+○○○○○○○○
+00281
+How about changing the ◙shape of your clothes？
+00282
+Manaka
+00283
+For example？
+00284
+A skirt
+00285
+One piece
+00286
+Pants
+00287
+A lot of exposure
+00288
+○○○○○○○○
+00289
+A skirt would be nice.
+00290
+○○○○○○○○
+00291
+One piece might be good.
+00292
+○○○○○○○○
+00293
+Lemme see... like pants？
+00294
+○○○○○○○○
+00295
+With a lot of exposure... ◙It's a joke.
+00296
+Manaka
+00297
+Yes, it might be good. ◙I think I'll try it next ◙time.
+00298
+○○○○○○○○
+00299
+Yes, give it a try.
+00300
+Manaka
+00301
+...I don't think it's the ◙same as it is now.
+00302
+○○○○○○○○
+00303
+I see. I guess I said ◙something unnecessary.
+00304
+○○○○○○○○
+00305
+I was wondering if you ◙could change the color.
+00306
+Manaka
+00307
+It's certainly to be a ◙change of pace, but... ◙What do you feel like？
+00308
+Bright and warm colors
+00309
+A bright cold color
+00310
+Dark warm color system？
+00311
+Joint dark-cold color ◙system
+00312
+○○○○○○○○
+00313
+I think bright and warm ◙colors are nice. ◙Your mood seems to get ◙brighter.
+00314
+○○○○○○○○
+00315
+How about a brighter cold ◙color？ You will feel cool ◙and refreshing.
+00316
+○○○○○○○○
+00317
+What about a dark color ◙system？ The feelings seem ◙to be warm, too.
+00318
+○○○○○○○○
+00319
+Why don't you put it ◙together a dark-cold ◙color system？ Maybe ◙you'll feel calmer.
+00320
+Manaka
+00321
+Color... Yes, I'll think ◙about it when choosing ◙clothes.
+00322
+○○○○○○○○
+00323
+Try it. I'm looking ◙forward for it.
+00324
+Manaka
+00325
+I'll use it as a ◙reference... I have some ◙favorite colors...
+00326
+○○○○○○○○
+00327
+I see, well that's fine.
+00328
+○○○○○○○○
+00329
+Why don't you try a ◙different genre？
+00330
+Manaka
+00331
+A genre？
+00332
+Appeal your cuteness
+00333
+Casual
+00334
+A neat appearance
+00335
+○○○○○○○○
+00336
+How about cute clothes？
+00337
+○○○○○○○○
+00338
+Isn't it good to go by a ◙casual look？
+00339
+○○○○○○○○
+00340
+If it's neat clothes, I ◙think I'll be hooked on ◙you even more, ◙▲MANAKA▲.
+00341
+Manaka
+00342
+I see... but I think ◙that's the same kind of ◙clothes I'm wearing.
+00343
+○○○○○○○○
+00344
+Hmm？... Yes, maybe.
+00345
+Manaka
+00346
+Well then, I think I'll ◙try to do wear that next ◙time.
+00347
+○○○○○○○○
+00348
+Yes, give it a try！
+00349
+Manaka
+00350
+Emm, I have my own way of ◙making decisions.
+00351
+○○○○○○○○
+00352
+No good... It's a pity.
+00353
+○○○○○○○○
+00354
+Why don't you change my ◙nickname？
+00355
+Manaka
+00356
+It might be interesting. ◙How should I call you？
+00357
+Manaka
+00358
+Why don't we leave it as ◙it is？
+00359
+○○○○○○○○
+00360
+Well, it's not bad.
+00361
+○○○○○○○○
+00362
+I want...
+00363
+▲OPTION1▲
+00364
+▲OPTION2▲
+00365
+▲OPTION3▲
+00366
+▲OPTION4▲
+00367
+▲OPTION5▲
+00368
+○○○○○○○○
+00369
+▲NEWPLAYER▲. Do you ◙think it's good？
+00370
+Manaka
+00371
+Let's see... Why not ◙trying something else？
+00372
+○○○○○○○○
+00373
+▲NEWPLAYER▲. I want ◙you to call me like this.
+00374
+Manaka
+00375
+▲NEWPLAYER▲.
+00376
+It might take a little ◙while to get used to it.
+00377
+○○○○○○○○
+00378
+▲NEWPLAYER▲. I'd be ◙happy if you call me like ◙that.
+00379
+Manaka
+00380
+▲NEWPLAYER▲.
+00381
+It's a little ◙embarrassing... But, that ◙name is also good.
+00382
+○○○○○○○○
+00383
+Call me ▲NEWPLAYER▲.
+00384
+Manaka
+00385
+▲NEWPLAYER▲.
+00386
+...Like this？ Hehe▼
+00387
+Manaka
+00388
+If you don't think it ◙seriously, stop it.
+00389
+○○○○○○○○
+00390
+(I thought about it ◙seriously...)
+00391
+○○○○○○○○
+00392
+Why don't I change the way ◙I call you ◙▲MANAKA▲？
+00393
+Manaka
+00394
+That's fine, but how do ◙you want to call me？
+00395
+Manaka
+00396
+I'm... I'm happy with the ◙way it is.
+00397
+○○○○○○○○
+00398
+Hmm. Then, let's leave it ◙as it is.
+00399
+○○○○○○○○
+00400
+Then...
+00401
+▲OPTION1▲
+00402
+▲OPTION2▲
+00403
+▲OPTION3▲
+00404
+▲OPTION4▲
+00405
+▲OPTION5▲
+00406
+○○○○○○○○
+00407
+▲OPTION5▲. ◙What do you think？
+00408
+Manaka
+00409
+I'm sorry... I don't like ◙it. You should call me by ◙other name.
+00410
+○○○○○○○○
+00411
+▲OPTION5▲. Can ◙I call you like that？
+00412
+Manaka
+00413
+It's kind of fresh... ◙Yes, it's fine.
+00414
+○○○○○○○○
+00415
+▲OPTION5▲. May I ◙call you like this？
+00416
+Manaka
+00417
+Yup. If you want to.
+00418
+○○○○○○○○
+00419
+▲OPTION5▲. Can I ◙call you this way？
+00420
+Manaka
+00421
+Hmmm yes, it sounds good.
+00422
+Manaka
+00423
+...We should leave as it ◙is after all.
+00424
+○○○○○○○○
+00425
+...You're right.
+00426
+Manaka
+00427
+Can we take a look at the ◙hair catalog with me？ ◙I'm a little lost...
+00428
+All right！
+00429
+You can leave it as it ◙is
+00430
+Manaka
+00431
+Is that so？ Then, do you ◙want to leave it as it ◙is？
+00432
+○○○○○○○○
+00433
+Yes, that's good.
+00434
+Manaka
+00435
+Which do you think is ◙better？
+00436
+○○○○○○○○
+00437
+Then...
+00438
+The cute one
+00439
+The neat one
+00440
+The casual one
+00441
+The recommended one
+00442
+○○○○○○○○
+00443
+You should choose from ◙this page.
+00444
+Manaka
+00445
+Yes, I agree.
+00446
+Alright.
+00447
+○○○○○○○○
+00448
+How about this kind？
+00449
+Manaka
+00450
+In this case, I wonder ◙which one is better...
+00451
+Choose carefully.
+00452
+○○○○○○○○
+00453
+Do you want to choose ◙from among these？
+00454
+Manaka
+00455
+Okay. First of all, let ◙me hear your opinion.
+00456
+All right, leave it to ◙me.
+00457
+Manaka
+00458
+Which one is better...
+00459
+Manaka
+00460
+Oh, is this good？
+00461
+Manaka
+00462
+This one？ I wonder if it ◙suits me.
+00463
+Manaka
+00464
+This may be good.
+00465
+Manaka
+00466
+I like this.
+00467
+Manaka
+00468
+I wonder if it's okay ◙like this.
+00469
+Manaka
+00470
+I knew it！ You're averting ◙my gaze.
+00471
+Manaka
+00472
+This is my preference.
+00473
+Manaka
+00474
+In this case, I have to ◙cut my hair.
+00475
+Manaka
+00476
+I wonder if I have to grow ◙my hair.
+00477
+Manaka
+00478
+Oh, I thought it was good ◙too.
+00479
+○○○○○○○○
+00480
+I'm sure it will look good ◙on you, ◙▲MANAKA▲.
+00481
+Manaka
+00482
+I wonder about this... ◙But you choose it for me.
+00483
+○○○○○○○○
+00484
+(Huh, I don't think she's ◙enthusiastic about it.)
+00485
+Manaka
+00486
+Hey, what about my hair ◙color？
+00487
+○○○○○○○○
+00488
+It's a great deal, and I ◙want to think about it.
+00489
+That's right. Why don't ◙you choose from the ◙catalog？
+00490
+I wonder what should I ◙do...
+00491
+Manaka
+00492
+I know, what about my ◙hair color？
+00493
+○○○○○○○○
+00494
+Alright, I wonder what ◙should we choose.
+00495
+It's hard to choose a ◙color.
+00496
+You have to make it a ◙color that suits your ◙hair style.
+00497
+Manaka
+00498
+What about the color？ ◙What kind of color do ◙you think suits me？
+00499
+○○○○○○○○
+00500
+Hmm... Let's decide it ◙together while looking at ◙the catalog.
+00501
+Yes, thank you.
+00502
+That's right...
+00503
+Manaka
+00504
+Natural looks nice.
+00505
+Manaka
+00506
+A bright color...
+00507
+Manaka
+00508
+A dark color... Would it ◙look good on me？
+00509
+Manaka
+00510
+I wonder if this color it's ◙reasonable.
+00511
+○○○○○○○○
+00512
+Yes, I think it's a good ◙choice.
+00513
+Manaka
+00514
+Yes, sometimes you need to ◙be adventurous... Is it ◙really okay？
+00515
+○○○○○○○○
+00516
+(...I have a great ◙responsibility.)
+00517
+Manaka
+00518
+...This color？ Really？
+00519
+○○○○○○○○
+00520
+(Huh, don't you like it？)
+00521
+Manaka
+00522
+It was helpful. Thank you ◙for your input.
+00523
+○○○○○○○○
+00524
+Yes, I'm looking forward ◙to it.
+00525
+Clerk
+00526
+Sorry to make you wait. ◙Please take your time.
+00527
+Manaka
+00528
+Looks delicious... ◙Bon appetit.
+00529
+Manaka
+00530
+I will take it.
+00531
+Manaka
+00532
+Ah... this is delicious. ◙What to try it？
+00533
+Please！
+00534
+No thanks
+00535
+Manaka
+00536
+Yours seems to be ◙delicious, too. It may be ◙bad manners, but... ◙Can I have a little？
+00537
+Yes, go ahead
+00538
+Nope
+00539
+Manaka
+00540
+Thank you for the meal.
+00541
+○○○○○○○○
+00542
+Thank you. So, was it ◙delicious？
+00543
+Manaka
+00544
+I'm satisfied. It was so ◙delicious that I was ◙impressed▼
+00545
+Manaka
+00546
+It was very delicious. ◙Today's food was a big ◙hit, right？
+00547
+Manaka
+00548
+Yeah, it was delicious.
+00549
+Manaka
+00550
+Yes... a little.
+00551
+Manaka
+00552
+I'm sorry... It was not ◙that tasty.
+00553
+○○○○○○○○
+00554
+(I'm glad I chose this ◙shop...)
+00555
+○○○○○○○○
+00556
+(I made a mistake...)
+00557
+○○○○○○○○
+00558
+(I wonder if there was ◙something wrong... I feel ◙bad.)
+00559
+Manaka
+00560
+I am full♪　I'm satisfied.
+00561
+Manaka
+00562
+It's the right amount, ◙tastes good, so I have no ◙complaints.
+00563
+Manaka
+00564
+I was a little... just a ◙little more...
+00565
+Manaka
+00566
+I'm full, but the taste ◙was a little...
+00567
+Manaka
+00568
+It was just the right ◙amount... but the taste ◙was a little...
+00569
+Manaka
+00570
+I wonder if the taste and ◙amount are not enough...
+00571
+Manaka
+00572
+The atmosphere in the ◙shop was good.
+00573
+Manaka
+00574
+It wasn't a shop where ◙you could relax too much.
+00575
+Manaka
+00576
+The interior decoration ◙of the shop was wonderful. ◙I like it.
+00577
+Manaka
+00578
+I wish it was a little ◙more fashionable.
+00579
+Manaka
+00580
+This is a popular shop ◙right now♪
+00581
+Manaka
+00582
+Emm... Bon appetit.
+00583
+Manaka
+00584
+It's amazing... Bon ◙appetit.
+00585
+Manaka
+00586
+This is amazing... Bon ◙appetit.
+00587
+Manaka
+00588
+Yes, it's delicious.
+00589
+Manaka
+00590
+It's delicious...
+00591
+Manaka
+00592
+Hmmm, it's delicious！
+00593
+Manaka
+00594
+...Wow... It's delicious.
+00595
+Manaka
+00596
+Hmm, it's delicious.
+00597
+Manaka
+00598
+Emm... I think it has a ◙unique taste.
+00599
+Manaka
+00600
+Hmm... it's not so good.
+00601
+Manaka
+00602
+Hmm, it's spicy.
+00603
+Manaka
+00604
+Hehe, it turned out to be ◙good after all.
+00605
+Manaka
+00606
+...Yes, it turned out to be ◙surprisingly good.
+00607
+Manaka
+00608
+I wonder if I could have ◙done it better...
+00609
+Manaka
+00610
+Hmm！
+00611
+Manaka
+00612
+Yes, yes.
+00613
+Manaka
+00614
+Hmm...
+00615
+Manaka
+00616
+...Hmm？
+00617
+Manaka
+00618
+Delicious♪
+00619
+Manaka
+00620
+Yup...
+00621
+Manaka
+00622
+As expected, it tastes ◙good. Delicious♪
+00623
+Manaka
+00624
+Hmm... I guess it was a ◙little different from ◙what I was expecting.
+00625
+Manaka
+00626
+Yes, it was delicious.

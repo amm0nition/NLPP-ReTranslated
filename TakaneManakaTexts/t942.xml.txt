@@ -1,0 +1,62 @@
+00000
+Manaka
+00001
+...
+00002
+The message number is ◙different.
+00003
+Manaka
+00004
+Normal
+00005
+Laughing
+00006
+Angry
+00007
+Sad
+00008
+Funny
+00009
+Surprised
+00010
+Troubled
+00011
+Thrilled
+00012
+Light laugh
+00013
+Mildly angry
+00014
+Embarrassed
+00015
+Surprised
+00016
+Entertained
+00017
+Fidgety
+00018
+Shy laugh
+00019
+Smiling face
+00020
+Kissing face
+00021
+Half-kissing face
+00022
+Closed-eyes kissing face
+00023
+Normal
+00024
+Embarrassed
+00025
+Angry
+00026
+Thrilled
+00027
+Awkward
+00028
+Smile
+00029
+Smile with blush
+00030
+Worried smile

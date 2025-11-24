@@ -1,0 +1,130 @@
+00000
+Manaka
+00001
+That reminds, I was ◙thinking about buying ◙clothes. Can you tag along ◙with me？
+00002
+○○○○○○○○
+00003
+Clothes, huh...？
+00004
+Let's go
+00005
+Not today
+00006
+Manaka
+00007
+Ah, you know, I'd like to ◙buy clothes... I'd be ◙happy if you could come ◙with me.
+00008
+○○○○○○○○
+00009
+Clothes, huh...
+00010
+Let's go
+00011
+Do something else？
+00012
+Manaka
+00013
+Hey, since we're on a ◙date, why don't we go ◙shopping？ I want to go ◙see clothes.
+00014
+○○○○○○○○
+00015
+That's right...
+00016
+Sounds good
+00017
+I don't feel like going
+00018
+Manaka
+00019
+Thank you very much.
+00020
+Manaka
+00021
+Really？ Where are we ◙going？
+00022
+Boutique
+00023
+Accessory shop
+00024
+Cosmetics shop
+00025
+Manaka
+00026
+I get lost among all the ◙options... What do you ◙think will look good？
+00027
+○○○○○○○○
+00028
+Hmm, since you're asking...
+00029
+Something cute
+00030
+Something neat
+00031
+Something casual
+00032
+Something sexy
+00033
+Manaka
+00034
+...I get it, then I'll ◙choose...
+00035
+Manaka
+00036
+How about this...？ I think ◙it's good.
+00037
+Manaka
+00038
+How about this？ I think ◙this suits me...
+00039
+Manaka
+00040
+I like this, but what do ◙you think？
+00041
+Manaka
+00042
+And this？ I'm not too sure ◙about it, but I wonder if ◙it will make you happy...
+00043
+Manaka
+00044
+Hmm... This is a little ◙different... isn't it？
+00045
+Manaka
+00046
+I'm not feeling like usual, ◙but what do you think？
+00047
+○○○○○○○○
+00048
+Hmm, lemme see...
+00049
+It suits you
+00050
+Another one
+00051
+○○○○○○○○
+00052
+Let's see...
+00053
+It's perfect
+00054
+Isn't there another？
+00055
+○○○○○○○○
+00056
+(I have to decide soon...)
+00057
+I feel...
+00058
+The first was the best
+00059
+The previous clothes ◙were good
+00060
+Those clothes are the best
+00061
+Manaka
+00062
+Then, it's decided. I also ◙thought this was good♪　◙Thank you.
+00063
+Manaka
+00064
+Do you think so？ If you ◙say so, I'll take the ◙plunge and buy it.

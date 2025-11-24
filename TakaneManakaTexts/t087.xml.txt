@@ -1,0 +1,276 @@
+00000
+Manaka
+00001
+Yes, hello.
+00002
+○○○○○○○○
+00003
+What are you doing now？ ◙If you don't have plans, ◙why don't we meet？
+00004
+Yeah, I can go now. ◙I always put you first... ◙I'm kidding.
+00005
+Haha, then I'll wait for ◙you at ▲LOCATION▲ ◙for our date.
+00006
+Yes！
+00007
+Ah... I'm sorry, I can't go ◙right now.
+00008
+I'm sorry for interrupting ◙your activities. Let's ◙leave it for next time.
+00009
+Ask me out again next ◙time, okay？
+00010
+Manaka
+00011
+Yes. What's wrong？
+00012
+○○○○○○○○
+00013
+Can you go out now？ I want ◙to meet up with you ◙▲MANAKA▲.
+00014
+Yes. Where are we going？
+00015
+Then let's meet at ◙▲LOCATION▲.
+00016
+Got it. It's really nice ◙to see you whenever we can.
+00017
+I'm sorry, I can't go out ◙right now.
+00018
+Ah... sorry. It would have ◙been nice, but I understand.
+00019
+I'm sorry. See you next ◙time, okay？
+00020
+Manaka
+00021
+Yes, this is Makana.
+00022
+○○○○○○○○
+00023
+Hello, hello？ I know it's ◙sudden, but can we meet now ◙▲MANAKA▲？
+00024
+Geez, it's too sudden. ◙All right, I'll meet up ◙with you... I'm kidding.
+00025
+Thank you. Can I meet you ◙at ▲LOCATION▲？
+00026
+Yup. I'll get ready soon.
+00027
+Hmm... I can't right now.
+00028
+I get it. I'm sorry for ◙asking so suddenly.
+00029
+I want to see you when I ◙hear your voice... See ya.
+00030
+Manaka
+00031
+Yes. What's wrong？
+00032
+○○○○○○○○
+00033
+I thought it would be nice ◙to see you now.
+00034
+Yes, I like that idea. ◙Where should we meet？
+00035
+Then, let's go together ◙to ▲LOCATION▲.
+00036
+Yes, sir. Please wait for ◙me.
+00037
+I'm happy, but I can't do ◙it right now.
+00038
+Ah, I see. Well, I ◙understand.
+00039
+Call me again, okay？ ◙See you.
+00040
+Manaka
+00041
+Yes. What is it？
+00042
+○○○○○○○○
+00043
+I want to see you. Can we ◙meet now ◙▲MANAKA▲？
+00044
+No problem. I just had ◙some time, too.
+00045
+Yay！ Then let's meet at ◙▲LOCATION▲.
+00046
+Okay. Well then, see you ◙later.
+00047
+I'm glad you invited me, ◙but now it's a little... ◙I am sorry.
+00048
+I'm the one who should ◙apologize. It was too ◙sudden.
+00049
+Thank you for calling me. ◙Well then...
+00050
+Manaka
+00051
+Hello.
+00052
+○○○○○○○○
+00053
+Hello. Can I see you now？ ◙How about it？
+00054
+Yes, I believe I can see ◙you. I'm kidding.
+00055
+I'm glad. Then, let's meet ◙at ▲LOCATION▲.
+00056
+Thank you for inviting me.
+00057
+I can't meet with you... ◙Your timing was a little ◙bad.
+00058
+I see. I have the worst ◙luck.
+00059
+I was able to hear your ◙voice on the phone, so I ◙might have been a little ◙lucky. I'm kidding.
+00060
+Manaka
+00061
+Hello？
+00062
+○○○○○○○○
+00063
+Oh, hello. If you have ◙time, wouldn't it be nice ◙to go out now？
+00064
+...I don't feel that way ◙right now.
+00065
+I see... I'm sorry.
+00066
+OK, bye.
+00067
+(...That was kind of ◙awkward.)
+00068
+Manaka
+00069
+Yes...
+00070
+○○○○○○○○
+00071
+Hello. If you'd like, why ◙don't we meet now？
+00072
+Right now？ I don't think ◙I can...
+00073
+Ah, I see... Sorry.
+00074
+Then I'll hang up.
+00075
+(She was in a really bad ◙mood...)
+00076
+Manaka
+00077
+Hello...
+00078
+○○○○○○○○
+00079
+I called you because I ◙would like to meet up with ◙you today ◙▲MANAKA▲.
+00080
+...Not right now.
+00081
+I see...
+00082
+Yes, I'll see you later.
+00083
+(She didn't seem to be ◙in a good mood...)
+00084
+○○○○○○○○
+00085
+Emm, hello.
+00086
+Manaka
+00087
+It's me, Manaka. I want ◙to see you. What are you ◙doing now？
+00088
+(What I'm doing now, ◙huh...)
+00089
+Yes, I can go now
+00090
+Specify the time
+00091
+I'm sorry, It's not a ◙good time...
+00092
+Okay！ Then, we should ◙meet at ▲LOCATION▲, ◙is that okay？
+00093
+Yes... I'm glad you're ◙such a kind boyfriend.
+00094
+It's because you're such ◙a cute girlfriend！ ◙See you later.
+00095
+Understood. Okay then.
+00096
+Then let's meet at ◙▲TIME▲ in ▲LOCATION▲, ◙okay.
+00097
+...I wonder if I'll be ◙ahead of schedule.
+00098
+Haha, it's okay to take ◙your time. Then, I see you ◙at ▲TIME▲.
+00099
+There's a lot going on ◙right now, I can't.
+00100
+I see. Then I can't do ◙anything about it.
+00101
+Sorry. See you soon.
+00102
+○○○○○○○○
+00103
+Yes, who is this？
+00104
+Manaka
+00105
+It's me. You know, I just ◙really wanted to see you ◙all of a sudden... Is it ◙okay now？
+00106
+Well...
+00107
+Yes, I can go now
+00108
+Specify the time
+00109
+Sorry, now it's a little ◙inconvenient...
+00110
+Okay！ I'll meet you at the ◙▲LOCATION▲.
+00111
+Thank you. Didn't you have ◙any plans？
+00112
+Even if I had, you are my ◙priority！ See you later, ◙▲MANAKA▲.
+00113
+Yes, that time will be ◙fine.
+00114
+Alright. At this time ◙▲TIME▲, and this place ◙▲LOCATION▲, okay.
+00115
+Yes. Thank you, I'm glad ◙I asked.
+00116
+It's because I wanted to ◙see you. See you later.
+00117
+It's too bad. It's not ◙convenient right now.
+00118
+Yes... you're right, it ◙was sudden.
+00119
+It just happens. See you ◙next time.
+00120
+○○○○○○○○
+00121
+Hello.
+00122
+Manaka
+00123
+Hello it's me, your ◙girlfriend, I'm kidding... ◙Hey, can we meet now？
+00124
+Well, let's see...
+00125
+Yes, it's okay
+00126
+Specify the time
+00127
+I'm sorry, but right ◙now...
+00128
+Okay！ Does meeting at the ◙▲LOCATION▲ sound ◙good？
+00129
+Yes, that sounds good. ◙I'll be right there.
+00130
+Haha, I'll hurry up too.
+00131
+Yes, that time is fine.
+00132
+Well then, at this time ◙▲TIME▲ and at this ◙place, ▲LOCATION▲. ◙Don't make any mistakes.
+00133
+I won't make any mistakes. ◙This is important.
+00134
+Then, see you later.
+00135
+The time is a little bad ◙for me...
+00136
+I'm sorry. But we'll see ◙each other again soon, ◙won't we？
+00137
+Yes, of course. See you ◙soon.

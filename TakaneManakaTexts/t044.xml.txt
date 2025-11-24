@@ -1,0 +1,580 @@
+00000
+Manaka
+00001
+...Do you regret your ◙actions？
+00002
+Manaka
+00003
+Geez, don't be messing ◙with me, okay？
+00004
+Manaka
+00005
+Do you think I should ◙forgive you？
+00006
+Manaka
+00007
+You remembered my ◙birthday！
+00008
+Manaka
+00009
+Today is my birthday so, ◙stay with me, okay？
+00010
+Manaka
+00011
+Thank you for coming for ◙my birthday.
+00012
+Manaka
+00013
+You forgot my birthday...
+00014
+Manaka
+00015
+My birthday is already ◙over...
+00016
+Manaka
+00017
+What kind of person ◙forgets his girlfriend's ◙birthday？
+00018
+Manaka
+00019
+Happy birthday, thank you ◙for being born... I love ◙you.
+00020
+Manaka
+00021
+Happy birthday. I would ◙really like if we could ◙stay together.
+00022
+Manaka
+00023
+Happy birthday！ Today is ◙the day when my most ◙important person was born. ◙I love you▼
+00024
+Manaka
+00025
+Happy birthday, I wanted to ◙congratulate you today...
+00026
+Manaka
+00027
+Happy birthday. It's a ◙little late, but...
+00028
+Manaka
+00029
+Happy birthday！ I hope I ◙can say that to you next ◙year too.
+00030
+Manaka
+00031
+Today is the anniversary ◙of when we first met. ◙It's an important day ◙for both of us.
+00032
+Manaka
+00033
+Today is our ◙anniversary... The first ◙day I met you. Let's stay ◙together forever.
+00034
+Manaka
+00035
+What day is today？ ◙...The correct answer is ◙the day we met. It's our ◙anniversary.
+00036
+Manaka
+00037
+Today is the day we started ◙dating. I love you. More ◙than before.
+00038
+Manaka
+00039
+Today is the anniversary ◙of our relationship. I love ◙you. From now on, I'll ◙always be there for you.
+00040
+Manaka
+00041
+Today is the day we ◙started dating. Did you ◙remember it？ Hehe, ◙I love you▼
+00042
+Manaka
+00043
+Today is the day we kissed ◙for the first time. ◙Do you want to remember ◙it once more？ *kiss*.
+00044
+Manaka
+00045
+Today is... The anniversary ◙of when you kissed me for ◙the first time. So... ◙*kiss*.
+00046
+Manaka
+00047
+Do you know what kind of ◙anniversary is today？ The ◙correct answer is... ◙Can you come closer？ ◙...*kiss*.
+00048
+Manaka
+00049
+Hurry up, Monday. We shall ◙do our best this week！ ◙Right？
+00050
+Manaka
+00051
+It's Tuesday. We still ◙have a lot of days before ◙us, don't we？ Do your ◙best！
+00052
+Manaka
+00053
+Wednesday. The turning ◙point of the week, cheer ◙up！
+00054
+Manaka
+00055
+Thursday. What are your ◙plans for the weekend... ◙What do you want to do？
+00056
+Manaka
+00057
+It's Friday. Isn't it a ◙bit exciting？
+00058
+Manaka
+00059
+Saturday. Good work this ◙week.
+00060
+Manaka
+00061
+It's Saturday！ Hey, what ◙should we do？
+00062
+Manaka
+00063
+Finally, Sunday. Do you ◙want to go out today？
+00064
+Manaka
+00065
+I want to relax together ◙on Sunday... Can we？
+00066
+Manaka
+00067
+This wind is getting ◙better and better.
+00068
+Manaka
+00069
+Don't you want to take a ◙walk when the weather is ◙nice？
+00070
+Manaka
+00071
+It's summer. We must do a ◙lot of memories this year ◙too, okay？
+00072
+Manaka
+00073
+Every day it's too hot... ◙Don't hurt you body okay？
+00074
+Manaka
+00075
+Autumn... I'm feeling a ◙little bit sentimental.
+00076
+Manaka
+00077
+Autumn... The season when ◙the potatoes are ◙delicious... I'm kidding.
+00078
+Manaka
+00079
+It's cold every day, isn't ◙it？ ...Don't catch a cold ◙now, okay？
+00080
+Manaka
+00081
+Don't just curl up inside ◙the kotatsu. Don't you ◙want to go out together？
+00082
+Manaka
+00083
+Happy New Year. Let's be ◙together a lot more this ◙year, okay？
+00084
+Manaka
+00085
+I had my first dream... ◙What kind of dream it was ◙is a secret. Hehe.
+00086
+Manaka
+00087
+My first dream was... ◙I dreamed of you, and... ◙It's embarrassing.
+00088
+Manaka
+00089
+Did you have your first ◙dream？ Was I... in you ◙dream？ I'm kidding.
+00090
+Manaka
+00091
+The new semester starts ◙today. Let's do our best ◙together！
+00092
+Manaka
+00093
+I wonder if I can prepare ◙Nanakusa porridge this ◙year.
+00094
+Manaka
+00095
+Today is the Coming-of-Age ◙Day. I'd like to have an ◙adult ceremony together.
+00096
+Manaka
+00097
+It's the mirror opening ◙today. Don't eat too much ◙mochi, okay？
+00098
+Manaka
+00099
+Today is Setsubun. ◙I prepared some beans... ◙Can I throw them？
+00100
+Manaka
+00101
+Tachiharu. It's spring ◙from today on the ◙calendar, but real spring ◙is still a long way off.
+00102
+Manaka
+00103
+Today is the National ◙Foundation Day. Do you ◙know from where it comes？
+00104
+Manaka
+00105
+What day is it today？ ◙...Hehe, come on！
+00106
+Manaka
+00107
+Today is a special day, ◙so it's mine to have. Hehe！
+00108
+Manaka
+00109
+February 14... What day is ◙it？ I'm kidding, hehe！
+00110
+Manaka
+00111
+Leap years make you feel ◙like you're a day older？
+00112
+Manaka
+00113
+Spring is coming soon, ◙the season of plum ◙blossoms is about to come.
+00114
+Manaka
+00115
+Today is a girl's only ◙festival. Boys aren't ◙allowed. Hehe, that's a ◙lie.
+00116
+Manaka
+00117
+Today is March 14th... ◙No？ Is that's all？ Hehe！
+00118
+Manaka
+00119
+I'm going to keep you all ◙for myself today. ◙Because it's March 14th.
+00120
+Manaka
+00121
+Today is March 14th... ◙That's is why you should ◙stay only with me, okay？
+00122
+Manaka
+00123
+In spring equinox, the ◙day and night have the ◙same length. Do you want ◙to measure it？ I'm kidding.
+00124
+Manaka
+00125
+Spring break is coming ◙soon. Let's make a lot of ◙new friends this days, ◙okay？
+00126
+Manaka
+00127
+Spring break starts today. ◙I don't have much ◙homework to do, so let's ◙spend time together.
+00128
+Manaka
+00129
+I have never told a lie... ◙Would you believe me if ◙I say that？
+00130
+Manaka
+00131
+You know, Manaka is ◙actually a rabbit... ◙It’s true！
+00132
+Manaka
+00133
+I hate you... It's a lie！ ◙A lie！ I'm sorry！
+00134
+Manaka
+00135
+The new semester starts ◙from today. Can we meet ◙at school everyday？
+00136
+Manaka
+00137
+I love cherry blossoms. ◙Shall we go see them ◙together？
+00138
+Manaka
+00139
+Today is Showa Day. ◙Emperor Showa's Birthday.
+00140
+Manaka
+00141
+Golden Week is coming ◙soon. Hey, where should ◙we go？
+00142
+Manaka
+00143
+Today is the Constitution ◙Day. Do you want to be ◙with me on the consecutive ◙holidays？
+00144
+Manaka
+00145
+Today is Green Day. Shall ◙we go to a fresh green ◙park？
+00146
+Manaka
+00147
+Today is Children's Day. ◙Hey, are we still children？
+00148
+Manaka
+00149
+Tachi-Natsu. Today the ◙calendar marks the ◙beginning of summer.
+00150
+Manaka
+00151
+Have you prepared a ◙present for Mother's Day？ ◙When you give it, don't ◙forget to say thanks.
+00152
+Manaka
+00153
+It's sports festival ◙today. Alright, I'll win ◙all the events！ I'm ◙kidding.
+00154
+Manaka
+00155
+Today is the longest day. ◙Summer is approaching.
+00156
+Manaka
+00157
+It's time to change ◙clothes. When the rainy ◙season is over, summer is ◙already here.
+00158
+Manaka
+00159
+Papa get's embarrassed in ◙Father's Day. But I think ◙he'll be happy if I give ◙him a present.
+00160
+Manaka
+00161
+It's sea day, but is the ◙water still cold？
+00162
+Manaka
+00163
+It's Tanabata. I want to ◙write a request together ◙on a bamboo strip...
+00164
+Manaka
+00165
+After our tests are over, ◙summer vacation is coming ◙soon, right？
+00166
+Manaka
+00167
+It's sea day, do you want ◙to go out？
+00168
+Manaka
+00169
+Summer vacation starts ◙today！ Let's make a lot ◙of memories, okay？
+00170
+Manaka
+00171
+Autumn starts today. ◙It's still in the middle ◙of summer outside, ◙isn't it？
+00172
+Manaka
+00173
+I like fireworks... We ◙should see them together.
+00174
+Manaka
+00175
+Today is Obon festival. ◙Your ancestors are coming ◙back, right？... That's a ◙little scary, isn't it？
+00176
+Manaka
+00177
+Summer vacation is over... ◙But, can we meet again at ◙school？
+00178
+Manaka
+00179
+It's a cluster amaryllis. ◙I wonder if I can make ◙some Ohagi with it.
+00180
+Manaka
+00181
+Respect-for-the-Aged Day. ◙I gave a shoulder-massage ◙ticket to my grandpa and ◙grandma, it's was so ◙nostalgic.
+00182
+Manaka
+00183
+It's the Autumn equinox ◙today. Have you noticed ◙that the sky is a little ◙higher recently？
+00184
+Manaka
+00185
+It's about time to say ◙goodbye to summer clothes. ◙I hope they take care of ◙me next year.
+00186
+Manaka
+00187
+It's almost time for the ◙moon of mid-autumn. ◙Wouldn't it be nice to ◙see a clear night sky ◙and a beautiful moon？
+00188
+Manaka
+00189
+Today is Halloween. Are you ◙going to play me a trick？ ◙Hehe！
+00190
+Manaka
+00191
+Today is Culture Day. ◙I wonder what the culture ◙is... I'm kidding, I know ◙it.
+00192
+Manaka
+00193
+It's getting pretty cold ◙in the mornings and ◙evenings. Will this winter ◙be cold？
+00194
+Manaka
+00195
+Shichigosan it's so ◙nostalgic. I still have ◙pictures on display in ◙my house.
+00196
+Manaka
+00197
+Labor Thanksgiving Day. ◙What kind of work will we ◙do in the future？
+00198
+Manaka
+00199
+The School Festival is ◙today. Hehe, the festival ◙is very exciting.
+00200
+Manaka
+00201
+Winter vacation is early ◙this year.
+00202
+Manaka
+00203
+Today is the winter ◙solstice.
+00204
+Manaka
+00205
+Today is the Emperor's ◙birthday, but it's Eve's ◙day for us.
+00206
+Manaka
+00207
+It's winter vacation... ◙The year is coming to an ◙end.
+00208
+Manaka
+00209
+Merry Christmas. I want to ◙thank God for meeting you.
+00210
+Manaka
+00211
+Merry Christmas. May ◙happiness comes to you ◙again next year...
+00212
+Manaka
+00213
+Merry Christmas. It would ◙be nice if we could spend ◙some time together...
+00214
+Manaka
+00215
+It's already New Year's ◙Eve... Thank you for taking ◙care of me this year.
+00216
+Manaka
+00217
+In a test don't be ◙impatient, do it at your ◙own pace, okay？
+00218
+Manaka
+00219
+Long time no see... ◙I was feeling lonely.
+00220
+Manaka
+00221
+I was really lonely.
+00222
+Manaka
+00223
+Don't forget about me ◙anymore！ Okay？
+00224
+Manaka
+00225
+Ah... You finally arrived. ◙Hehe, hurry up！
+00226
+Manaka
+00227
+I'm so glad... I thought ◙you forgot about me. ◙Hey, did you hurry just ◙for me？
+00228
+Manaka
+00229
+Let's leave it at that. ◙Hehe, did you come early ◙just for me？
+00230
+Manaka
+00231
+I'm glad to see you, but... ◙Don't get too fixed on it, ◙okay？
+00232
+Manaka
+00233
+You came again... ◙I'm happy, but please take ◙a break, okay？
+00234
+Manaka
+00235
+Do you want to meet me so ◙much？ Hehe, are you sure ◙it's okay？
+00236
+Manaka
+00237
+Hello？ You come to see me ◙again.
+00238
+Manaka
+00239
+Hey, are you sure it's ◙not a coincidence？
+00240
+Manaka
+00241
+Did you come to see me？
+00242
+Manaka
+00243
+Hey... Did you come to ◙visit me today？
+00244
+Manaka
+00245
+I wanted to see you.
+00246
+Manaka
+00247
+Me, right？ If it's you, ◙then yes.
+00248
+Manaka
+00249
+Hey, what are we doing ◙today？ Hehe！
+00250
+Manaka
+00251
+Hurry, hurry♪
+00252
+Manaka
+00253
+Ah... I just wanted to see ◙you. Hehe.
+00254
+Manaka
+00255
+Let's stay together today.
+00256
+Manaka
+00257
+If I can't see you, then ◙I'll just think about you.
+00258
+Manaka
+00259
+I want you to know more ◙about me...
+00260
+Manaka
+00261
+I want you to teach me a ◙lot of things I don't know.
+00262
+Manaka
+00263
+Hehe, you came gain today.
+00264
+Manaka
+00265
+Hey, did you come early ◙just for me？
+00266
+Manaka
+00267
+I just want to see you... ◙Hehe, it was telepathy, ◙right？
+00268
+Manaka
+00269
+Do you want to stay ◙together today？
+00270
+Manaka
+00271
+Lately, I've been thinking ◙a lot about you...
+00272
+Manaka
+00273
+I want to know more about ◙you...
+00274
+Manaka
+00275
+Even if I can see you ◙every day, it's not ◙enough.
+00276
+Manaka
+00277
+Where are you going to ◙take me today？
+00278
+Manaka
+00279
+You're so slow. Geez... ◙Come on, don't you want ◙to hurry？
+00280
+Manaka
+00281
+And I was just thinking ◙that I wanted to see you.
+00282
+Manaka
+00283
+We must make memories ◙together today, don't we？
+00284
+Manaka
+00285
+I finally got to see you. ◙I'm not going home ◙anymore... I'm kidding.
+00286
+Manaka
+00287
+I will tell you a lot of ◙things you don't know... ◙I'm kidding.
+00288
+Manaka
+00289
+If we are together, each ◙day is a special day, ◙isn't it？

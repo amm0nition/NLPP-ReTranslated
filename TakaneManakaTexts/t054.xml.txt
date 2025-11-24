@@ -1,0 +1,456 @@
+00000
+Manaka
+00001
+▲PLAYER▲. About how I ◙call you...
+00002
+○○○○○○○○
+00003
+Huh？
+00004
+▲NEWPLAYER▲... Can I ◙call you like this？
+00005
+Well, that is...
+00006
+Yes, that's okay
+00007
+How about something else？
+00008
+The usual name is better
+00009
+Yeah, it's okay to call ◙me that.
+00010
+Really？ I've always wanted ◙to call you this.
+00011
+(▲PLAYER▲...？ That ◙sounds nice...)
+00012
+Hmm... How about trying ◙something else...？
+00013
+▲OPTION1▲
+00014
+▲OPTION2▲
+00015
+▲OPTION3▲
+00016
+▲OPTION4▲
+00017
+▲NEWPLAYER▲... How about ◙that？
+00018
+Okay, I see. Then...
+00019
+▲PLAYER▲. Yes, it's ◙better than before.
+00020
+(Yes, not bad！)
+00021
+Sorry, that's really ◙impossible.
+00022
+Eh？ Really...？ I'm sorry.
+00023
+(That's no good...)
+00024
+Isn't it fine the way it ◙is now？
+00025
+So... I won't change it ◙then...
+00026
+(The usual name is the ◙best！)
+00027
+Manaka
+00028
+▲NEWPLAYER▲.
+00029
+○○○○○○○○
+00030
+Huh？ What was it just now？
+00031
+Calling you this... Is it ◙bad？
+00032
+Well, that is...
+00033
+Yes, that's okay
+00034
+How about something else？
+00035
+The usual name is better
+00036
+Yeah, it's okay to call me ◙that.
+00037
+Good. It's quite ◙embarrassing.
+00038
+(▲PLAYER▲...？ That ◙sounds nice...)
+00039
+Hmm... How about trying ◙something else...？
+00040
+▲OPTION1▲
+00041
+▲OPTION2▲
+00042
+▲OPTION3▲
+00043
+▲OPTION4▲
+00044
+▲NEWPLAYER▲... How about ◙that？
+00045
+▲PLAYER▲.
+00046
+Well, that should be ◙okay...
+00047
+(Yes, not bad！)
+00048
+Sorry, that's not good.
+00049
+Really...？ Sorry.
+00050
+(That's no good...)
+00051
+Isn't it fine the way it ◙is now？
+00052
+You're right. I'm sorry...
+00053
+(The usual name is the ◙best！)
+00054
+Manaka
+00055
+▲PLAYER▲.
+00056
+○○○○○○○○
+00057
+What？
+00058
+▲NEWPLAYER▲. How about I ◙call you that？
+00059
+Well, that is...
+00060
+Yes, that's okay.
+00061
+How about something else？
+00062
+The usual name is better
+00063
+Yeah, it's okay to call me ◙that.
+00064
+Really？ I'm glad！ Yeah.
+00065
+(▲PLAYER▲...？ That ◙sounds nice...)
+00066
+Hmm... How about trying ◙something else...？
+00067
+▲OPTION1▲
+00068
+▲OPTION2▲
+00069
+▲OPTION3▲
+00070
+▲OPTION4▲
+00071
+▲NEWPLAYER▲... How about ◙that？
+00072
+Okay, then...
+00073
+▲PLAYER▲. How's that？ ◙Hehe！
+00074
+(Yes, not bad！)
+00075
+That's... not good.
+00076
+(That's no good...)
+00077
+Isn't it fine the way it ◙is now？
+00078
+Huh... Then okay.
+00079
+(The usual name is the ◙best！)
+00080
+Manaka
+00081
+▲NEWPLAYER▲.
+00082
+○○○○○○○○
+00083
+Eh！？
+00084
+...What if I called you ◙this way？
+00085
+(This is...)
+00086
+Good！ Really good！
+00087
+How about something else？
+00088
+Stop it.
+00089
+Isn't it？ I've been ◙wondering whether I should ◙call you this way...
+00090
+(▲PLAYER▲...？)
+00091
+(Well, since she asked, ◙I'd better choose what I ◙like...)
+00092
+▲OPTION1▲
+00093
+▲OPTION2▲
+00094
+▲OPTION3▲
+00095
+▲OPTION4▲
+00096
+Just keep it the same.
+00097
+I'd rather go with... ◙▲NEWPLAYER▲... ◙How's that...？
+00098
+Eh...？ Hmm... Okay, I got ◙it.
+00099
+Really！？
+00100
+▲PLAYER▲... That ◙sounds pretty weird. Are ◙you really okay with it？
+00101
+(She has tried saying ◙it...)
+00102
+Ah, that's good！
+00103
+Isn't it！？
+00104
+I'm kidding.
+00105
+(Tsk. So this is not good, ◙huh...？)
+00106
+You'd better stop it.
+00107
+Well... No, this is okay.
+00108
+(Yep, the usual name is ◙the best...)
+00109
+Manaka
+00110
+▲NEWPLAYER▲.
+00111
+○○○○○○○○
+00112
+Eh！？
+00113
+This name is... not good？
+00114
+(This is...)
+00115
+Good！ Really good！
+00116
+How about something else？
+00117
+Stop it.
+00118
+Good... But, it's very ◙embarrassing.
+00119
+(▲PLAYER▲...？)
+00120
+(Well, since she asked, ◙I'd better choose what I ◙like...)
+00121
+▲OPTION1▲
+00122
+▲OPTION2▲
+00123
+▲OPTION3▲
+00124
+▲OPTION4▲
+00125
+The usual name is better
+00126
+I'd rather go with... ◙▲NEWPLAYER▲... ◙How's that...？
+00127
+......
+00128
+Huh...？ Not good？
+00129
+▲PLAYER▲... Is this ◙good？ Weird？ It's not ◙weird, isn't it？
+00130
+(She has tried saying it...)
+00131
+Ah, it's as weird as I ◙thought！ I was just ◙joking, joking！
+00132
+That's right. Thank ◙goodness...
+00133
+(Tsk. So this is not good, ◙huh...？)
+00134
+You'd better stop it.
+00135
+Really... Sorry for saying ◙something weird.
+00136
+(Yep, the usual name is ◙the best...)
+00137
+Manaka
+00138
+▲NEWPLAYER▲.
+00139
+○○○○○○○○
+00140
+Eh！？
+00141
+▲NEWPLAYER▲. How's that？ ◙Teehee▼
+00142
+(This is...)
+00143
+Good！ Really good！
+00144
+How about something else？
+00145
+Stop it.
+00146
+Hehe, this is better than ◙before. Don't you feel it？ ◙Let's use this from now ◙on, okay？
+00147
+(▲PLAYER▲...？)
+00148
+(Well, since she asked, ◙I'd better choose what I ◙like...)
+00149
+▲OPTION1▲
+00150
+▲OPTION2▲
+00151
+▲OPTION3▲
+00152
+▲OPTION4▲
+00153
+The usual name is better
+00154
+I'd rather go with... ◙▲NEWPLAYER▲... ◙How's that...？
+00155
+▲PLAYER▲.
+00156
+That！ Isn't it good！？
+00157
+If you're this happy, ◙then it's good.
+00158
+(She has tried saying ◙it...)
+00159
+Are you serious？
+00160
+Ah, it's as weird as I ◙thought！ I was just ◙joking, joking！
+00161
+That's not good, right？
+00162
+(Tsk. So this is not good, ◙huh...？)
+00163
+You'd better stop it.
+00164
+You're right. But I'm a ◙bit disappointed.
+00165
+(Yep, the usual name is ◙the best...)
+00166
+○○○○○○○○
+00167
+(I wonder if I should try ◙changing how I call ◙▲MANAKA▲...？)
+00168
+▲OPTION1▲
+00169
+▲OPTION2▲
+00170
+▲OPTION3▲
+00171
+▲OPTION4▲
+00172
+I should keep it the same
+00173
+▲OPTION5▲.
+00174
+Manaka
+00175
+......
+00176
+How is it？
+00177
+Yeah, that's okay.
+00178
+Really？ Then I'll call you ◙▲MANAKA▲！
+00179
+You don't have to be that ◙happy. Geez.
+00180
+I probably have to reserve ◙that.
+00181
+(So it's no good...)
+00182
+That's not good.
+00183
+Really！？
+00184
+Yeah, not good.
+00185
+Um, forget it...
+00186
+...？
+00187
+○○○○○○○○
+00188
+(I wonder if I should try ◙changing how I call ◙▲MANAKA▲...？)
+00189
+▲OPTION1▲
+00190
+▲OPTION2▲
+00191
+▲OPTION3▲
+00192
+▲OPTION4▲
+00193
+I should keep it the same
+00194
+▲OPTION5▲.
+00195
+Manaka
+00196
+......
+00197
+How is it？
+00198
+Well... Yeah, that's okay.
+00199
+Really？ Then I'll call you ◙▲MANAKA▲！
+00200
+Ah... it's embarrassing.
+00201
+That's... embarrassing...
+00202
+(So it's no good...)
+00203
+Hmm... I pass on it...
+00204
+It's fine！ It's fine！
+00205
+Sorry. It's really ◙impossible.
+00206
+Um, forget it...
+00207
+...？
+00208
+○○○○○○○○
+00209
+(I wonder if I should try ◙changing how I call ◙▲MANAKA▲...？)
+00210
+▲OPTION1▲
+00211
+▲OPTION2▲
+00212
+▲OPTION3▲
+00213
+▲OPTION4▲
+00214
+I should keep it the same
+00215
+▲OPTION5▲.
+00216
+Manaka
+00217
+......
+00218
+How is it？
+00219
+Eh？ Is that okay？
+00220
+Yes！ It's really good！
+00221
+Well, then. It's okay.
+00222
+You'd better call me ◙something else. Stop it, ◙okay？
+00223
+(So it's no good...)
+00224
+It's fine！ It's fine！
+00225
+No！
+00226
+Um, forget it...
+00227
+...？

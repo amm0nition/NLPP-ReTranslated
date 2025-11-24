@@ -1,0 +1,3422 @@
+00000
+○○○○○○○○
+00001
+What are you doing, ◙▲MANAKA▲？
+00002
+Manaka
+00003
+Ah... I found this. ◙I picked up a wallet.
+00004
+Okay, I'll help you find ◙the owner
+00005
+I see, that seems tough
+00006
+Want to find the owner ◙together？ Does it have a ◙name somewhere？
+00007
+Oh, lemme see... ◙Just the initials...
+00008
+We have to find the owner. ◙For the time being, let's ◙go to the staff room and ◙ask around.
+00009
+I see, that seems like a ◙hard task.
+00010
+You're right... I will ◙deliver it to the staff ◙room.
+00011
+I think that's the right ◙move.
+00012
+○○○○○○○○
+00013
+(Now then... Where I ◙should look？)
+00014
+○○○○○○○○
+00015
+It seems the owner of this ◙wallet is someone from my ◙class.
+00016
+Manaka
+00017
+Really？ I'm glad we could ◙find the owner.
+00018
+That's right, it's all ◙because you picked it up, ◙▲MANAKA▲.
+00019
+No, it's because you ◙helped me...
+00020
+○○○○○○○○
+00021
+...I couldn't find the ◙owner of the wallet.
+00022
+Manaka
+00023
+I see...
+00024
+I'm sorry, I'm so useless.
+00025
+Don't worry... I delivered ◙it to the staff room, so ◙I'm sure they'll find the ◙owner soon.
+00026
+○○○○○○○○
+00027
+What are you doing, ◙▲MANAKA▲？
+00028
+Manaka
+00029
+Ah！ I think it's good to ◙wash the cleaning tools ◙sometimes, so I tried to ◙move them, but it's heavy.
+00030
+Lemme help
+00031
+That seems too difficult
+00032
+Then I will help you.
+00033
+Are you sure？... Then, I ◙wonder if tomorrow is a ◙good day to start. Can I ◙ask you to come tomorrow？
+00034
+Sure.
+00035
+That seems too difficult, ◙▲MANAKA▲.
+00036
+But I think it's better if ◙it's clean...
+00037
+I see, do your best.
+00038
+○○○○○○○○
+00039
+仮
+00040
+(I promised to help you ◙clean up today, ◙▲MANAKA▲.)
+00041
+Go right away
+00042
+Wait for her
+00043
+Take a little detour
+00044
+Manaka
+00045
+Thank you for helping me.
+00046
+○○○○○○○○
+00047
+No problem. Leave the heavy ◙lifting to me.
+00048
+Okay. You're so reliable.
+00049
+Manaka
+00050
+Huh, that's the cleaning ◙tool case...
+00051
+○○○○○○○○
+00052
+Ah... I'm sorry, what ◙happened？
+00053
+It's fine, I managed to ◙carry it by myself. ◙Don't worry.
+00054
+(...I did a really bad ◙thing.)
+00055
+Manaka
+00056
+Excuse me... Can you bring ◙me your survey for ◙improving club activities？ ◙I was asked by the sensei ◙to collect them...
+00057
+○○○○○○○○
+00058
+Ah, the survey...
+00059
+I'll fill it and bring it ◙back
+00060
+Is it okay if I skip it？
+00061
+I'm sorry, I'll fill it ◙now. Wait a little more, ◙please.
+00062
+Really？ Okay, I'll meet ◙you again.
+00063
+Can I skip it？ I don't ◙think everyone has to do ◙it.
+00064
+I see... Yes, it's not ◙something mandatory.
+00065
+Sorry.
+00066
+○○○○○○○○
+00067
+(What should I do about the ◙survey you asked me about, ◙▲MANAKA▲？)
+00068
+(She told me about the ◙survey, but I haven't ◙written it yet, ◙▲MANAKA▲...)
+00069
+Write about practices
+00070
+Write about balance in ◙matches
+00071
+Write about the club room
+00072
+Manaka
+00073
+Thank you for your survey, ◙I'll submit it to the ◙sensei.
+00074
+○○○○○○○○
+00075
+Yes, I'll leave it to you.
+00076
+I hope your improvement ◙plan is adopted.
+00077
+Manaka
+00078
+Huh... What happened with ◙the survey？
+00079
+○○○○○○○○
+00080
+Ah, I'm sorry！ I couldn't ◙write anything after all.
+00081
+It's fine... it wasn't ◙mandatory.
+00082
+(...I should have written ◙something...)
+00083
+○○○○○○○○
+00084
+You're staring at your ◙phone, what's wrong, ◙▲MANAKA▲？
+00085
+Manaka
+00086
+Ah... Huh, I want to send a ◙photo with an email, but I ◙don't know how to do it...
+00087
+I can help you
+00088
+Read the manual
+00089
+I know a little about it, ◙can you show it to me？
+00090
+Oh, sure.
+00091
+...Yes. If you send it as ◙it is, it's okay.
+00092
+Thank you. It's amazing ◙how you can do it even if ◙you don't own it.
+00093
+Well, every phone is ◙similar, so no big deal.
+00094
+Is that so？　Hmm... Can I ◙ask you about it next ◙time？
+00095
+Yes, ask me anytime.
+00096
+You should read the manual. ◙Maybe that way you can ◙really understand it, ◙▲MANAKA▲.
+00097
+...I think so.
+00098
+It's not that difficult, ◙so it's okay.
+00099
+○○○○○○○○
+00100
+(That's right, she said she ◙would like to learn how to ◙use her phone. I'll go see, ◙▲MANAKA▲.)
+00101
+(I wonder if you learned ◙how to use her phone. ◙I should ask you, ◙▲MANAKA▲.)
+00102
+Go to her classroom
+00103
+Go to the courtyard
+00104
+Go to the club room
+00105
+仮
+00106
+Manaka
+00107
+I'm sorry for bothering ◙you... Thank you for ◙teaching me.
+00108
+○○○○○○○○
+00109
+You're welcome.
+00110
+I feel I'm somehow better ◙at using mobile phones.
+00111
+(...I wonder if that's ◙true.)
+00112
+Manaka
+00113
+Ah, I'm sorry. Teaching ◙me how to use a mobile ◙phone is a hassle, I know.
+00114
+○○○○○○○○
+00115
+Emm... sorry. Somehow, our ◙timings did not match.
+00116
+No, it's fine. I know I'm ◙not good using phones.
+00117
+(Why didn't I help her...)
+00118
+○○○○○○○○
+00119
+Huh, ▲MANAKA▲？ ◙What happened？
+00120
+Manaka
+00121
+Well... I thought I'd keep ◙cleaning the equipment ◙after practice.
+00122
+I'll help you
+00123
+It seems difficult, ◙do you best
+00124
+You don't you have to do ◙it alone. I'll help you.
+00125
+Eh？ But...
+00126
+I don't know if I'll be of ◙any help, but I'm from the ◙same club. Let me help ◙you.
+00127
+Thank you. I think it will ◙take some time, but... ◙I think we'll be okay.
+00128
+That's fine.
+00129
+That seems to be somewhat ◙difficult, do your best.
+00130
+No, I like doing this... ◙Don't worry.
+00131
+I see.
+00132
+○○○○○○○○
+00133
+(Speaking of which, you ◙told me about the equipment ◙maintenance last time, ◙▲MANAKA▲...)
+00134
+(Today I have to help you ◙do equipment maintenance, ◙▲MANAKA▲...)
+00135
+Go to the courts
+00136
+Go to the club room
+00137
+Take a little detour
+00138
+Manaka
+00139
+Thank you. With this I ◙think it's the end.
+00140
+○○○○○○○○
+00141
+I see, good work.
+00142
+Good work to you too. ◙Thank you for helping me. ◙I ended faster than I ◙expected.
+00143
+I'm glad I could help.
+00144
+Manaka
+00145
+Huh... I've finished ◙clearing the equipment. ◙It's alright now.
+00146
+○○○○○○○○
+00147
+Oh, I see... I'm sorry, ◙I didn't help much.
+00148
+Don't worry. I intended ◙to do it alone since the ◙beginning.
+00149
+I'm sorry...
+00150
+○○○○○○○○
+00151
+Hmm, ▲MANAKA▲？　◙Do you have any problem？
+00152
+Manaka
+00153
+Sensei sent me to collect ◙a print, but I can't find ◙it.
+00154
+Let's look together
+00155
+...That's a pain
+00156
+Then, why don't we look ◙for it together？
+00157
+Eh... Is that okay？
+00158
+Leave it to me. I'll go ◙look around the school.
+00159
+...That's a pain.
+00160
+You're right... ◙But I'll try to find it.
+00161
+○○○○○○○○
+00162
+(She told me about a ◙print... Where did you lose ◙it ▲MANAKA▲...)
+00163
+○○○○○○○○
+00164
+Is this the print you're ◙looking for？
+00165
+Manaka
+00166
+Ah, that's it！
+00167
+I'm glad. Be careful not ◙to drop it anymore.
+00168
+Yes. Hmm, thank you very ◙much.
+00169
+Manaka
+00170
+The print I was looking ◙for...
+00171
+○○○○○○○○
+00172
+Ah, that's right... ◙I'm sorry, what happened？
+00173
+It's alright, I found it.
+00174
+I see... I'm sorry I ◙didn't help you.
+00175
+Manaka
+00176
+▲PLAYER▲.
+00177
+○○○○○○○○
+00178
+What's wrong, ◙▲MANAKA▲？
+00179
+Umm, my new shoes don't ◙fit me too well... If you'd ◙like, could you be in the ◙rally for a while？
+00180
+Okay, I'll do it
+00181
+I can't do it...
+00182
+Okay, I'll do it.
+00183
+Thank you. Do your best.
+00184
+(Alright, let's do this.)
+00185
+I will be your opponent ◙in the rally ◙▲MANAKA▲...
+00186
+I can't do it... I'm sorry.
+00187
+It's better to rely on good ◙people.
+00188
+○○○○○○○○
+00189
+(By the way, I was going ◙to practice today with ◙▲MANAKA▲...)
+00190
+(Today I have practice with ◙▲MANAKA▲...)
+00191
+Let's go right away
+00192
+Go to the club room
+00193
+Take a little detour
+00194
+Manaka
+00195
+Thank you, it seems that ◙I have gotten used to my ◙shoes.
+00196
+○○○○○○○○
+00197
+I managed to keep up...
+00198
+Thank you practicing ◙with me.
+00199
+(You seem to have more ◙energy to spare, ◙▲MANAKA▲...)
+00200
+Manaka
+00201
+Huh, my opponent for the ◙rally...
+00202
+○○○○○○○○
+00203
+I'm sorry, I couldn't deal ◙with the pressure...
+00204
+It's okay, I can do it ◙alone sometimes.
+00205
+I see... I'm sorry.
+00206
+○○○○○○○○
+00207
+Haven't you been getting ◙late to your home recently, ◙▲MANAKA▲？
+00208
+Manaka
+00209
+Emm, I had an errand to ◙do after classes... My way ◙back home was a little ◙frightening.
+00210
+I'll help you
+00211
+Be careful from now on
+00212
+I see, I'll escort you ◙back home. Unless it's ◙annoying for you.
+00213
+That's not it... Are you ◙sure you want to help me？
+00214
+Of course.
+00215
+Okay... Then, thank you ◙for helping me.
+00216
+I see... Be careful if ◙you're staying that late.
+00217
+Yes... I'll be alright.
+00218
+○○○○○○○○
+00219
+(By the way, I promised I ◙would help you, ◙▲MANAKA▲...)
+00220
+(I promised to help you ◙today, ◙▲MANAKA▲...)
+00221
+Go to the classroom
+00222
+Wait by the shoe locker
+00223
+Wait at the school gates
+00224
+Manaka
+00225
+Thank you for taking your ◙time to help me. ◙You saved me.
+00226
+○○○○○○○○
+00227
+It wasn't a big deal.
+00228
+No, I'm able to feel ◙relieved each day.
+00229
+Then it was worth to ◙help you. I'm glad.
+00230
+Manaka
+00231
+Excuse me, you promised ◙to help me... Can you do ◙it？
+00232
+○○○○○○○○
+00233
+Ah...
+00234
+It can wait until later, ◙right？ Sorry...
+00235
+(I made a promise to ◙her...)
+00236
+○○○○○○○○
+00237
+Is that a practice menu ◙for our juniors, ◙▲MANAKA▲？
+00238
+Manaka
+00239
+I was asked to do it ◙this time. I'm currently ◙thinking about things to ◙do.
+00240
+I'll help you
+00241
+Do your best
+00242
+I can help you with ◙anything, just tell me.
+00243
+Help me？　Emm, lemme ◙see...
+00244
+Is there anything I ◙can do？ Make copies or ◙something.
+00245
+Well then... It would be ◙nice if we could try the ◙menu together.
+00246
+Sounds good.
+00247
+I think you can assemble a ◙good training menu, ◙▲MANAKA▲.
+00248
+If you say it like that...
+00249
+Do your best for our ◙juniors.
+00250
+○○○○○○○○
+00251
+(By the way, I promised to ◙help her try the menu she ◙created...)
+00252
+(I'm going to go practice ◙with you today, ◙▲MANAKA▲...)
+00253
+Go to the court quickly
+00254
+Go to the club room
+00255
+Take a little detour
+00256
+Manaka
+00257
+How did hard did you feel ◙the practice menu for ◙our juniors？
+00258
+○○○○○○○○
+00259
+I think the balance is ◙better because of the ◙improvements you did.
+00260
+Really？　I'm glad. ◙Then, we should go with ◙this.
+00261
+As expected from you, ◙▲MANAKA▲.
+00262
+No, it's thanks to you ◙that I could improve it. ◙Thank you.
+00263
+You're welcome. It was ◙good training for me too.
+00264
+Manaka
+00265
+About the practice menu ◙for our juniors...
+00266
+○○○○○○○○
+00267
+Ah... I'm sorry, ◙I couldn't help you.
+00268
+...I'll be fine, I'll try ◙again next time.
+00269
+(...I failed her.)
+00270
+○○○○○○○○
+00271
+What's wrong？ It looks ◙like you're worried about ◙something, ◙▲MANAKA▲.
+00272
+Manaka
+00273
+Oh... I'm thinking of ◙giving a gift to Papa, ◙but it's hard to think ◙about something for men.
+00274
+I'll give you advice
+00275
+I hope you can find ◙something
+00276
+Well then, I'll give you ◙some advice. I think I can ◙help you.
+00277
+Is that okay？ ◙That's a big help...
+00278
+Don't worry about it, ◙I'll show you a good ◙store.
+00279
+I hope you can find a ◙good gift for your dad.
+00280
+Me too... I'll search ◙carefully.
+00281
+I hope he's happy with ◙his gift.
+00282
+○○○○○○○○
+00283
+(By the way, I promised her ◙I would give her some ◙advice for a present for ◙her father.)
+00284
+(Today I promised to help ◙her decide for a gift... ◙I wonder what would be ◙good.)
+00285
+Books and stationery
+00286
+Something for outdoors
+00287
+Art materials
+00288
+Something to wear
+00289
+(Okay, let's go meet with ◙▲MANAKA▲.)
+00290
+Manaka
+00291
+Papa was very pleased ◙with his gift.
+00292
+○○○○○○○○
+00293
+Really？ I'm really glad.
+00294
+It was thanks to your ◙advice. Thank you.
+00295
+Manaka
+00296
+Umm, the gift for Papa... ◙I ended up asking Mama.
+00297
+○○○○○○○○
+00298
+I see...
+00299
+It was Papa's favorite ◙thing... I should have ◙talked to Mama from the ◙beginning...
+00300
+○○○○○○○○
+00301
+Did you change your racket, ◙▲MANAKA▲？
+00302
+Manaka
+00303
+No, it seems to have been ◙replaced. The girls' club ◙knows nothing about it, ◙so I wonder if the boys ◙know...
+00304
+Then I'll ask there
+00305
+Maybe
+00306
+Then I'll ask in the ◙men's club.
+00307
+Huh？
+00308
+I know how to talk to ◙them, leave it to me.
+00309
+Oh, okay... Thank you.
+00310
+Right, if you ask everyone ◙in there, you will get it ◙back.
+00311
+Yes... You're right.
+00312
+○○○○○○○○
+00313
+(That's right, I have to ◙ask around about her ◙racket.)
+00314
+(I should look around for ◙her racket.)
+00315
+Ask in the boys' club
+00316
+Ask someone around
+00317
+Take your time...
+00318
+Manaka
+00319
+Thank you for finding my ◙racket. The one who took ◙it, returned it to me.
+00320
+○○○○○○○○
+00321
+Yes, it was in the men's ◙club after all. ◙I'm glad to hear it.
+00322
+Yes... Thank you for ◙listening to me.
+00323
+It's not a big deal, ◙you're welcome.
+00324
+Manaka
+00325
+Did you find something ◙about my racket？
+00326
+○○○○○○○○
+00327
+Oh... About that...
+00328
+It's okay... It's mine, ◙so I'll ask myself.
+00329
+(I made a mistake...)
+00330
+○○○○○○○○
+00331
+Aren't you getting early ◙to school lately？ Are you ◙on duty this week, ◙▲MANAKA▲？
+00332
+Manaka
+00333
+That's right. I'm on duty ◙to water the garden ◙pots...
+00334
+Can I go with you？
+00335
+It's hard to get up early
+00336
+Then... Can I go with you ◙during your turn？
+00337
+What！？　...Together？
+00338
+Yes. It's no good？
+00339
+It's not like that...
+00340
+Sometimes I want to get ◙up early, and feel like ◙an honor student.
+00341
+That's your reason？ ◙Then... Are you sure？
+00342
+Alright, it's decided！
+00343
+Getting up early to water ◙the plants... ◙Sounds tough.
+00344
+Not much, I think it's ◙better to do it before ◙everyone gets to school.
+00345
+○○○○○○○○
+00346
+(By the way, I promised ◙to go to school with ◙▲MANAKA▲...)
+00347
+(I need to go to school ◙with her today...)
+00348
+Let's go out early
+00349
+Go out as usual
+00350
+I still have time...
+00351
+Manaka
+00352
+We've been going out at ◙early morning, how do ◙you feel？
+00353
+○○○○○○○○
+00354
+I'm getting used to it. ◙It feels good to get up ◙early.
+00355
+Hehe, right？ But today ◙my duty is over.
+00356
+Ah... I see.
+00357
+It was fun because we ◙went to school together. ◙Thank you.
+00358
+(Hmm... It's a shame.)
+00359
+Manaka
+00360
+I guess it was hard to ◙get up early.
+00361
+○○○○○○○○
+00362
+Yes... You are amazing, ◙▲MANAKA▲.
+00363
+Well, I was on duty after ◙all.
+00364
+○○○○○○○○
+00365
+What are you doing here ◙so late, ◙▲MANAKA▲？
+00366
+Manaka
+00367
+Emm... I was practicing ◙to improve my form.
+00368
+I see.
+00369
+Um, if you'd like... ◙Can I meet you here ◙tomorrow？
+00370
+Of course
+00371
+I can't do it...
+00372
+I'll do it if you don't ◙mind, but I think you ◙should ask a more ◙advanced person.
+00373
+No, I don't believe ◙you're inexperienced.
+00374
+In that case it's fine.
+00375
+Well then, I look ◙forward to it.
+00376
+It's important to improve ◙on your form, but... ◙I can't do it.
+00377
+It's not that a big deal, ◙but... Yes, I understand.
+00378
+You should ask a more ◙advanced person.
+00379
+○○○○○○○○
+00380
+(By the way, I promised ◙to meet up with her for ◙practice...)
+00381
+(I was supposed to meet up ◙with ▲MANAKA▲.)
+00382
+Go right away
+00383
+Go to the club room first
+00384
+Take a little detour
+00385
+Manaka
+00386
+Thank you for helping me ◙to improve my form.
+00387
+○○○○○○○○
+00388
+Are you satisfied now？
+00389
+Yes, I think I'm getting ◙better. All thanks to ◙your help.
+00390
+Then I'm glad.
+00391
+I hope you see the ◙results of it in a match.
+00392
+Manaka
+00393
+My form isn't getting ◙any better...
+00394
+○○○○○○○○
+00395
+I'm sorry I couldn't ◙live up to your ◙expectations.
+00396
+It's okay, because I ◙was just thinking sweet ◙things.
+00397
+○○○○○○○○
+00398
+You've been particularly ◙keen on practice lately, ◙▲MANAKA▲？
+00399
+Manaka
+00400
+Yes, I like to train in ◙the park at night to get ◙it right, but I was told ◙I shouldn't go alone...
+00401
+Want to go together？
+00402
+That's tough
+00403
+Want me to go with you？ ◙That way you won't be ◙alone.
+00404
+That's fine, but... ◙I wonder what I should ◙tell Papa...
+00405
+Isn't it okay to tell ◙him "I'm going with a ◙friend"？
+00406
+A friend？ ...I see.
+00407
+Well, it's decided. ◙Let's work together.
+00408
+That sounds tough, ◙▲MANAKA▲.
+00409
+No, they are just worried.
+00410
+I see... that's true.
+00411
+○○○○○○○○
+00412
+(By the way, I promised ◙to go practice with ◙▲MANAKA▲...)
+00413
+(I'm going to help her with ◙practice today.)
+00414
+Go straight there
+00415
+Buy something first
+00416
+Take a little detour
+00417
+Manaka
+00418
+Thank you for taking the ◙time to help me practice. ◙I was able to train as ◙much as I wanted, and it ◙was fun.
+00419
+○○○○○○○○
+00420
+It was fun indeed... ◙And you were amazing, ◙▲MANAKA▲.
+00421
+It was thanks to you I ◙could have fun. I don't ◙think I could have done ◙this alone.
+00422
+I wonder if that's true.
+00423
+It is, thank you very ◙much.
+00424
+Manaka
+00425
+It seems the training ◙wasn't as effective as I ◙expected.
+00426
+○○○○○○○○
+00427
+It's my fault... ◙I'm sorry.
+00428
+No, it's because I ◙couldn't do it properly.
+00429
+Manaka
+00430
+▲PLAYER▲.
+00431
+○○○○○○○○
+00432
+What's wrong, ◙▲MANAKA▲？
+00433
+Umm, I'm thinking of ◙making homemade sweets for ◙my friend's birthday.
+00434
+Hey, that sounds nice.
+00435
+If you'd like, can you ◙taste the prototype？
+00436
+Is it okay？
+00437
+That's a bit...
+00438
+Well then, are you sure ◙you want me to try？
+00439
+Unless it’s annoying for ◙you...
+00440
+Far from that, I feel ◙lucky.
+00441
+Is that so？ Since it's a ◙prototype, it may be a ◙failure...
+00442
+What！？
+00443
+Hehe, it's okay, I don't ◙make things that can't be ◙eaten. Then, I'm counting ◙on you.
+00444
+That's a bit...
+00445
+Oh, I don't want to force ◙you to do it... ◙I'm sorry.
+00446
+I'm sorry, I don't think ◙I can help you.
+00447
+○○○○○○○○
+00448
+(That reminds me, she asked ◙me to try some of her ◙sweets...)
+00449
+(I promised to try some ◙of her sweets today...)
+00450
+Go to the courtyard
+00451
+Go to classroom
+00452
+Go to rooftop
+00453
+Manaka
+00454
+How about this one？ ◙Is it good？
+00455
+○○○○○○○○
+00456
+Yes, this finished product ◙will be popular even if ◙it's put out in a store！
+00457
+Really？ Thank you for your ◙advice.
+00458
+It's was all in your arms, ◙▲MANAKA▲.
+00459
+Thank you. Will you eat ◙some more if I make sweets ◙next time？
+00460
+Gladly！
+00461
+Manaka
+00462
+Somehow it didn't work...
+00463
+○○○○○○○○
+00464
+Sorry, I couldn't help ◙you.
+00465
+No, it's alright, I'll do ◙my best next time.
+00466
+○○○○○○○○
+00467
+(How should I approach you, ◙▲MANAKA▲？)
+00468
+(Maybe if I'll call her ◙differently this time. ◙By her last name, first ◙name, or a suffix...)
+00469
+(Okay, I'll say it ◙loudly！)
+00470
+○○○○○○○○
+00471
+▲MANAKA▲！
+00472
+Manaka
+00473
+...▲PLAYER▲.
+00474
+Are you alone？ If you'd ◙like, can I tag along...？
+00475
+Huh... I'm in a hurry... ◙Sorry.
+00476
+(I was refused, but it's ◙okay to call her this way.)
+00477
+○○○○○○○○
+00478
+▲MANAKA▲！
+00479
+Manaka
+00480
+......
+00481
+(It failed... I wonder how ◙should I call her.)
+00482
+○○○○○○○○
+00483
+▲MANAKA▲！
+00484
+Manaka
+00485
+...▲PLAYER▲.
+00486
+Hey, if you'd like, let's ◙go together.
+00487
+Together？　Emm... Sure.
+00488
+Alright. Let's go.
+00489
+(I think it's okay to ◙call her like this.)
+00490
+○○○○○○○○
+00491
+▲MANAKA▲！
+00492
+Manaka
+00493
+......
+00494
+(Wait, am I getting a ◙little too friendly？)
+00495
+○○○○○○○○
+00496
+▲MANAKA▲！
+00497
+Manaka
+00498
+...▲PLAYER▲.
+00499
+'Sup, let's go together.
+00500
+...Okay, let's go.
+00501
+I did it！
+00502
+(I think it's okay to ◙call her like this.)
+00503
+○○○○○○○○
+00504
+▲MANAKA▲！
+00505
+Manaka
+00506
+...▲PLAYER▲.
+00507
+I'm glad I found you, ◙let's go together.
+00508
+Emm... Together？　...Okay.
+00509
+I'm so lucky.
+00510
+(I think it's okay to ◙call her like this.)
+00511
+○○○○○○○○
+00512
+▲MANAKA▲！
+00513
+Manaka
+00514
+...▲PLAYER▲.
+00515
+Whassup, why don't we go ◙back together？
+00516
+Whassup... Yes, are you ◙sure？
+00517
+Okay, let's go.
+00518
+(I think it's okay to ◙call her like this.)
+00519
+○○○○○○○○
+00520
+(I can see ◙▲RINKO▲...)
+00521
+(Should I try calling ◙her？)
+00522
+Manaka
+00523
+Hey, what are you ◙doing？
+00524
+Huh！？　Ah... ◙▲MANAKA▲！
+00525
+I'm sorry for surprising ◙you... Were you looking ◙for something？
+00526
+It was something I had ◙to do...
+00527
+I was looking for you, ◙▲MANAKA▲！
+00528
+It was nothing, see you
+00529
+(Ah, there's ◙▲NENE▲...)
+00530
+○○○○○○○○
+00531
+I was just trying to call ◙out an acquaintance...
+00532
+Manaka
+00533
+Ah... I'm sorry, I didn't ◙mean to disturb you... ◙See you.
+00534
+Don't worry about it. ◙See you.
+00535
+○○○○○○○○
+00536
+I was just trying to ◙speak with someone...
+00537
+Manaka
+00538
+...I'm getting in the way ◙then. I'm sorry, I'll go ◙now...
+00539
+Yes... Sorry for that.
+00540
+○○○○○○○○
+00541
+Actually, I was looking for ◙you, ▲MANAKA▲.
+00542
+Manaka
+00543
+Did you now？ ◙What do you need of me？
+00544
+Thank you. You saved me ◙because I didn't pay ◙attention to the sensei.
+00545
+Are you okay now？ Well ◙then, I'll help you when ◙you need it.
+00546
+Yes, please.
+00547
+(By the way, ◙▲RINKO▲ is...)
+00548
+(By the way, ◙▲NENE▲ is...)
+00549
+○○○○○○○○
+00550
+(I don't see you anywhere, ◙▲MANAKA▲...)
+00551
+○○○○○○○○
+00552
+Emm, ▲MANAKA▲？
+00553
+Manaka
+00554
+Ah...
+00555
+(It was a failure...)
+00556
+○○○○○○○○
+00557
+There you are. ◙▲MANAKA▲！
+00558
+Manaka
+00559
+Me？ But... Am I in the ◙way？ Let me move then.
+00560
+(That wasn't it...)
+00561
+○○○○○○○○
+00562
+I have to go.
+00563
+Manaka
+00564
+I see... I'm sorry. See you.
+00565
+See you.
+00566
+(It seems ▲RINKO▲ has ◙already gone...)
+00567
+(It seems ▲NENE▲ has ◙already gone...)
+00568
+○○○○○○○○
+00569
+(Is that... ◙▲RINKO▲？)
+00570
+(Should I try to talk to ◙her？)
+00571
+Manaka
+00572
+▲PLAYER▲.
+00573
+Ah... ▲MANAKA▲！
+00574
+Huh？ I'm sorry... Did I ◙surprise you？
+00575
+No, it was just that I...
+00576
+Actually, I was looking for ◙you ▲MANAKA▲！
+00577
+It's nothing, see you
+00578
+(Is that... ◙▲NENE▲？)
+00579
+○○○○○○○○
+00580
+I have to meet with ◙someone...
+00581
+Manaka
+00582
+I see... Sorry for ◙bothering you. See you.
+00583
+I'm sorry, see you.
+00584
+○○○○○○○○
+00585
+I was thinking of calling ◙out a friend...
+00586
+Manaka
+00587
+I see, that was it... ◙I'm sorry, see you.
+00588
+Yes, see you soon.
+00589
+○○○○○○○○
+00590
+You are the one I was ◙looking for, ◙▲MANAKA▲.
+00591
+Manaka
+00592
+For me？ What's wrong？
+00593
+I have a problem; I don't ◙know the schedule for ◙club activities.
+00594
+Ah, I'll gladly help. ◙Feel free to ask me again, ◙okay？ See you.
+00595
+See you.
+00596
+(By the way, ◙▲RINKO▲ is...)
+00597
+(By the way, ◙▲NENE▲ is...)
+00598
+○○○○○○○○
+00599
+(...I don't think she's ◙there anymore.)
+00600
+○○○○○○○○
+00601
+Oh！ ▲MANAKA▲.
+00602
+Manaka
+00603
+...
+00604
+(Did you not see me now？)
+00605
+○○○○○○○○
+00606
+Hey, ▲MANAKA▲！
+00607
+Manaka
+00608
+Huh？ If you call people so ◙loudly, you will bother ◙someone, okay？ See you...
+00609
+(That was embarrassing...)
+00610
+○○○○○○○○
+00611
+Sorry, I'm in a hurry.
+00612
+Manaka
+00613
+Is that so？ Sorry for ◙calling you out.
+00614
+Don't worry, see you.
+00615
+(▲RINKO▲ doesn't seem ◙to be here anymore...)
+00616
+(▲NENE▲ doesn't seem ◙to be here anymore...)
+00617
+○○○○○○○○
+00618
+Ah, it's ▲RINKO▲...
+00619
+(I wonder if she'll be ◙surprised when I call her ◙out.)
+00620
+Manaka
+00621
+▲PLAYER▲.
+00622
+What...？ You surprised me, ◙▲MANAKA▲！
+00623
+What were you looking ◙at？
+00624
+You know, there was ◙something I had to do...
+00625
+Actually, I was looking for ◙you, ▲MANAKA▲！
+00626
+It's nothing, see you
+00627
+Ah, it's ▲NENE▲...
+00628
+○○○○○○○○
+00629
+Ah, you know... I have ◙something to do, then...
+00630
+Manaka
+00631
+I understand. Well then, ◙I'll leave you be. Sorry ◙for bothering you.
+00632
+Don't worry, see you.
+00633
+○○○○○○○○
+00634
+I was looking for someone ◙I have business with. ◙It's not a big deal, ◙though.
+00635
+Manaka
+00636
+Oh, I see... I'm sorry, ◙I'll leave you so you can ◙find whoever you're ◙looking for.
+00637
+Sure... But, you don't ◙have to apologize...
+00638
+○○○○○○○○
+00639
+Actually, I was looking for ◙you ▲MANAKA▲.
+00640
+Manaka
+00641
+For me？ Why？
+00642
+Ah, you saved me, that was ◙a big help. I knew it, it ◙was best to ask you about ◙it ▲MANAKA▲.
+00643
+Feel free to ask me ◙anytime if you have any ◙problem. See you later ◙then.
+00644
+Okay. See you.
+00645
+(...Now, where did ◙▲RINKO▲ go？)
+00646
+(...Now, where did ◙▲NENE▲ go？)
+00647
+○○○○○○○○
+00648
+(I don't think you're here ◙anymore... ◙▲MANAKA▲...)
+00649
+○○○○○○○○
+00650
+Huh？ Over there... Is that ◙▲MANAKA▲？
+00651
+Manaka
+00652
+...
+00653
+(And there she goes...)
+00654
+○○○○○○○○
+00655
+▲MANAKA▲！ ◙Wait for me.
+00656
+Manaka
+00657
+Emm... Until next time, ◙okay？ I'm sorry.
+00658
+...Yes, I understand. ◙See you.
+00659
+○○○○○○○○
+00660
+I remembered I had ◙something to do. I'll be ◙going now then.
+00661
+Manaka
+00662
+I see... Okay, I'll see ◙you around, right？
+00663
+Yes, see you later.
+00664
+(I can't see ▲RINKO▲ ◙around here anymore.)
+00665
+(I can't see ▲NENE▲ ◙around here anymore.)
+00666
+○○○○○○○○
+00667
+(Ah, it's ▲RINKO▲.)
+00668
+(Huh, haven't she seen me？ ◙I should approach her.)
+00669
+Manaka
+00670
+▲PLAYER▲.
+00671
+Ah, ▲MANAKA▲！ ◙What's wrong？
+00672
+Nothing. I just have a ◙little free time and ◙nothing to do...
+00673
+There was something I had ◙to do, but...
+00674
+Ah！ I was looking for you ◙▲MANAKA▲！
+00675
+I see, see you then
+00676
+(Ah, it's ▲NENE▲.)
+00677
+○○○○○○○○
+00678
+I was looking for someone, ◙and I thought I saw them ◙over there...
+00679
+Manaka
+00680
+Ah, sorry！ I won't disturb ◙you, then.
+00681
+Okay, don't worry about ◙it.
+00682
+○○○○○○○○
+00683
+...I was looking for ◙someone, and I was trying ◙to call them.
+00684
+Manaka
+00685
+I... Was I in your way？ ◙Okay, I'll see you later. ◙I'm so sorry...
+00686
+Don't need to apologize ◙for that. See you！
+00687
+○○○○○○○○
+00688
+I was looking for you. ◙I think it's a coincidence ◙I managed to find you, ◙▲MANAKA▲.
+00689
+Manaka
+00690
+Really？
+00691
+I see, so that was it. ◙It was so easy. Thank you ◙for helping me.
+00692
+You're welcome. I'll be ◙going now, okay？
+00693
+Yes, see you later！
+00694
+(...Now, where did ◙▲RINKO▲ go？)
+00695
+(...Now, where did ◙▲NENE▲ go？)
+00696
+○○○○○○○○
+00697
+(I'm not waiting around, ◙I better go.)
+00698
+○○○○○○○○
+00699
+There you are... Hey, ◙▲MANAKA▲！
+00700
+Manaka
+00701
+...
+00702
+(Didn't you see me, ◙▲MANAKA▲？)
+00703
+○○○○○○○○
+00704
+'Sup, ▲MANAKA▲. ◙Hey, I was wondering...
+00705
+Manaka
+00706
+...Am I on your way？ ◙...Um, okay... See you ◙later.
+00707
+(In the way？ Did you ◙misunderstood me？)
+00708
+○○○○○○○○
+00709
+Ah, you know, I'm in a ◙hurry right now, so...
+00710
+Manaka
+00711
+Huh, are you in a hurry？ ◙I'm sorry, I didn't ◙notice. I'll see you ◙later then.
+00712
+Sure, I'm sorry for that. ◙See you.
+00713
+(It seems ▲RINKO▲ has ◙left already.)
+00714
+(It seems ▲NENE▲ has ◙left already.)
+00715
+○○○○○○○○
+00716
+(Ugh, I'll be late...)
+00717
+？？？
+00718
+Kyaa！
+00719
+I'm sorry！ Are you okay？
+00720
+Manaka
+00721
+Ah...
+00722
+Talk
+00723
+Leave
+00724
+Stare
+00725
+○○○○○○○○
+00726
+I'm so sorry. Are you ◙injured, ◙▲MANAKA▲？
+00727
+Manaka
+00728
+Don't worry, I'm okay. ◙I'm going to be late, so ◙I'll be going now, alright？
+00729
+Yes, I'm sorry.
+00730
+○○○○○○○○
+00731
+Ah, ▲MANAKA▲！ ◙I'm sorry, are you okay？
+00732
+Manaka
+00733
+I'm fine, thank you. ◙Um... And you？
+00734
+Me？　I'm fine, I was the ◙one who crashed with you.
+00735
+I'm glad. I'll be late, ◙so I'm going now, okay？
+00736
+Yes, I have to hurry ◙too！ See you.
+00737
+○○○○○○○○
+00738
+▲MANAKA▲！？　◙Are you okay？ Sorry for ◙crashing with you, but I ◙have to hurry.
+00739
+Manaka
+00740
+Ah... Okay.
+00741
+○○○○○○○○
+00742
+(▲MANAKA▲...)
+00743
+○○○○○○○○
+00744
+Ah, sorry！ Are you okay？ ◙Are you injured？
+00745
+Manaka
+00746
+Yes... I'm okay, don't ◙worry. But, I'm going now, ◙I'm in a hurry.
+00747
+Okay, see you.
+00748
+○○○○○○○○
+00749
+Did you get hurt？ Are you ◙okay, ▲MANAKA▲？
+00750
+Manaka
+00751
+Huh？ Ah, yes. Don't worry, ◙I'm fine... I'll have to ◙go now.
+00752
+I see. I'm sorry！
+00753
+○○○○○○○○
+00754
+(Okay, now what was my ◙next class...)
+00755
+Manaka
+00756
+▲PLAYER▲.
+00757
+Ah, ▲MANAKA▲！ ◙Hey, do you know what ◙classes are next？
+00758
+Yes, I was about to take ◙my next class here, and...
+00759
+Talk
+00760
+Leave
+00761
+Stare
+00762
+○○○○○○○○
+00763
+Ah, you don't say！ ◙I thought we had this ◙class together today.
+00764
+Manaka
+00765
+Hehe. This class is a ◙different one. Okay, see ◙you later.
+00766
+Haha, thank you. See you.
+00767
+○○○○○○○○
+00768
+Ah, I see. It was a ◙coincidence because this ◙class changed classrooms ◙recently.
+00769
+Manaka
+00770
+Really？ I wish we had a ◙class together.
+00771
+Huh？ What do you mean？
+00772
+Ah... Well, I think it ◙would be fun... I have to ◙go now.
+00773
+Okay... See you later.
+00774
+○○○○○○○○
+00775
+Ah, I understand. Then ◙I'll let you go before ◙you're late for your ◙class.
+00776
+Manaka
+00777
+Don't worry about it. ◙I'll see you later.
+00778
+○○○○○○○○
+00779
+(Your skin is really ◙beautiful, ◙▲MANAKA▲...)
+00780
+○○○○○○○○
+00781
+Ah, don't let your guard ◙down, or you'll be late ◙for class.
+00782
+Manaka
+00783
+That's true, I'll see you ◙later then.
+00784
+See you.
+00785
+○○○○○○○○
+00786
+Oh, then I have to go！ ◙If I'm late I'll be in ◙trouble！
+00787
+Manaka
+00788
+Ah... I have to go too. ◙Let's do our best！
+00789
+Of course！
+00790
+○○○○○○○○
+00791
+(Mmm, now where did that ◙thing go...？)
+00792
+Hmm？ Who's...？
+00793
+Manaka
+00794
+Hey, what's wrong？ ◙Did you lost something？
+00795
+Oh, ▲MANAKA▲！ ◙What a coincidence.
+00796
+Yes, I think it was ◙something like this...
+00797
+Talk
+00798
+Leave
+00799
+Stare
+00800
+○○○○○○○○
+00801
+Oh！ Thank you！
+00802
+Manaka
+00803
+Be more mindful of your ◙things, okay？ See you.
+00804
+Yes. I'm sorry for the ◙trouble.
+00805
+○○○○○○○○
+00806
+Oh, thank you very much ◙for picking it up.
+00807
+Manaka
+00808
+I happened to find it ◙because you were running ◙around.
+00809
+You saved me, I owe you.
+00810
+No, it's no biggie... ◙Ah, but is it okay if you ◙don't hurry？ I'll be ◙going ahead.
+00811
+That's right, you saved ◙me again！ See you！
+00812
+○○○○○○○○
+00813
+Thank you for picking it ◙up！ I have to hurry now ◙before I'm late.
+00814
+Manaka
+00815
+You're welcome. See you.
+00816
+○○○○○○○○
+00817
+(So pretty... Wait！ Don't ◙look at her eyes...)
+00818
+○○○○○○○○
+00819
+Thank you for picking it ◙up. You saved me.
+00820
+Manaka
+00821
+I happened to be passing ◙by. Don't worry. Well ◙then, I'll be going now.
+00822
+Okay. You really helped ◙me, I owe you one.
+00823
+○○○○○○○○
+00824
+Ah, you picked it up, ◙thank you so much.
+00825
+Manaka
+00826
+You're welcome. Please be ◙more careful with your ◙things.
+00827
+Of course, see you.
+00828
+○○○○○○○○
+00829
+(Huh？　It seems like is ◙over there. Perhaps I ◙should call you, ◙▲MANAKA▲...)
+00830
+Manaka
+00831
+▲PLAYER▲.
+00832
+What？ ◙▲MANAKA▲！？
+00833
+Huh？ Yes, it's me. Why are ◙you so surprised？
+00834
+Talk
+00835
+Leave
+00836
+Stare
+00837
+○○○○○○○○
+00838
+Well, there was a person ◙who looked like you. That's ◙why I called out for you, ◙▲MANAKA▲.
+00839
+Manaka
+00840
+Hehe, that's a funny ◙mistake. See you later.
+00841
+(Ah I really thought it ◙was her...)
+00842
+○○○○○○○○
+00843
+▲MANAKA▲？ ◙Weren't you over there just ◙now？
+00844
+Manaka
+00845
+Right now？ You're saying ◙strange things, hehe.
+00846
+I see, it was my mistake. ◙I thought she was similar ◙to you.
+00847
+Really？ I see, I guess it ◙was a mistake after all... ◙I'll be going now, see ya.
+00848
+Huh？　Ah yes, see you.
+00849
+○○○○○○○○
+00850
+Oh, I was surprised because ◙there was someone over ◙there who looked like you, ◙▲MANAKA▲.
+00851
+Manaka
+00852
+Ah... I see.
+00853
+○○○○○○○○
+00854
+(I can't stop looking at ◙▲MANAKA▲...)
+00855
+○○○○○○○○
+00856
+Ah, sorry about that. ◙I thought I saw someone ◙who was similar to you, ◙▲MANAKA▲...
+00857
+Manaka
+00858
+Is that so？ Oh, I have to ◙go now.
+00859
+Okay, see you later.
+00860
+○○○○○○○○
+00861
+Well, I was sure I just ◙saw you over there, so ◙I was surprised, ◙▲MANAKA▲.
+00862
+Manaka
+00863
+Me？ I'm sure it was a ◙mistake... Well, see you ◙later.
+00864
+Okay, see you.
+00865
+Manaka
+00866
+What's wrong？
+00867
+Manaka
+00868
+Even if you look at me ◙like that, I...
+00869
+Manaka
+00870
+Is there anything you ◙need？
+00871
+Manaka
+00872
+Huh...
+00873
+Manaka
+00874
+Er, well... I think you're ◙getting a little too ◙close.
+00875
+Manaka
+00876
+Mmm, well... You don't ◙have to get that close, ◙you know...
+00877
+Manaka
+00878
+Is there something on my ◙face？
+00879
+Manaka
+00880
+If you stare at me that ◙much... Hmm...
+00881
+Manaka
+00882
+What's wrong？
+00883
+Manaka
+00884
+You're staring at me too ◙much... What's wrong？
+00885
+Manaka
+00886
+You don't have to get that ◙close...
+00887
+Manaka
+00888
+Emm... Aren't you getting ◙to close to me？
+00889
+Manaka
+00890
+Are you taking your ◙distance from me on ◙purpose？
+00891
+Manaka
+00892
+Why are you that far？
+00893
+Manaka
+00894
+Yes... Huh...
+00895
+Manaka
+00896
+My face isn't red...
+00897
+Manaka
+00898
+I'm feeling restless ◙somehow...
+00899
+Manaka
+00900
+I wonder what I should do ◙in this situation...
+00901
+Manaka
+00902
+Hehe, what's wrong？
+00903
+Manaka
+00904
+Geez... you're too close.
+00905
+Manaka
+00906
+It feels a little lonely.
+00907
+Manaka
+00908
+Why are you looking away？
+00909
+○○○○○○○○
+00910
+(I was getting too close ◙to her, but I wasn't ◙thinking much about it.)
+00911
+○○○○○○○○
+00912
+(Isn't this distance kinda ◙weird？)
+00913
+○○○○○○○○
+00914
+(...I was getting a little ◙nervous.)
+00915
+○○○○○○○○
+00916
+(Isn't this nice？ I really ◙feel like it is.)
+00917
+○○○○○○○○
+00918
+(▲MANAKA▲...)
+00919
+Manaka
+00920
+Ah... that's amazing.
+00921
+Manaka
+00922
+Hmm, that's right.
+00923
+Manaka
+00924
+Yes. But if is you, it's ◙not as surprising.
+00925
+Manaka
+00926
+I'll do it within time...
+00927
+Manaka
+00928
+Can you afford it？
+00929
+Manaka
+00930
+I see... That's amazing.
+00931
+Manaka
+00932
+You can count on me too... ◙Ah, it's nothing.
+00933
+Manaka
+00934
+I can count on you ◙after all.
+00935
+Manaka
+00936
+Ah... you're amazing...
+00937
+Manaka
+00938
+Amazing！ I'm impressed...
+00939
+Manaka
+00940
+Hmm...
+00941
+Manaka
+00942
+I see... That's right.
+00943
+Manaka
+00944
+There's nothing you can ◙do if you fail.
+00945
+Manaka
+00946
+If you care too much about ◙it, it's not good.
+00947
+Manaka
+00948
+I think it's better for ◙you not to get depressed.
+00949
+Manaka
+00950
+I can't do anything about ◙it...
+00951
+Manaka
+00952
+Yes, that's it.
+00953
+Manaka
+00954
+Er, well, how are you ◙doing？
+00955
+Manaka
+00956
+Can't do anything about ◙it now.
+00957
+Manaka
+00958
+Don't worry about it ◙every time it happens. ◙Just, don't change your ◙mind, okay？
+00959
+Manaka
+00960
+...I think we should go ◙with what you're thinking.
+00961
+Manaka
+00962
+Hey... What are you ◙doing？
+00963
+Manaka
+00964
+Hey, what will you do ◙now？
+00965
+Manaka
+00966
+I see... Hey, what are ◙you doing？
+00967
+Manaka
+00968
+Oh I see. Hey, what are ◙you doing？
+00969
+Manaka
+00970
+I see...
+00971
+Manaka
+00972
+Do your best.
+00973
+Manaka
+00974
+Don't you fail.
+00975
+Manaka
+00976
+Well, if it's you... ◙Then, yes.
+00977
+Manaka
+00978
+I wonder if you'll be ◙able to see such a ◙wonderful place...
+00979
+Manaka
+00980
+Is that so...？
+00981
+Manaka
+00982
+That's right, that was ◙your election.
+00983
+Manaka
+00984
+I see... I won't take it ◙then.
+00985
+Manaka
+00986
+What is it...？ Ah, it's ◙nothing, don't worry.
+00987
+Manaka
+00988
+Just a little more... ◙Hmm, it's a pity.
+00989
+Manaka
+00990
+Hey.
+00991
+○○○○○○○○
+00992
+Hmm, what's up？
+00993
+How is the job in the ◙library committee？ ◙Is it worthwhile？
+00994
+It's worth doing it... ◙I wonder if that's sounds ◙right, I don't know how ◙to say it...
+00995
+Really？
+00996
+However, it's a good thing ◙that the number of books ◙borrowed increased because ◙of the committee members.
+00997
+Borrowings...
+00998
+What's the matter？
+00999
+Are the committee members ◙good friends？
+01000
+...I don't think so.
+01001
+Ah, really？
+01002
+Only a handful get along. ◙And the rest only do ◙chat between themselves.
+01003
+Hmm...
+01004
+So that was the case, ◙after all...
+01005
+Huh？
+01006
+Manaka
+01007
+Umm... I have something ◙to ask you.
+01008
+○○○○○○○○
+01009
+Hmm, what's up？
+01010
+You're doing part-time ◙job, right？ It seems hard, ◙but I think it's ◙worthwhile.
+01011
+Well, you're right... ◙It can be painful and ◙troublesome, but there ◙are also fun things.
+01012
+I admire the customer ◙service.
+01013
+Well, I think it's more ◙like being friends in a ◙part-time job, rather than ◙being a customer.
+01014
+I want to hear more about ◙it.
+01015
+Huh, are you interested in ◙part-time jobs, ◙▲MANAKA▲？
+01016
+Huh？　Well... Yeah.
+01017
+I knew it, after all, ◙aren't there many girls ◙also doing part-time ◙jobs lately？
+01018
+Yeah, that's also true.
+01019
+And that means making ◙friends with other girls.
+01020
+That's right.
+01021
+...Hmm.
+01022
+(...Why are you staring ◙at me？)
+01023
+Manaka
+01024
+Hey, I wanted to know...
+01025
+○○○○○○○○
+01026
+Hmm？ What's wrong？
+01027
+How are you doing in your ◙classes？ I wonder if ◙you're getting along with ◙your classmates.
+01028
+I wonder about that... ◙I think we are getting ◙pretty good.
+01029
+Even though you ◙transferred recently, ◙it's an amazing thing.
+01030
+No, I'm not a sociable ◙person...
+01031
+No, I think it's ◙amazing. If it was me...
+01032
+▲MANAKA▲？
+01033
+...I was just wondering if ◙you're alright.
+01034
+Hehe, thanks to you.
+01035
+(You make a cute face when ◙you laugh, ◙▲MANAKA▲.)
+01036
+Manaka
+01037
+Umm, you know...
+01038
+○○○○○○○○
+01039
+Hmm？ What's wrong？
+01040
+I know you live alone. ◙How difficult has been ◙for you？
+01041
+Well... ◙I find it comfortable.
+01042
+Amazing...
+01043
+Really？
+01044
+Yeah, it's amazing. You're ◙a high school student ◙living alone. I wonder how ◙your every day is...
+01045
+I know！ If you're that ◙interested, want to come ◙and see？
+01046
+What！？
+01047
+Huh？... What's wrong？
+01048
+No... it's just... ◙that's a little...
+01049
+Geez, don't make fun of ◙me...
+01050
+Huh？
+01051
+Manaka
+01052
+▲PLAYER▲.
+01053
+○○○○○○○○
+01054
+What's up ◙▲MANAKA▲？
+01055
+Well, hmm... I don't mind ◙it, if you don't want to ◙answer...
+01056
+Huh？
+01057
+You have a good friend ◙from the first year on ◙the library committee, ◙right？
+01058
+Ah, yes. ◙That's ▲RINKO▲.
+01059
+And you have a senpai at ◙your part-time job...
+01060
+Mmm, yeah. That is ◙▲NENE▲.
+01061
+I see... And you are ◙friends with them...
+01062
+Yes, that's right
+01063
+Not really
+01064
+Hmm...
+01065
+What's wrong with that？ ◙Is that bad？
+01066
+No... it's alright, ◙I think you should have ◙as many friends as ◙possible.
+01067
+Huh？　Well, yeah. ◙I think so.
+01068
+That's right...
+01069
+(What's on your mind, ◙▲MANAKA▲？)
+01070
+Huh, is that so？
+01071
+I might not be on good ◙terms with them but, I want ◙to be on better terms with ◙you, ▲MANAKA▲.
+01072
+Ah, you're right. That's ◙good. Yes, I want to get ◙along with you too...
+01073
+Manaka
+01074
+▲PLAYER▲.
+01075
+○○○○○○○○
+01076
+Ah, what's up, ◙▲MANAKA▲？
+01077
+You see... I've heard some ◙strange rumors, so do you ◙mind if I ask you some ◙questions？
+01078
+Huh？ Well, sure.
+01079
+I asked the library ◙committee, and they said ◙you get along with a ◙first-year.
+01080
+Ah, yeah. ◙That's ▲RINKO▲.
+01081
+At you part-time job... ◙I've heard you get along ◙with a senpai from school.
+01082
+Yes, that's ▲NENE▲.
+01083
+I knew it... Are you ◙really getting along with ◙them？
+01084
+Yes, that's right
+01085
+Not really
+01086
+...Then, I...
+01087
+Hmm？ What's wrong？
+01088
+No. Even if you care about ◙it, there's nothing you ◙can do.
+01089
+Emm, ▲MANAKA▲？
+01090
+I'm sorry. I was just a ◙little worried. That's it.
+01091
+(What's on your mind, ◙▲MANAKA▲？)
+01092
+What？ Really？
+01093
+Well, you might have ◙heard things like that. ◙The truth is, I speak ◙with you more often, ◙▲MANAKA▲.
+01094
+Is that so？ Yes, thank ◙you.
+01095
+(Thank you？)
+01096
+Manaka
+01097
+▲PLAYER▲.
+01098
+○○○○○○○○
+01099
+What's up ◙▲MANAKA▲？
+01100
+Well, you know... I have ◙something to ask you.
+01101
+Huh？ Well, I don't mind.
+01102
+Is there a first year ◙student in the library ◙committee you're getting ◙along with？
+01103
+Yes, that would be ◙▲RINKO▲.
+01104
+And you're getting along ◙with the senpai at you ◙part-time job, right？
+01105
+Yes, that's ▲NENE▲.
+01106
+I knew it. Do you really ◙get along so well？
+01107
+Yes, that's right
+01108
+Not really
+01109
+You don't try to hide ◙it...
+01110
+Wha-？　Well yes, I mean... ◙Why？
+01111
+I get along with you too, ◙you know.
+01112
+Huh？　Yes, I suppose.
+01113
+...I'm not gonna lose.
+01114
+(What's on your mind, ◙▲MANAKA▲...？)
+01115
+So it was just a rumor.
+01116
+I mean, I speak with you ◙more often, right？ Even ◙now, don't we ◙▲MANAKA▲？
+01117
+Hehe, I see. Let's get ◙along even more, okay？
+01118
+Huh？　Well, yeah.
+01119
+Manaka
+01120
+▲PLAYER▲.
+01121
+○○○○○○○○
+01122
+Huh, what's wrong, ◙▲MANAKA▲？
+01123
+Hey...
+01124
+Hmm？ What's wrong？
+01125
+You know...
+01126
+......
+01127
+Whassup.
+01128
+...Whassup. ◙What happened？
+01129
+Emm, that's... Yes, I was ◙just trying saying ◙"Whassup"...
+01130
+Huh？　You're so cheerful.
+01131
+That's right... Trying is ◙important！ I'm kidding.
+01132
+(What's wrong with you, ◙▲MANAKA▲？)
+01133
+Manaka
+01134
+▲PLAYER▲.
+01135
+○○○○○○○○
+01136
+Ah, what's wrong, ◙▲MANAKA▲？
+01137
+Umm, I was wondering...
+01138
+Hmm？ What's wrong？
+01139
+Why do you stay with me？
+01140
+Huh？ What do you mean？
+01141
+It's just that... I don't ◙think there's nothing ◙interesting about me.
+01142
+Well, I don't think that's ◙true... It think it has ◙to be with the fact...
+01143
+It's because you're here, ◙with me. We're together ◙because it's fun.
+01144
+Ah... I see. Thank you.
+01145
+(I'm hearing you say some ◙weird things lately, ◙▲MANAKA▲...)
+01146
+Manaka
+01147
+▲PLAYER▲.
+01148
+○○○○○○○○
+01149
+Ah, what's wrong, ◙▲MANAKA▲？
+01150
+Hey, hey...
+01151
+Hmm？ What's wrong？
+01152
+I was recently wondering ◙if I have changed.
+01153
+Hmmー, now that you mention ◙it, I do wonder about ◙it...
+01154
+I don't think so...
+01155
+Yeah, it's true, you've ◙become brighter than ◙before.
+01156
+Really？
+01157
+Yes, I really feel like ◙you shine more than ◙before.
+01158
+Hehe, yay！
+01159
+(I wonder where you heard ◙about that, ◙▲MANAKA▲.)
+01160
+○○○○○○○○
+01161
+(It's a sports equipment ◙store... I wonder if ◙there's something we could ◙use for our activities.)
+01162
+(Huh, who's over there？)
+01163
+Manaka
+01164
+▲PLAYER▲.
+01165
+Ah！ Whassup, ◙▲MANAKA▲！
+01166
+Hello, what a coincidence.
+01167
+I don't think it's a ◙coincidence, ◙▲MANAKA▲.
+01168
+Huh？
+01169
+Two tennis club members ◙meet at a equipment ◙store. Do you think it's ◙a coincidence？
+01170
+So, we could meet because ◙we have a purpose...
+01171
+Yes, it's inevitable！ ◙Maybe it's fate！
+01172
+Well, now that you say it, ◙you might be right...
+01173
+Well, I was just making ◙things up. I was just ◙hanging around.
+01174
+Huh？　Ah... Geez, don't ◙tease me.
+01175
+Hahaha, sorry！
+01176
+Geez...
+01177
+You're always so serious. ◙Let me know if you know ◙about some good equipment, ◙▲MANAKA▲.
+01178
+Sure, as a serious tennis ◙member I will tell you. ◙Hehe.
+01179
+I often use that kind of ◙thing...
+01180
+Thank you, I learned ◙something new today.
+01181
+You're welcome.
+01182
+You seem to be very good ◙at teaching people, ◙▲MANAKA▲.
+01183
+I wonder about that... ◙I don't know.
+01184
+That's how it started ◙with Yumi-chan... I'm not ◙that good nor confident.
+01185
+Mmm. That's how it began. ◙I wasn't confident I was ◙doing the right thing...
+01186
+How can I know if I'm ◙doing the right thing？
+01187
+Hmmー I wonder. I don't ◙think many students know ◙the answer... Isn't your ◙father a good teacher, ◙▲MANAKA▲？
+01188
+Papa？ Yeah... That's a ◙good idea, I will try to ◙ask him.
+01189
+Thank you for the advise. ◙If Papa teaches me, I ◙might become a spartan... ◙Hehe.
+01190
+(Spartan...？ You're really ◙going to ask your father, ◙▲MANAKA▲？)
+01191
+○○○○○○○○
+01192
+(Ah, there are some ◙cooking utensils over ◙here...)
+01193
+(I think it might be a ◙good idea to cook for ◙myself... Hmm.)
+01194
+(Hmm？... Is that ◙▲MANAKA▲？)
+01195
+▲MANAKA▲.
+01196
+Manaka
+01197
+▲PLAYER▲.
+01198
+Oh, what a coincidence. ◙Are you doing some ◙shopping？
+01199
+That's right. I've come ◙to buy ingredients to make ◙sweets.
+01200
+Making sweets... ◙That sounds nice！
+01201
+Oh, are you interested in ◙making sweets？
+01202
+Haha, no way. I can't do ◙those, you know, being a ◙man and all that.
+01203
+I think it's okay for a ◙man to do those...
+01204
+It doesn't suit me. ◙I'm more interested in ◙the sweets you make, ◙▲MANAKA▲.
+01205
+Huh, but that's... ◙it's not a big deal.
+01206
+You're so humble. You have ◙the face of a master chef, ◙▲MANAKA▲！
+01207
+Geez, stop that. ◙If you expect too much, ◙I might be in trouble when ◙giving you some...
+01208
+Huh？　Giving...？
+01209
+Ah... no, that's not ◙what I meant！ ◙Emm, it's...
+01210
+Ah yes, I'm indebted to ◙everyone in the tennis ◙club... So I thought of ◙giving them gifts... ◙I'm kidding.
+01211
+Oh, that sounds ◙interesting！ I'm looking ◙forward to it！
+01212
+Ah, geez... don't expect ◙that much, okay？
+01213
+Hahaha！
+01214
+Oops... We have talked for ◙quite a bit.
+01215
+Yeah... It was quite a ◙bit of time.
+01216
+I'm sorry for bothering ◙you so much. Were you ◙in the middle of doing ◙some shopping too？
+01217
+It's fine, because it's ◙something that can be ◙bought fast.
+01218
+I see. Then I'll be going ◙now, excuse me.
+01219
+Okay, bye-bye.
+01220
+Ah yes, I'm looking ◙forward to your sweets！
+01221
+Ah, geez！
+01222
+(You act relly girly when ◙embarrassed ◙▲MANAKA▲...)
+01223
+○○○○○○○○
+01224
+(Okay then, it's time to ◙go back home...)
+01225
+(Hmm... Isn't that ◙▲MANAKA▲？)
+01226
+(She's in front of the ◙pet store. I feel like ◙I've seen this before.)
+01227
+Hey, ▲MANAKA▲.
+01228
+Manaka
+01229
+▲PLAYER▲.
+01230
+What are you looking at？ ◙The pet shop？
+01231
+The rabbits！
+01232
+Oh, the rabbits？　◙I see now, you really love ◙rabbits, right ◙▲MANAKA▲？
+01233
+I love them. Look at them, ◙aren't they cute？
+01234
+Sure, and there are a ◙lot of rabbits.
+01235
+Hehe, that's right. ◙Minirex lop-ears... ◙and the Netherlands dwarf！
+01236
+Oh, uh... Emm, and the ◙lop-ear？
+01237
+Yes, lop-ear. ◙This Horan lop-ear looks ◙a little small, isn't it？
+01238
+Ah, yes. You're right.
+01239
+But its face is big and ◙round. And its ears are ◙cute♪
+01240
+(Sometimes you speak with ◙a lot of emotion, ◙▲MANAKA▲...)
+01241
+Hey, hey, come here. ◙Hurry.
+01242
+Oh, yes. Coming！
+01243
+And now, we have seen all ◙the small rabbits.
+01244
+Ah, yes... all of them.
+01245
+Hmm？ What's wrong？
+01246
+No, it's nothing. ◙Everyone had their own ◙markings and were ◙really cute.
+01247
+Right？
+01248
+Do you come here often ◙▲MANAKA▲？
+01249
+Sometimes. I come every ◙time I think the store ◙has a new rabbit on ◙display...
+01250
+I can't keep one, so I ◙feel sorry for the people ◙in the shop. I'm just ◙looking all the time...
+01251
+But I will always come to ◙look at them♪
+01252
+I see.
+01253
+Oh, it's time for me to ◙go. Thank you for keeping ◙me company. See you.
+01254
+You're welcome. See you.
+01255
+(And there she goes...)
+01256
+○○○○○○○○
+01257
+(Let's go back home for ◙today...)
+01258
+(Hmm？　Huh, is that...)
+01259
+......
+01260
+(Ah, I think that's ◙▲MANAKA▲.)
+01261
+Manaka
+01262
+(She's wandering around the ◙entrance of Winning ◙Burger...)
+01263
+Hmmー...
+01264
+(She doesn't dare to go ◙in alone...)
+01265
+Hey, how are you doing？
+01266
+▲PLAYER▲.
+01267
+Want to go to Winning ◙Burger again, ◙▲MANAKA▲？
+01268
+Emm... Yeah, sounds good. ◙We are passing while going ◙home, so this is not a ◙detour.
+01269
+Haha, you've been addicted ◙to their flavor recently.
+01270
+That's not true... ◙I come here from time to ◙time.
+01271
+Really？ You did？
+01272
+...Yes, it's true.
+01273
+I see, since we're here ◙already, let's go in ◙together.
+01274
+Eh, but...
+01275
+Don't you want to？
+01276
+...No, it's not that.
+01277
+I'm sorry, I shouldn't ◙force you.
+01278
+No, it's fine. I couldn't ◙have achieved my goal ◙alone, but you helped me.
+01279
+Goal？
+01280
+Huh？　Emm, well... It's not ◙that, but I really felt I ◙was alone that time.
+01281
+Oh, but it was fun. ◙Thank you.
+01282
+I see, then I'm glad.
+01283
+Yes, then I'll see you ◙later.
+01284
+(Maybe she really likes ◙eating burgers. I hope...)
+01285
+○○○○○○○○
+01286
+(Ah, I'm so tired. ◙I'll go back home and ◙rest...)
+01287
+Naruto
+01288
+Hey, let's go home. ◙Want to go to Menler？
+01289
+Oh, Naruto. ◙I want to head home soon, ◙so how about ramen ◙instead？
+01290
+What's with you, ◙that's unfair.
+01291
+I can do various things ◙while living alone.
+01292
+Miyoshi
+01293
+Oh, are you guys going ◙home together？ Then I'll ◙tag along.
+01294
+Ah, Miyoshi. Yeah, go ◙ahead.
+01295
+Hmm... are you the only ◙ones going？ What about ◙the other girls？
+01296
+Yeah, we're the only ones. ◙Why？
+01297
+Well, there needs to be a ◙balance between men and ◙women at school！
+01298
+What's with that. ◙That's too bothersome.
+01299
+Good grief...
+01300
+Ah, ▲MANAKA▲.
+01301
+Manaka
+01302
+I'll go first.
+01303
+Ah, ▲MANAKA▲！
+01304
+Huh？
+01305
+Would you like to go home ◙together？ There aren't ◙enough girls with us.
+01306
+What？ What are you ◙saying――
+01307
+Isn't it right, ◙Takane-san？
+01308
+Girls？　Emm, but...
+01309
+......
+01310
+Hmm？
+01311
+Huh, I'll be going ahead. ◙See you...
+01312
+Hey, ▲MANAKA▲！
+01313
+...There she goes.
+01314
+We should stop now, ◙right？
+01315
+Takane-san seems to be ◙busy.
+01316
+(Hmm, I think that was ◙not the right way to ask ◙her...)
+01317
+○○○○○○○○
+01318
+(Huh？ I can see you are ◙over there, ◙▲MANAKA▲...)
+01319
+(It looks like she's ◙searching for something. ◙It's kinda hard to ◙approach her like this...)
+01320
+(Entering that store and ◙leaving it 3 times... ◙What exactly are you doing ◙▲MANAKA▲？)
+01321
+(Mmm, I wonder what I ◙should do...)
+01322
+Let's join her
+01323
+Go home
+01324
+(Welp, I can't do ◙anything. I should go ◙home...)
+01325
+Manaka
+01326
+Hah...
+01327
+Hmm？
+01328
+▲PLAYER▲.
+01329
+What are you doing, ◙▲MANAKA▲？
+01330
+Emm, this is not what it ◙looks like... you know, ◙I...
+01331
+It was nothing, forget it！ ◙See you.
+01332
+(There she goes... What was ◙that about？)
+01333
+(Huh... There she is again. ◙What are you doing, ◙▲MANAKA▲？)
+01334
+(It seems she's still ◙doing the same as before...)
+01335
+(Entering the store and ◙leaving it 3 times... ◙What exactly are you doing, ◙▲MANAKA▲？)
+01336
+Let's ask her
+01337
+Go home
+01338
+(Mmm, it seems like I ◙can't do anything. ◙I should go home...)
+01339
+Hah... I knew it, I should ◙stop trying.
+01340
+▲MANAKA▲...
+01341
+I'm sorry... I'll see you ◙later.
+01342
+Ah, wait...
+01343
+(There she goes again...)
+01344
+(Okay！)
+01345
+Whassup！ ◙▲MANAKA▲！
+01346
+Huh？ What？
+01347
+No, this is not what it ◙looks like！
+01348
+What's not what it looks ◙like？
+01349
+Huh？　This, you know, ◙that...
+01350
+Come on, let's eat at ◙Winning Burger, it's my ◙treat this time.
+01351
+But, that kind of detour ◙is...
+01352
+We just left the school, ◙if we eat quickly we can ◙make it home in time. ◙Sounds about right？
+01353
+Hehe... Yes, let's stop ◙a for little while.
+01354
+○○○○○○○○
+01355
+(Huh？　I can see see you ◙over there, ◙▲MANAKA▲...)
+01356
+Manaka
+01357
+▲PLAYER▲.
+01358
+Whassup, taking a detour ◙▲MANAKA▲？
+01359
+No！ I was just buying ◙something at the bookstore ◙and...
+01360
+I'm was just joking, ◙so calm down... ◙And, what did you buy？
+01361
+A magazine called ◙"Towano Watcher"
+01362
+Ah, is it a leisure ◙information magazine？ ◙Are you going somewhere？
+01363
+I'm doing some research ◙for the kid next door. ◙I take her somewhere as a ◙reward for her grades.
+01364
+Oh, I see... ◙And where are you going？
+01365
+That's why I bought this ◙magazine. I think it's ◙good to see the place ◙beforehand.
+01366
+I'm taking care of someone ◙else's child, right？ So ◙I'll take her next Sunday.
+01367
+(You're really serious ◙about these things, ◙▲MANAKA▲...)
+01368
+Are you planning to do it ◙alone？
+01369
+...Yes, that's the plan.
+01370
+(I knew it... You're doing ◙this all by herself, ◙▲MANAKA▲...)
+01371
+Can I go with you？
+01372
+Do your best
+01373
+I see, do your best then.
+01374
+Yes, it's a promise and ◙a big responsibility.
+01375
+Okay, it's time for me to ◙go. See you.
+01376
+Yes, see you.
+01377
+(Huh？　You're there again ◙▲MANAKA▲...)
+01378
+Whassup, taking another ◙detour I see ◙▲MANAKA▲？
+01379
+No！ This is different...
+01380
+Huh, another leisure ◙information magazine？ ◙Did you go to see it ◙before？
+01381
+Yes... Actually, ◙I haven't been able to ◙decide the place yet.
+01382
+(It seems like you can't ◙decide yet, ◙▲MANAKA▲...)
+01383
+Do you need some help？
+01384
+Sounds hard, do your ◙best！
+01385
+I'll do my best, thank ◙you.
+01386
+See you later.
+01387
+Yes, bye-bye.
+01388
+Why？
+01389
+I was just thinking I'm ◙free on Sunday. Can I tag ◙along？
+01390
+But then, from the ◙perspective of others...
+01391
+You mean, it'll look like ◙a date？
+01392
+...
+01393
+Isn't it better to go ◙personally？ It's more ◙enjoyable than a seeing ◙it in a magazine. ◙Do you want to say no？
+01394
+Are you sure？
+01395
+Yes.
+01396
+Okay then... Please, come ◙with me.
+01397
+Alright, see you next ◙Sunday？
+01398
+Yeah... on Sunday.
+01399
+(I hope I wasn't being too ◙forceful. I should go ◙check the spots.)
+01400
+Tezuka
+01401
+That's all for today. ◙Dismissed！
+01402
+男女部員
+01403
+Thank you for your hard ◙work！
+01404
+○○○○○○○○
+01405
+(...Huh？)
+01406
+Manaka
+01407
+...
+01408
+Whassup ◙▲MANAKA▲？
+01409
+Huh... Me...
+01410
+Were you waiting for me？
+01411
+(This is making me ◙nervous...)
+01412
+Let's go back home
+01413
+Sorry, I can't today
+01414
+I'm sorry, I have ◙something to do today...
+01415
+Ah... I'm sorry. ◙I didn't think about it.
+01416
+Same here, I'm sorry you ◙had to wait for me.
+01417
+No, I did it because I ◙wanted to. See you later.
+01418
+(Hmm, I wonder if I did ◙something wrong...)
+01419
+(▲MANAKA▲？)
+01420
+Huh... I'm sorry, I did ◙it again...
+01421
+Were you waiting for me？
+01422
+(This makes me nervous ◙each time...)
+01423
+Let's go home
+01424
+Sorry, I can't today...
+01425
+Sorry, I have some ◙unfinished business ◙today...
+01426
+Ah... Why did I not ◙think...
+01427
+I'm really sorry for this, ◙again.
+01428
+It's fine. I'm sorry ◙too... See you.
+01429
+(I wonder if I did ◙something wrong...)
+01430
+Alright, let's go home ◙together.
+01431
+Now that I recall, how ◙is Yumi-chan doing？
+01432
+Oh, yeah. She's has been ◙very pleased lately.
+01433
+I see. I'm really glad ◙for her.
+01434
+Next time, she wants to ◙invite a boy from another ◙class on a date, and she ◙asked me to come along.
+01435
+As a chaperone？ Who is she ◙taking with her？
+01436
+Yeah, I mean they are only ◙third graders.
+01437
+Third grade！？ Way to go, ◙Yumi-chan.
+01438
+And, you know？　Huh... ◙I wonder if you could ◙lend me a hand again.
+01439
+Would you like to go and ◙scout the place, again？
+01440
+That too, but... ◙I, you know, that...
+01441
+...Huh？
+01442
+I've never been on a date, ◙so I was hoping you can ◙teach me...
+01443
+Hmm... Are you inviting ◙me on a date？
+01444
+No, no！ As practice, just ◙practice...
+01445
+Wait a minute, I mean...
+01446
+Don't think too much about ◙it, but...
+01447
+R-right.
+01448
+Then, when I decide where ◙to go, I'll call you.
+01449
+Yes, I'll be waiting. ◙See you later, okay？
+01450
+See you！
+01451
+(Then it's practice to ◙help on a date this ◙Sunday！ In the end, this ◙is not a date.)
+01452
+○○○○○○○○
+01453
+(Ah, my phone's ringing... ◙It's ▲MANAKA▲.)
+01454
+Hello.
+01455
+Manaka
+01456
+Ah, it's me.
+01457
+Yes, I heard your voice. ◙What's wrong, ◙▲MANAKA▲？
+01458
+Well, you know... I want ◙to thank you for the date ◙last time.
+01459
+Huh, the date？ Oh, I have ◙to thank you too...
+01460
+Well, that was not the ◙only reason I called, ◙you know？ I want to go ◙on a date.
+01461
+A date？　Of course！
+01462
+Are you okay with that？
+01463
+Of course, I wanna go！
+01464
+I'm really glad you ◙said that...
+01465
+Very well, I'll contact ◙you with the details ◙later.
+01466
+Yes, thank you. See you ◙later.
+01467
+(A date with you... It's ◙like we're a couple, ◙▲MANAKA▲！)
+01468
+○○○○○○○○
+01469
+(I'm getting nervous. ◙This is my first date...)
+01470
+(Ah, you're coming this way ◙▲MANAKA▲...)
+01471
+(...Ah, I knew it！)
+01472
+Manaka
+01473
+▲PLAYER▲.
+01474
+I'm so sorry. I kept you ◙waiting too much, ◙▲MANAKA▲.
+01475
+No, it's okay. Don't worry ◙about it.
+01476
+I see, did you wait for ◙long？
+01477
+Er, well...
+01478
+Hmm？ What's wrong？
+01479
+Actually, I came here a ◙little early... But it's ◙okay, I'm fine.
+01480
+Huh？　Really？ I'm sorry...
+01481
+It's fine, you were not ◙late at all. Okay, shall ◙we go？
+01482
+Of course！
+01483
+It's Bay Bridge. I don't ◙think it's very close...
+01484
+Ah, I see... I wonder if ◙other place would be ◙better.
+01485
+No, I didn't mean it ◙like that！ I was wondering ◙if I'll only come here on ◙a date.
+01486
+Now we're here together.
+01487
+Together？
+01488
+I was longing for this, ◙a little... I was waiting ◙for this kind of "date ◙spot".
+01489
+Ah, I can understand ◙that.
+01490
+Hehe, I feel like an ◙adult.
+01491
+Haha, maybe we are adults ◙already.
+01492
+Ah, then you've been here ◙before.
+01493
+That's right, before I ◙know it... Hehe.
+01494
+What's wrong？
+01495
+We came here before. ◙You know, when scouting ◙for――
+01496
+A yes, the scouting we ◙did for the date.
+01497
+Yes, that's right.
+01498
+Well, I guess I really ◙wanted to invite you on a ◙date since the beginning.
+01499
+Ah, that's something...
+01500
+......
+01501
+Dunno, I wonder about ◙that？
+01502
+Ah, how can I know！
+01503
+Hehe, it's a secret！
+01504
+Do we have to go home ◙soon, I wonder...
+01505
+It might be so, it seems ◙impossible to take a ◙detour now...
+01506
+Haha, is it prohibited to ◙take a detour even on a ◙date？
+01507
+Geez, don't make fun of ◙me.
+01508
+But starting now, I would ◙like to make detours even ◙when we're on a date.
+01509
+Yeah, that sounds nice.
+01510
+Yes.
+01511
+Let's head back home. ◙I'll escort you back.
+01512
+Ah, yes...
+01513
+Thank you for today. ◙It was a wonderful ◙memory having my first ◙date with you.
+01514
+I'm glad, I had fun too.
+01515
+I wonder if we'll have ◙many dates from now on.
+01516
+Of course, as many as you ◙want！
+01517
+No matter how many I ◙want？　Hehe.
+01518
+Hey...
+01519
+If I say goodbye now... ◙It'll feel lonely.
+01520
+▲MANAKA▲...
+01521
+Thank you so much. ◙See you later.
+01522
+(I have a girlfriend... ◙I can have dates... ◙Yes, it's going to be fun！)
+01523
+○○○○○○○○
+01524
+Excuse me. I'm looking ◙for the owner of this ◙wallet.
+01525
+Naruto
+01526
+Oh, this is... Hey, isn't ◙this yours？
+01527
+(I'm glad I found it.)
+01528
+Manaka
+01529
+Did you find the owner？
+01530
+○○○○○○○○
+01531
+(I couldn't find the ◙owner. I must search ◙again！)
+01532
+○○○○○○○○
+01533
+(I can't find the owner.)
+01534
+○○○○○○○○
+01535
+(I wonder why they don't ◙carry it...)
+01536
+○○○○○○○○
+01537
+(Even if I'm go now, ◙it's already too late...)
+01538
+○○○○○○○○
+01539
+(It's too late already, ◙I can't go now...)
+01540
+○○○○○○○○
+01541
+(Okay, I should write ◙something and finish it ◙today.)
+01542
+(...I was able to write ◙something. I'll hand it ◙over tomorrow.)
+01543
+○○○○○○○○
+01544
+(...Ah, this is getting ◙quite annoying.)
+01545
+(Mmm, it's getting late. ◙I wonder if I can do it ◙tomorrow.)
+01546
+○○○○○○○○
+01547
+(...This is getting quite ◙annoying.)
+01548
+(That's right, I had to ◙write the survey Takane ◙told me about...)
+01549
+(Ah, that's right, ◙the survey. Do I still ◙have time left？)
+01550
+○○○○○○○○
+01551
+(Ah, there she is...)
+01552
+Manaka
+01553
+▲PLAYER▲.
+01554
+▲MANAKA▲.
+01555
+Er, well, I want you to ◙teach me how to use my ◙phone again.
+01556
+Sure, I'll be glad to.
+01557
+Umm, then... It seems like ◙I can change the size of ◙the photo I took with my ◙phone, but I don't know ◙how.
+01558
+A photo you took, huh. ◙I get it.
+01559
+Huh, and... What should ◙I do to listen to music ◙on a mobile phone？
+01560
+For the music, you...
+01561
+○○○○○○○○
+01562
+(It's been quite a while. ◙I wonder if you will ask me ◙about her phone, ◙▲MANAKA▲.)
+01563
+○○○○○○○○
+01564
+(It's been quite some ◙time. I wonder if you will ◙ask me about tips for how ◙to use her phone, ◙▲MANAKA▲.)
+01565
+○○○○○○○○
+01566
+What's the next thing to ◙do, ▲MANAKA▲？
+01567
+Manaka
+01568
+▲PLAYER▲.
+01569
+Mmm, lemme see. I suppose ◙we should check the net.
+01570
+Alright, where is it？
+01571
+What's the plan for ◙today ▲MANAKA▲？
+01572
+Cleaning the court... ◙And I have to check the ◙cleaning tools.
+01573
+Okay, we should start ◙now.
+01574
+So, what needs cleaning ◙today ▲MANAKA▲？
+01575
+I should clean the ball. ◙It looks old and in bad ◙condition, we might have ◙to discard it soon.
+01576
+Okay, let's clean it.
+01577
+○○○○○○○○
+01578
+(I feel like I had to do ◙something. Oh well, if I ◙can't remember it mustn't ◙had been important.)
+01579
+○○○○○○○○
+01580
+(Now that I remember, I ◙promised to help you today, ◙▲MANAKA▲...)
+01581
+(I feel like I'm ◙forgetting something... ◙Oh well, it must not have ◙been important.)
+01582
+男子
+01583
+A print？ Ah, that's in ◙the lost and found stuff.
+01584
+○○○○○○○○
+01585
+Really？ I'm looking for ◙it.
+01586
+(Okay, I've found it. ◙I'll hand it tomorrow...)
+01587
+○○○○○○○○
+01588
+(I suppose I must say ◙something to her. After ◙all, I couldn't find ◙the print she lost...)
+01589
+Manaka
+01590
+Listen, don't force ◙yourself to look for the ◙print, okay？
+01591
+I still can't locate it, ◙I'm sorry. But, thank you ◙for worrying, I'll keep ◙looking.
+01592
+Sorry, it was my fault ◙for losing it. Please ◙continue to help me.
+01593
+○○○○○○○○
+01594
+(I can't find that print.)
+01595
+Manaka
+01596
+Now then, let's get this ◙going. I'm counting on ◙you, training partner.
+01597
+○○○○○○○○
+01598
+Roger that.
+01599
+I'd like to feel my new ◙shoes, so don't hesitate ◙to use your best moves ◙with me.
+01600
+Alright, leave it to me.
+01601
+Yeah, I think it's getting ◙better and better...
+01602
+I see. I'm glad you're ◙getting used to your ◙shoes.
+01603
+○○○○○○○○
+01604
+(It took me quite some ◙time. It's too late to be ◙going now...)
+01605
+○○○○○○○○
+01606
+(It took me quite some ◙time. I really wonder if ◙you're still there ◙▲MANAKA▲.)
+01607
+(It took quite some time. ◙It's too late to go ◙now...)
+01608
+○○○○○○○○
+01609
+(Oh, there she is...)
+01610
+Manaka
+01611
+Huh？ Ah, thank you for ◙coming.
+01612
+Haha, don't be that ◙formal. I'll gladly help ◙you.
+01613
+I'm sorry, I'm keeping ◙you until late.
+01614
+Nah, it doesn't matter. ◙Don't worry.
+01615
+I'm sorry for doing this ◙so late, thank you for ◙your help today.
+01616
+Of course, let's go back ◙now.
+01617
+○○○○○○○○
+01618
+(It's getting late. I don't ◙think you're there anymore ◙▲MANAKA▲...)
+01619
+○○○○○○○○
+01620
+(Hmm, it's getting late. ◙I wonder if you're still ◙here...)
+01621
+(It's getting late. I guess ◙you're no longer there ◙▲MANAKA▲...)
+01622
+Manaka
+01623
+Well then, let's get ◙started.
+01624
+○○○○○○○○
+01625
+Yes.
+01626
+Please tell me if it's ◙too hard or too easy.
+01627
+Okay.
+01628
+If you think you don't ◙have enough training, ◙please let me know.
+01629
+Okay...
+01630
+○○○○○○○○
+01631
+(It's getting late. ◙Even if I go now with her, ◙it's just too late.)
+01632
+○○○○○○○○
+01633
+(It's late but I wonder if ◙you're still there ◙▲MANAKA▲.)
+01634
+(It's getting late. Even if ◙I go now, I don't think ◙you'll be anymore, ◙▲MANAKA▲ .)
+01635
+Manaka
+01636
+Excuse me, I'd like to hear ◙your advice regarding ◙Papa's gift...
+01637
+○○○○○○○○
+01638
+Sure, I was thinking about ◙something like this...
+01639
+What do you think about ◙this？
+01640
+(I think she liked the ◙idea.)
+01641
+(I don't think she liked ◙the suggestion...)
+01642
+○○○○○○○○
+01643
+(I wonder if you're still ◙there waiting, ◙▲MANAKA▲...)
+01644
+(It's late. I wonder if ◙you're still there, ◙▲MANAKA▲.)
+01645
+Naruto
+01646
+A Racket？ Ah, some guy ◙made a mistake and took ◙one from the girl's club.
+01647
+○○○○○○○○
+01648
+That's the one. Please ◙return it to Takane.
+01649
+(Okay, now she'll have ◙her things back.)
+01650
+○○○○○○○○
+01651
+(It's getting late... ◙I hope she can use another ◙racket from the club.)
+01652
+○○○○○○○○
+01653
+(It took too much time... ◙I wonder if I should ask ◙about her racket.)
+01654
+(Hmm, it's late... ◙I hope she can use another ◙racket from the club.)
+01655
+○○○○○○○○
+01656
+▲MANAKA▲.
+01657
+Manaka
+01658
+▲PLAYER▲.
+01659
+Good morning. Your face ◙looks sleepy... Are you ◙doing okay？
+01660
+G' morning. Yeah, I'm ◙fine. Don't worry.
+01661
+Good morning. You got up ◙fast today.
+01662
+Good morning. Well, you ◙could say that.
+01663
+Good morning. I will rely ◙on you today.
+01664
+Yes, of course！
+01665
+○○○○○○○○
+01666
+(I don't think you're ◙there anymore, ◙▲MANAKA▲...)
+01667
+(I couldn't go to school ◙with you today, ◙▲MANAKA▲...)
+01668
+○○○○○○○○
+01669
+(Mmm, you're not here ◙▲MANAKA▲...)
+01670
+Manaka
+01671
+▲PLAYER▲.
+01672
+○○○○○○○○
+01673
+▲MANAKA▲.
+01674
+Thank you for helping me ◙today. Now then, I'll ◙show you a sample video ◙of my form.
+01675
+Okay, I'll pay close ◙attention to it.
+01676
+Thank you for making time ◙today. Do you remember ◙the form example from ◙the video？
+01677
+Sure, I think I have it ◙covered.
+01678
+Do you get the feeling ◙you're getting better ◙little by little？ We need ◙to practice together more.
+01679
+Yeah, I'm feeling fine. ◙We should continue doing ◙it.
+01680
+○○○○○○○○
+01681
+(It's getting late, I don't ◙think I can practice with ◙her today...)
+01682
+○○○○○○○○
+01683
+(It's getting late. Can I ◙still practice with ◙▲MANAKA▲？)
+01684
+(It's getting late, I ◙don't think there's enough ◙time to practice with ◙▲MANAKA▲...)
+01685
+○○○○○○○○
+01686
+▲MANAKA▲.
+01687
+Manaka
+01688
+▲PLAYER▲.
+01689
+Good evening. Today we ◙start with our training ◙routine together.
+01690
+Sure, let's get fired up！
+01691
+Make sure you stretch ◙well tonight.
+01692
+Okay, I'll do it after my ◙bath.
+01693
+Today, we'll be focusing ◙on running.
+01694
+Sure, let's start.
+01695
+○○○○○○○○
+01696
+(I wonder what I should ◙do about my practice with ◙▲MANAKA▲？)
+01697
+Manaka
+01698
+▲PLAYER▲.
+01699
+○○○○○○○○
+01700
+▲MANAKA▲.
+01701
+Based on your feedback, ◙I'll make some adjustments ◙to the flavor and the ◙consistence, okay？
+01702
+Okay, that sounds nice.
+01703
+This time, I tried ◙changing the taste a ◙little. How do you like ◙it？
+01704
+Okay, lemme see...
+01705
+Here, try this. ◙I recreated this using ◙your opinions as a ◙reference.
+01706
+○○○○○○○○
+01707
+(It's late now, I should ◙leave the taste session ◙with her for another day.)
+01708
+○○○○○○○○
+01709
+(Hmm, it's a little late. ◙Is there time to try some ◙sweets？)
+01710
+(It's late, I should leave ◙the taste session with her ◙for another day.)

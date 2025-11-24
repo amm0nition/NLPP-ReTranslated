@@ -1,0 +1,252 @@
+00000
+○○○○○○○○
+00001
+Hello？
+00002
+Manaka
+00003
+Ah, hello. It's me, ◙Manaka. Can I talk to you ◙now？
+00004
+Sure, what's up？
+00005
+Um...
+00006
+○○○○○○○○
+00007
+Hello？
+00008
+Manaka
+00009
+Ah, hello. It's Manaka... ◙Is it okay to talk to you ◙right now？
+00010
+Sure, what's up？
+00011
+Well...
+00012
+○○○○○○○○
+00013
+Hello？
+00014
+Manaka
+00015
+Hello. It's me, Manaka. ◙Can we talk？
+00016
+All right. What's up？
+00017
+Here's the thing...
+00018
+Manaka
+00019
+I was wondering about our ◙next date.
+00020
+Manaka
+00021
+I want to go somewhere, ◙just the two of us...
+00022
+Manaka
+00023
+Can we go on a date soon？
+00024
+Manaka
+00025
+How about a date this ◙coming weekend？
+00026
+Manaka
+00027
+I was thinking... that it ◙would be nice if we can go ◙somewhere this weekend...
+00028
+Manaka
+00029
+Let's go on a date this ◙weekend, shall we？
+00030
+Manaka
+00031
+I know it's abrupt... but ◙can we meet up？
+00032
+Manaka
+00033
+I know it's rather sudden, ◙but I was wondering if we ◙can meet up.
+00034
+Manaka
+00035
+I know it's sudden, but I ◙want to see you.
+00036
+Manaka
+00037
+Is this location okay？
+00038
+Okay, sounds good
+00039
+Hmm, I don't think I can
+00040
+Can we change the place？
+00041
+Can we change the day？
+00042
+Manaka
+00043
+Do you have a place in ◙mind then？
+00044
+○○○○○○○○
+00045
+Um, let me see...
+00046
+Manaka
+00047
+Did you have a place in ◙mind that you wanted to ◙go to？
+00048
+○○○○○○○○
+00049
+Um, let me see...
+00050
+Manaka
+00051
+Well, did you have a place ◙in mind that you wanted ◙to go to？
+00052
+○○○○○○○○
+00053
+Um, let me see...
+00054
+Manaka
+00055
+All right then. Let's go ◙there.
+00056
+○○○○○○○○
+00057
+Okay.
+00058
+Manaka
+00059
+Okay. Well, see you there...
+00060
+○○○○○○○○
+00061
+Okay.
+00062
+Manaka
+00063
+Okay, it has been decided.
+00064
+○○○○○○○○
+00065
+Okay.
+00066
+Manaka
+00067
+Umm, if it's possible, ◙maybe another place would ◙be better.
+00068
+○○○○○○○○
+00069
+(Should I give up on ◙this？)
+00070
+Manaka
+00071
+I'm really sorry... But ◙if it's there, I...
+00072
+○○○○○○○○
+00073
+(Should I give up on ◙this？)
+00074
+Manaka
+00075
+Umm, if it's possible, ◙maybe some other places ◙would be better.
+00076
+○○○○○○○○
+00077
+(Should I give up on ◙this？)
+00078
+Manaka
+00079
+When will it be？
+00080
+○○○○○○○○
+00081
+Let me see...
+00082
+Manaka
+00083
+When should we go？
+00084
+○○○○○○○○
+00085
+Let me see...
+00086
+Manaka
+00087
+Hey, when will we go ◙there？
+00088
+○○○○○○○○
+00089
+Let me see...
+00090
+Manaka
+00091
+It's already decided.
+00092
+○○○○○○○○
+00093
+Yeah.
+00094
+Manaka
+00095
+I'm glad it's decided.
+00096
+○○○○○○○○
+00097
+Yeah.
+00098
+Manaka
+00099
+Hehe, it's decided then. ◙Yay！
+00100
+○○○○○○○○
+00101
+Yeah.
+00102
+Manaka
+00103
+I think it will be a lot ◙of fun.
+00104
+○○○○○○○○
+00105
+Yeah.
+00106
+Manaka
+00107
+...Yeah. I'm really looking ◙forward to it.
+00108
+○○○○○○○○
+00109
+Yeah.
+00110
+Manaka
+00111
+I'll be looking forward ◙to it.
+00112
+○○○○○○○○
+00113
+Yeah.
+00114
+Manaka
+00115
+Umm, I guess it can't be ◙helped.
+00116
+○○○○○○○○
+00117
+Yeah. Sorry about that.
+00118
+Manaka
+00119
+Is that so...？ Then let's ◙give up on it this time.
+00120
+○○○○○○○○
+00121
+Yeah. Sorry about that.
+00122
+Manaka
+00123
+What a pity. But I guess ◙it can't be helped...
+00124
+○○○○○○○○
+00125
+Yeah. Sorry.

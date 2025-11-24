@@ -1,0 +1,292 @@
+00000
+Manaka
+00001
+I thought I had the time ◙right, but I wonder if ◙it's real.
+00002
+○○○○○○○○
+00003
+I can't be late for my date ◙with ▲MANAKA▲.
+00004
+Manaka
+00005
+Ah... And here I thought ◙I arrived first.
+00006
+○○○○○○○○
+00007
+I was a little faster.
+00008
+○○○○○○○○
+00009
+So you got here first ◙▲MANAKA▲.
+00010
+Manaka
+00011
+Ah, I got ahead of you.
+00012
+○○○○○○○○
+00013
+It's a little hot today ◙▲MANAKA▲.
+00014
+Manaka
+00015
+Yeah. Are you a little ◙sweaty？ I have a ◙handkerchief to lend you.
+00016
+○○○○○○○○
+00017
+Whassup. It's hot today.
+00018
+Manaka
+00019
+Yes. I'm glad you didn't ◙had to wait in a long line.
+00020
+Manaka
+00021
+Early, huh. I thought I'd ◙come first and wait for ◙you.
+00022
+○○○○○○○○
+00023
+I couldn't keep you ◙waiting on such a hot day.
+00024
+Manaka
+00025
+Oh, I arrived first.
+00026
+○○○○○○○○
+00027
+Would it be that bad if ◙you kept me waiting in ◙the cold？
+00028
+○○○○○○○○
+00029
+We don't want to get a cold ◙today. Don't you agree, ◙▲MANAKA▲？
+00030
+Manaka
+00031
+Yes. Let's have a warm ◙date... kidding.
+00032
+Manaka
+00033
+Even though it was cold, ◙you got up properly ◙didn't you？ ◙▲PLAYER▲.
+00034
+○○○○○○○○
+00035
+Haha, silly.
+00036
+Manaka
+00037
+Oh, it's the perfect time.
+00038
+○○○○○○○○
+00039
+Did I make you wait, ◙▲MANAKA▲？
+00040
+No, not that much.
+00041
+○○○○○○○○
+00042
+Oh, I was here early. ◙Did I make you wait much？
+00043
+Manaka
+00044
+No. I just came a little ◙early.
+00045
+Manaka
+00046
+▲PLAYER▲.
+00047
+○○○○○○○○
+00048
+Huh, I thought I was the ◙first one to arrive.
+00049
+Hehe, my first win today. ◙Kidding.
+00050
+○○○○○○○○
+00051
+Oh, there you are. You ◙waited long？
+00052
+Manaka
+00053
+No, not at all. Look, I'm ◙not sweating.
+00054
+Manaka
+00055
+Hey, this way.
+00056
+○○○○○○○○
+00057
+Ah, there you are. It's too ◙hot right now.
+00058
+○○○○○○○○
+00059
+Heey, ▲MANAKA▲.
+00060
+Manaka
+00061
+I won't go anywhere, you ◙didn't had to run. Are you ◙sweaty？.
+00062
+○○○○○○○○
+00063
+Whassup. It's cold today, ◙isn't it？
+00064
+Manaka
+00065
+There's nothing to worry ◙about. I'm wearing a lot ◙of clothes.
+00066
+○○○○○○○○
+00067
+I knew you arrived on ◙time. I'm glad I didn't ◙had to keep you waiting.
+00068
+Manaka
+00069
+It's cold, but if it's ◙just a little bit, ◙I'll be fine.
+00070
+○○○○○○○○
+00071
+I knew you would arrive ◙early. Wasn't it too cold？
+00072
+Manaka
+00073
+I was not waiting for that ◙long, so it's okay. Thank ◙you for your concern.
+00074
+○○○○○○○○
+00075
+I'm a little late... My bad.
+00076
+Manaka
+00077
+I'm going to get angry next ◙time, okay？ I'm kidding.
+00078
+○○○○○○○○
+00079
+I'm sorry, did I keep you ◙waiting？
+00080
+Manaka
+00081
+Just a little bit, it's ◙okay.
+00082
+○○○○○○○○
+00083
+Oh, I'm running late.
+00084
+Manaka
+00085
+You don't have to hurry, ◙I don't care that much.
+00086
+○○○○○○○○
+00087
+I'm sorry to keep you ◙waiting, it's so hot...
+00088
+Manaka
+00089
+I don't mind. You've come ◙here in a hurry, haven't ◙you？
+00090
+○○○○○○○○
+00091
+I'm sorry, I arrived too ◙late！ Wasn't it too hot？
+00092
+Manaka
+00093
+A little bit, but you ◙don't have to worry about ◙it.
+00094
+Manaka
+00095
+▲PLAYER▲, I'm feeling ◙a little sick today.
+00096
+○○○○○○○○
+00097
+Maybe it's because I kept ◙you waiting under the ◙sun... I'm sorry.
+00098
+Manaka
+00099
+I'm glad to have arrived ◙quickly, ▲PLAYER▲.
+00100
+○○○○○○○○
+00101
+It's cold today. Sorry.
+00102
+○○○○○○○○
+00103
+I'm sorry to have keep you ◙waiting, ◙▲MANAKA▲.
+00104
+Manaka
+00105
+I'm fine. Did you run ◙all the way？ Your white ◙breath is visible in ◙this weather.
+00106
+○○○○○○○○
+00107
+Sorry to keep you waiting. ◙Even though it's cold...
+00108
+Manaka
+00109
+It's okay. Did you tight ◙your clothes properly, ◙right？
+00110
+Manaka
+00111
+Explain to me why you were ◙so late.
+00112
+○○○○○○○○
+00113
+You see...
+00114
+Manaka
+00115
+Ah, I'm so relieved. I was ◙wondering if something had ◙happened to you.
+00116
+○○○○○○○○
+00117
+I kept you waiting so ◙long... I'm sorry.
+00118
+○○○○○○○○
+00119
+Sorry. Are you mad at me？
+00120
+Manaka
+00121
+Now that you've apologized, ◙I'm not angry anymore.
+00122
+Manaka
+00123
+Geez, keeping me waiting ◙while it's so hot... ◙Reflect on it.
+00124
+○○○○○○○○
+00125
+I'm so sorry to have kept ◙you waiting in this ◙street！
+00126
+Manaka
+00127
+I didn't get the time ◙wrong, did I？
+00128
+○○○○○○○○
+00129
+Umm. I was just a little ◙delayed. I'm sorry to have ◙you wait while it's hot...
+00130
+Manaka
+00131
+On such a hot day... ◙You're so mean.
+00132
+○○○○○○○○
+00133
+I didn't mean it. ◙I'm sorry！
+00134
+Manaka
+00135
+I'm so tired of waiting ◙for you... Would you like ◙to wait here the same ◙time as I did？
+00136
+○○○○○○○○
+00137
+It was cold... I'm sorry, ◙I won't do it anymore.
+00138
+Manaka
+00139
+I prefer people who can ◙arrive on time...
+00140
+○○○○○○○○
+00141
+I'm sorry！ I won't let ◙you wait in the cold ◙anymore！
+00142
+○○○○○○○○
+00143
+I'm sorry to keep you ◙waiting. Did you caught a ◙cold？
+00144
+Manaka
+00145
+I'm fine, but... I'm tired ◙of waiting, geez.

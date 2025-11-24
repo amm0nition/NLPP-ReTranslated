@@ -1,0 +1,1980 @@
+00000
+Manaka
+00001
+Did you meet with someone？
+00002
+Manaka
+00003
+Yes... Look forward to ◙it, okay？
+00004
+Manaka
+00005
+Emm... right now？ ◙It's okay, but it's ◙sudden.
+00006
+Manaka
+00007
+Nice to meet you Takane, ◙it's Manaka.
+00008
+Manaka
+00009
+Um... your name...
+00010
+Manaka
+00011
+▲FRIEND▲. Nice to meet ◙you.
+00012
+Manaka
+00013
+I'm sorry！ Emm, please ◙do it again.
+00014
+Manaka
+00015
+▲FRIEND▲. Nice to meet ◙you.
+00016
+Manaka
+00017
+Umm...
+00018
+Manaka
+00019
+I know, please write here.
+00020
+Manaka
+00021
+▲FRIEND▲. Yes, let's ◙get along.
+00022
+Manaka
+00023
+▲FRIEND▲.
+00024
+Manaka
+00025
+Ah, father.
+00026
+Manaka
+00027
+Ah, mother.
+00028
+Manaka
+00029
+Ah, older brother.
+00030
+Manaka
+00031
+Ah, older sister.
+00032
+Manaka
+00033
+Hello.
+00034
+Manaka
+00035
+Good morning.
+00036
+Manaka
+00037
+Good morning.
+00038
+Manaka
+00039
+Good evening.
+00040
+Manaka
+00041
+Good evening.
+00042
+Manaka
+00043
+Oh, it's been a while！
+00044
+Manaka
+00045
+I'm sorry, it's Takane.
+00046
+Manaka
+00047
+What did you lost？
+00048
+Manaka
+00049
+Is something lost？
+00050
+Manaka
+00051
+No！
+00052
+Manaka
+00053
+What's wrong？
+00054
+Manaka
+00055
+No, geez... right now？
+00056
+Manaka
+00057
+E-excuse me！ What is it？
+00058
+Manaka
+00059
+E-excuse, what...
+00060
+Manaka
+00061
+No, stop！
+00062
+Manaka
+00063
+W-what is it？
+00064
+Manaka
+00065
+Emm？　Emm？
+00066
+Manaka
+00067
+Please stop？
+00068
+Manaka
+00069
+What are you doing？
+00070
+Manaka
+00071
+Um, what？
+00072
+Manaka
+00073
+Yes, what？
+00074
+Manaka
+00075
+Yes？ Do you need ◙something？
+00076
+Manaka
+00077
+Um, something...
+00078
+Manaka
+00079
+Wha- yes？
+00080
+Manaka
+00081
+Look here.
+00082
+Manaka
+00083
+Excuse me, take a look.
+00084
+Manaka
+00085
+Emm, hello.
+00086
+Manaka
+00087
+Emm, even if you look at ◙me so much, that's...
+00088
+Manaka
+00089
+Emm... don't look so ◙much...
+00090
+Manaka
+00091
+It's embarrassing...
+00092
+Manaka
+00093
+Emm？ You're close.
+00094
+Manaka
+00095
+Um, why don't you stay a ◙little more？
+00096
+Manaka
+00097
+Excuse me, that hard to ◙talk about...
+00098
+Manaka
+00099
+Huh？ What's wrong？
+00100
+Manaka
+00101
+Emm, what happened？
+00102
+Manaka
+00103
+Um... Hello！ Hah...
+00104
+Manaka
+00105
+Hmm？
+00106
+Manaka
+00107
+Um, let's have some rest！
+00108
+Manaka
+00109
+Yes.
+00110
+Manaka
+00111
+That's right...
+00112
+Manaka
+00113
+Emm, umm...
+00114
+Manaka
+00115
+Emm, that's about it...
+00116
+Manaka
+00117
+Umm, don't think about it ◙too much...
+00118
+Manaka
+00119
+▲FRIEND▲.
+00120
+Manaka
+00121
+Emm, father.
+00122
+Manaka
+00123
+Emm, mother.
+00124
+Manaka
+00125
+Umm, older brother.
+00126
+Manaka
+00127
+Umm, older sister.
+00128
+Manaka
+00129
+Ah, I see.
+00130
+Manaka
+00131
+That's it.
+00132
+Manaka
+00133
+I understand.
+00134
+Manaka
+00135
+Yes.
+00136
+Manaka
+00137
+Is that so...
+00138
+Manaka
+00139
+Umm...
+00140
+Manaka
+00141
+Emm...
+00142
+Manaka
+00143
+Aha！
+00144
+Manaka
+00145
+Hehe.
+00146
+Manaka
+00147
+Sniff.
+00148
+Manaka
+00149
+Um, Emm...
+00150
+Manaka
+00151
+What should I do...？
+00152
+Manaka
+00153
+That's a little...
+00154
+Manaka
+00155
+I'm happy！
+00156
+Manaka
+00157
+Thank you！
+00158
+Manaka
+00159
+I'm glad.
+00160
+Manaka
+00161
+I'm glad.
+00162
+Manaka
+00163
+Thank you very much.
+00164
+Manaka
+00165
+Excuse me.
+00166
+Manaka
+00167
+Yeah...
+00168
+Manaka
+00169
+That's right.
+00170
+Manaka
+00171
+Geez.
+00172
+Manaka
+00173
+It's a pity...
+00174
+Manaka
+00175
+Is that so...
+00176
+Manaka
+00177
+Hah...
+00178
+Manaka
+00179
+Hah.
+00180
+Manaka
+00181
+Hmm.
+00182
+Manaka
+00183
+And so？
+00184
+Manaka
+00185
+Yeah！
+00186
+Manaka
+00187
+Really？
+00188
+Manaka
+00189
+Is that right！？
+00190
+Manaka
+00191
+Really！？
+00192
+Manaka
+00193
+Is that so？
+00194
+Manaka
+00195
+Maybe it's your older ◙brother？
+00196
+Manaka
+00197
+Maybe it's your father？
+00198
+Manaka
+00199
+Maybe it's your older ◙sister？
+00200
+Manaka
+00201
+Maybe it's your mother？
+00202
+Manaka
+00203
+Hehe, I knew it！
+00204
+Manaka
+00205
+I'm really sorry, I'm ◙really...
+00206
+Manaka
+00207
+How do you know him？
+00208
+Manaka
+00209
+Um... what does he look ◙like？
+00210
+Manaka
+00211
+Then maybe it's dad, I'm ◙kidding.
+00212
+Manaka
+00213
+Then, maybe your brother？
+00214
+Manaka
+00215
+Um, is that your mother？
+00216
+Manaka
+00217
+Um, maybe it's your lil' ◙sister？
+00218
+Manaka
+00219
+Huh, are they your ◙relatives？
+00220
+Manaka
+00221
+Once again, I'm Takane ◙Manaka, it's a pleasure ◙to be dating you. Take ◙care of me.
+00222
+Manaka
+00223
+Um, you're very similar ◙to your father.
+00224
+Manaka
+00225
+Um, nice to meet you... ◙Mother.
+00226
+Manaka
+00227
+You two are very much ◙alike. Hehe.
+00228
+Manaka
+00229
+Um, looking forward to ◙work with you.
+00230
+Manaka
+00231
+Nice to meet you？
+00232
+Manaka
+00233
+Nice to meet you？ You ◙look exactly like my ◙father, right？
+00234
+Manaka
+00235
+Nice to meet you, please ◙take care of me.
+00236
+Manaka
+00237
+Nice to meet you.
+00238
+Manaka
+00239
+You're similar. Hehe.
+00240
+Manaka
+00241
+After all, you look very ◙similar, Hehe.
+00242
+Manaka
+00243
+Fluffy... no...
+00244
+Manaka
+00245
+Fluffy...！！ ◙It's embarrassing...
+00246
+Manaka
+00247
+Family skinship is very ◙popular, isn't it？
+00248
+Manaka
+00249
+I look forward to work ◙with you.
+00250
+Manaka
+00251
+Thank you for continuous ◙support.
+00252
+Manaka
+00253
+I wonder if I should ◙change my hair...
+00254
+Manaka
+00255
+I knew it, it's funny...
+00256
+Manaka
+00257
+It's kind of lively, ◙isn't it？
+00258
+Manaka
+00259
+Yes, this time it's your ◙turn.
+00260
+Manaka
+00261
+So can I ask the same ◙thing？
+00262
+Manaka
+00263
+That's right.
+00264
+Manaka
+00265
+That's right.
+00266
+Manaka
+00267
+It's been a long time, ◙isn't it？
+00268
+Manaka
+00269
+How often do we meet？
+00270
+Manaka
+00271
+What are you saying about ◙me？
+00272
+Manaka
+00273
+Did you ask about me？
+00274
+Manaka
+00275
+Still a bit embarrassing, ◙right？
+00276
+Manaka
+00277
+I'm still nervous.
+00278
+Manaka
+00279
+Are you surprised？
+00280
+Manaka
+00281
+You surprised me, okay？
+00282
+Manaka
+00283
+Is this your first time？
+00284
+Manaka
+00285
+It's my first time doing ◙this, right？
+00286
+Manaka
+00287
+That's right, it's ◙because you don't tell me.
+00288
+Manaka
+00289
+I see... Yes, anything？
+00290
+Manaka
+00291
+Geez, it's embarrassing...
+00292
+Manaka
+00293
+I'm sorry, what's this.
+00294
+Manaka
+00295
+Is that right？ Hehe.
+00296
+Manaka
+00297
+I'm not the only one, ◙Hehe.
+00298
+Manaka
+00299
+I see, I'm sorry.
+00300
+Manaka
+00301
+That's right, I'm sorry.
+00302
+Manaka
+00303
+That's right, yes.
+00304
+Manaka
+00305
+That's right, yes.
+00306
+Manaka
+00307
+Is that so.
+00308
+Manaka
+00309
+Then, hasn't been too ◙long today？
+00310
+Manaka
+00311
+Huh, that's right...
+00312
+Manaka
+00313
+Is that so. Then, today ◙is sudden I'm sorry.
+00314
+Manaka
+00315
+I see.　Is that so？ Yes, ◙it's okay.
+00316
+Manaka
+00317
+I'm sorry, I'm still a ◙little...
+00318
+Manaka
+00319
+I'm glad.
+00320
+Manaka
+00321
+Then that's fine.
+00322
+Manaka
+00323
+Huh？ Is that so？ I'm a ◙little relieved.
+00324
+Manaka
+00325
+That's right... I'm a ◙little relieved.
+00326
+Manaka
+00327
+Emm, for a year...
+00328
+Manaka
+00329
+We're been like this a ◙year.
+00330
+Manaka
+00331
+A year already... time ◙goes so fast.
+00332
+Manaka
+00333
+Yes, it's been over a ◙year.
+00334
+Manaka
+00335
+It's been a long time... ◙I'm kidding.
+00336
+Manaka
+00337
+We've together so long...
+00338
+Manaka
+00339
+Emm... When I want to see ◙you, you'll always be ◙with me...
+00340
+Manaka
+00341
+When I want to see you, ◙you're always with me...
+00342
+Manaka
+00343
+Kind, warm... that way. ◙It's embarrassing...
+00344
+Manaka
+00345
+That's right, you're a ◙warm person... yes.
+00346
+Manaka
+00347
+You're really cool, after ◙all... I'm kidding.
+00348
+Manaka
+00349
+You're so cool. Even at ◙school, you're popular ◙with girls. Hehe.
+00350
+Manaka
+00351
+I think it's a fun place ◙to talk... My head spins ◙so fast.
+00352
+Manaka
+00353
+First of all, my head ◙spins so fast. It's always ◙fun to talk.
+00354
+Manaka
+00355
+This is... Emm, Umm... ◙Huh？ I forgot about it...
+00356
+Manaka
+00357
+Emm, I don't like that... ◙I'm sorry.
+00358
+Manaka
+00359
+I recently was praised for ◙trying new dishes.
+00360
+Manaka
+00361
+I was praised for trying ◙new dishes.
+00362
+Manaka
+00363
+I wonder if I will get a ◙present from you this ◙time.
+00364
+Manaka
+00365
+I got a present from you. ◙That's the best thing ◙that happened today.
+00366
+Manaka
+00367
+I'm happy... yes, I had a ◙great day today... with ◙you.
+00368
+Manaka
+00369
+I had a great anniversary ◙day together... No, of ◙course, like high school ◙students. Yes.
+00370
+Manaka
+00371
+This time, you remembered ◙my birthday and celebrated ◙with me...
+00372
+Manaka
+00373
+During this dates, it was ◙my birthday. You even ◙celebrated it...
+00374
+Manaka
+00375
+I knew it... Um... Emm... ◙It's a secret.
+00376
+Manaka
+00377
+I'm glad... Umm... Emm... ◙It's a secret.
+00378
+Manaka
+00379
+Umm... If I don't receive ◙an e-mail from you... ◙I worry.
+00380
+Manaka
+00381
+It's annoying to wait for ◙an email from you, or I'm ◙waiting in vain.
+00382
+Manaka
+00383
+Umm, I'm feeling annoyed ◙because we don't have ◙skinship.
+00384
+Manaka
+00385
+Um... I wonder if I'm ◙annoyed because we don't ◙have skinship...
+00386
+Manaka
+00387
+Recently, I've been ◙thinking that food taste ◙is important. It's had to ◙match your tastes.
+00388
+Manaka
+00389
+I been thinking that the ◙taste of food is really ◙important. It's difficult ◙to match your tastes.
+00390
+Manaka
+00391
+You've been taking photos ◙often, but it's a little ◙embarrassing because I ◙have things I don't wanna ◙show.
+00392
+Manaka
+00393
+You take a lot of photos ◙these days... it's ◙exciting... that's good.
+00394
+Manaka
+00395
+Umm, I wonder if you can ◙be more casual about it... ◙kissing me...
+00396
+Manaka
+00397
+Emm, I wonder if you'll ◙be more casual, I'm ◙kidding... Even then...
+00398
+Manaka
+00399
+Umm, I know men aren't ◙good at casual skinship, ◙but... so often... it's a ◙little...
+00400
+Manaka
+00401
+I've always wanted to ask, ◙but do you want to have ◙skinship at home？
+00402
+Manaka
+00403
+Trouble... Yes, some... ◙I wonder if I should ◙stop...
+00404
+Manaka
+00405
+The trouble is that-- ◙that's why I'll stop.
+00406
+Manaka
+00407
+I used to take a lot of ◙lessons when I was a kid, ◙but I'm still making ◙sweets and playing the ◙piano.
+00408
+Manaka
+00409
+I used to take a lot of ◙lessons when I was a kid, ◙but I'm still making ◙sweets and playing the ◙piano.
+00410
+Manaka
+00411
+My hobby is making ◙sweets... but recently ◙I've been focusing on ◙tennis with you.
+00412
+Manaka
+00413
+My hobby is making ◙sweets... but recently ◙I've been focusing on ◙tennis with you.
+00414
+Manaka
+00415
+I've always liked it, but ◙recently I've been ◙focusing on cooking. ◙I will ask you. Hehe.
+00416
+Manaka
+00417
+I've always liked it, but ◙recently I've been ◙focusing on cooking. You ◙eat a lot, so I have to ◙try more.
+00418
+Manaka
+00419
+Recently, you take your ◙camera with you when we ◙go dating. I'll take ◙pictures too.
+00420
+Manaka
+00421
+Recently, you take your ◙camera out with you. Not ◙only I wanted to be ◙filmed, I want to try it ◙too.
+00422
+Manaka
+00423
+Some like it, others not. ◙What I like is... Oimo...
+00424
+Manaka
+00425
+I like it... Um, I think ◙I don't like it. Yes.
+00426
+Manaka
+00427
+I've been eating a lot of ◙Japanese food recently, ◙so I may like it more ◙than before.
+00428
+Manaka
+00429
+I've been eating Japanese ◙food often with you. ◙So I love it.
+00430
+Manaka
+00431
+I have a restaurant I ◙go to recently, and I'm ◙studying the menu there.
+00432
+Manaka
+00433
+We go to a restaurant ◙together recently, and ◙I'm studying the menu ◙there.
+00434
+Manaka
+00435
+Now concentrate on Chinese ◙food. Maybe we can eat ◙well.
+00436
+Manaka
+00437
+I've been liking Chinese ◙food recently. We often ◙eat together, so that's ◙why.
+00438
+Manaka
+00439
+Umm... I wonder if there ◙is someone who can cook ◙for me... I'm kidding.
+00440
+Manaka
+00441
+If someone cooks for me, ◙he will be my favorite... ◙I wonder if he'll look ◙like you, I'm kidding.
+00442
+Manaka
+00443
+16 years old, 2nd year in ◙high school.
+00444
+Manaka
+00445
+16 years old, a high ◙school second grader.
+00446
+Manaka
+00447
+17 years old, 2nd year in ◙high school.
+00448
+Manaka
+00449
+17 years old, a 2nd year ◙high school student.
+00450
+Manaka
+00451
+Yes？ Do you mean this ◙hair？
+00452
+Manaka
+00453
+Yes？ This hair？
+00454
+Manaka
+00455
+This hair？ Why do you ◙care？
+00456
+Manaka
+00457
+Emm, are you curious？ ◙About my hair？
+00458
+Manaka
+00459
+I wonder if this looks ◙good... my hair？
+00460
+Manaka
+00461
+Does this suit me？ Does ◙my hair looks good？
+00462
+Manaka
+00463
+I like this.
+00464
+Manaka
+00465
+I've been feeling like ◙this recently.
+00466
+Manaka
+00467
+You look like this...
+00468
+Manaka
+00469
+I will follow your ◙recommendations...
+00470
+Manaka
+00471
+I was stretching it, but ◙I'll cut it this time.
+00472
+Manaka
+00473
+I cut it as I spoke with ◙you... Is it strange？
+00474
+Manaka
+00475
+After talking with you, ◙I decided to try this ◙color... does it suit me？
+00476
+Manaka
+00477
+I followed your suggestion ◙and dyed it this color... ◙Is it strange？
+00478
+Manaka
+00479
+Thank you. I'm glad.
+00480
+Manaka
+00481
+Is that so... but I love ◙it...
+00482
+Manaka
+00483
+From an objective point ◙of view, you have good ◙sense, but I get anxious.
+00484
+Manaka
+00485
+What do you think of the ◙hobbies of my family？
+00486
+Manaka
+00487
+Is that so？ I think so, ◙too.
+00488
+Manaka
+00489
+Right... I believe it...
+00490
+Manaka
+00491
+Emm, this clothes？
+00492
+Manaka
+00493
+Yes？ This clothes？
+00494
+Manaka
+00495
+Are you interested in ◙these clothes？
+00496
+Manaka
+00497
+This clothes？ I knew it, ◙you care about it？
+00498
+Manaka
+00499
+I can see you again... ◙What are you worried ◙about？ This clothes？
+00500
+Manaka
+00501
+Umm, why are you worried？ ◙About these clothes？
+00502
+Manaka
+00503
+These are the clothes you ◙chose for today...
+00504
+Manaka
+00505
+I want to hear your ◙thoughts.
+00506
+Manaka
+00507
+This is your present...
+00508
+Manaka
+00509
+This is a present from ◙you, I hope it looks ◙good on me...
+00510
+Manaka
+00511
+I'm glad. Hehe.
+00512
+Manaka
+00513
+But, I like it...
+00514
+Manaka
+00515
+Do you want to talk about ◙your favorite clothes？
+00516
+Manaka
+00517
+Do you want to talk about ◙clothes and hobbies？
+00518
+Manaka
+00519
+I wonder if men con talk ◙about that kind of thing.
+00520
+Manaka
+00521
+That's right.
+00522
+Manaka
+00523
+It's just a story after ◙all. Geez...
+00524
+Manaka
+00525
+That's right... ◙I'm absolutely...
+00526
+Manaka
+00527
+Who wears this kind of ◙clothes？
+00528
+Manaka
+00529
+Do you even wear such ◙clothes？
+00530
+Manaka
+00531
+Right？ I think it's good？ ◙Are those good hobbies？
+00532
+Manaka
+00533
+Oh, do you like it？ Those ◙hobbies are good！
+00534
+Manaka
+00535
+I have to be a bit bolder.
+00536
+Manaka
+00537
+I want it to be more cute.
+00538
+Manaka
+00539
+Right？ Please use it.
+00540
+Manaka
+00541
+Then, I wonder what should ◙I do...
+00542
+Manaka
+00543
+Emm, I have a question.
+00544
+Manaka
+00545
+A Blood type, right？
+00546
+Manaka
+00547
+A blood type, right？
+00548
+Manaka
+00549
+B Blood type, right？
+00550
+Manaka
+00551
+B blood type, right？
+00552
+Manaka
+00553
+AB blood type, right？
+00554
+Manaka
+00555
+AB blood type, right？
+00556
+Manaka
+00557
+O blood type, right？
+00558
+Manaka
+00559
+O blood type, right？
+00560
+Manaka
+00561
+I knew it. It's typical, ◙Hehe.
+00562
+Manaka
+00563
+Is that right？ It's very ◙easy to understand.
+00564
+Manaka
+00565
+Huh？ That type is strange？
+00566
+Manaka
+00567
+Huh？ Is that right... ◙What type？
+00568
+Manaka
+00569
+I see... It's a little ◙unexpected...
+00570
+Manaka
+00571
+I see... It's a little ◙surprising.
+00572
+Manaka
+00573
+Is that so？ Then, I did ◙it！
+00574
+Manaka
+00575
+I knew it. I'm good at ◙guessing.
+00576
+Manaka
+00577
+Oh, it's the same as you. ◙Isn't it？
+00578
+Manaka
+00579
+Oh, is the same as you.
+00580
+Manaka
+00581
+Now it's my turn. What ◙type am I？
+00582
+Manaka
+00583
+Well then, I'm next. ◙What's my type？
+00584
+Manaka
+00585
+Correct answer！ I'm a ◙sincere and logical A ◙blood type, right？ Friend！
+00586
+Manaka
+00587
+Correct answer！ I'm A ◙blood type, let's get ◙along！
+00588
+Manaka
+00589
+Boo！ The correct answer ◙is A blood type. Like you. ◙So, let's get along.
+00590
+Manaka
+00591
+Unfortunately, the correct ◙answer was A type. Like ◙you. Maybe that's why we ◙get along.
+00592
+Manaka
+00593
+Umm... Why does it look ◙like that？
+00594
+Manaka
+00595
+Is that so... I wonder if ◙it would be nice.
+00596
+Manaka
+00597
+Is that so？ It's the first ◙time I heard that...
+00598
+Manaka
+00599
+I'm sometimes told that...
+00600
+Manaka
+00601
+By the way, the correct ◙answer was type A. It's ◙often said to be common, ◙but...
+00602
+Manaka
+00603
+Well, do you believe in ◙blood group compatibility？
+00604
+Manaka
+00605
+Then, do you think our ◙blood types are truly ◙compatible？
+00606
+Manaka
+00607
+Well, what blood type do ◙you think is compatible ◙with you？
+00608
+Manaka
+00609
+Then, what blood type do ◙you think is compatible ◙with you？
+00610
+Manaka
+00611
+I see... Sorry.
+00612
+Manaka
+00613
+Papa also says that there ◙is no medical basis. ◙But, I feel like there is ◙something.
+00614
+Manaka
+00615
+I'm glad. Then, what's the ◙point？
+00616
+Manaka
+00617
+I see. It's original after ◙all？
+00618
+Manaka
+00619
+Do you feel good at your ◙own pace？
+00620
+Manaka
+00621
+Do you like feeling calm？
+00622
+Manaka
+00623
+Oh, then the people you ◙care about... I'm kidding, ◙Hehe.
+00624
+Manaka
+00625
+I got if.　Hehe.
+00626
+Manaka
+00627
+I think snooping... is no ◙good.
+00628
+Manaka
+00629
+I feel like I agree with ◙you.
+00630
+Manaka
+00631
+Maybe it's surprising, ◙but I think it's ◙understandable.
+00632
+Manaka
+00633
+I see, that's what ◙happens.
+00634
+Manaka
+00635
+Certainly, it's a good ◙combination.
+00636
+Manaka
+00637
+I wonder that is good.
+00638
+Manaka
+00639
+An unexpected combination ◙may be good. You know, ◙that kind of thing.
+00640
+Manaka
+00641
+Then, you're my perfect ◙match by blood type ◙compatibility.
+00642
+Manaka
+00643
+Well than, you're not ◙really compatible with me ◙by blood type...
+00644
+Manaka
+00645
+What is our actual ◙compatibility？
+00646
+Manaka
+00647
+I thought so. I'm glad.
+00648
+Manaka
+00649
+Huh？ ...I'm sorry.
+00650
+Manaka
+00651
+Can I ask you something？ ◙Do you have any older ◙brothers？
+00652
+Manaka
+00653
+I knew it！ You're the ◙youngest. Then, is that ◙your older brother？
+00654
+Manaka
+00655
+Is that right？ I'm your ◙elder sister. Then, do ◙you have a younger sister？
+00656
+Manaka
+00657
+I did it！ I'm good at ◙guessing♪
+00658
+Manaka
+00659
+Older sister？ Ah, if you ◙ask me, it might be so.
+00660
+Manaka
+00661
+I did it, I guessed again. ◙You're very easy to ◙understand.
+00662
+Manaka
+00663
+I'm sorry... I thought you ◙had a sister because you ◙are kind with girls.
+00664
+Manaka
+00665
+By the way, I'm the only ◙daughter.
+00666
+Manaka
+00667
+This is an opportunity, ◙so I'm afraid to ask...
+00668
+Manaka
+00669
+I'll ask you because it's ◙a great opportunity...
+00670
+Manaka
+00671
+Have you been always like ◙this？
+00672
+Manaka
+00673
+Have you been like this ◙since you were a kid？
+00674
+Manaka
+00675
+*Sniff* I knew it...
+00676
+Manaka
+00677
+*Sniff* That's right...
+00678
+Manaka
+00679
+Heh... It's hard to ◙imagine it when you were ◙with me.
+00680
+Manaka
+00681
+It's hard to imagine... ◙Heh...
+00682
+Manaka
+00683
+Emm, well then...
+00684
+Manaka
+00685
+Are you always active at ◙home？
+00686
+Manaka
+00687
+Are you playing around at ◙home？
+00688
+Manaka
+00689
+Are you always relaxing ◙at home？
+00690
+Manaka
+00691
+Are you a lazy person at ◙home？
+00692
+Manaka
+00693
+I see, I thought as much.
+00694
+Manaka
+00695
+Isn't that natural... ◙after all？
+00696
+Manaka
+00697
+That's right, then maybe ◙it's impossible to do it ◙in front of me...
+00698
+Manaka
+00699
+It's hard to imagine. ◙Heh...
+00700
+Manaka
+00701
+When you're with me, ◙whatever you say make me ◙relax.
+00702
+Manaka
+00703
+When you're with me, what ◙kind of feeling is it？
+00704
+Manaka
+00705
+You're always kind.
+00706
+Manaka
+00707
+Sometimes you're a bit ◙mean.
+00708
+Manaka
+00709
+I wonder if this kind of ◙thing fits me... ◙I'm kidding.
+00710
+Manaka
+00711
+That's what you love, so ◙I'm okay with it.
+00712
+Manaka
+00713
+I heard that you were a ◙kind person...
+00714
+Manaka
+00715
+I heard that you were a ◙cool person...
+00716
+Manaka
+00717
+I heard that you were a ◙mature person...
+00718
+Manaka
+00719
+I heard that you were a ◙lively person...
+00720
+Manaka
+00721
+I heard that you were a ◙serious person...
+00722
+Manaka
+00723
+I heard that you were an ◙interesting person...
+00724
+Manaka
+00725
+But when I met you, it ◙was more like...
+00726
+Manaka
+00727
+Just as I heard it.
+00728
+Manaka
+00729
+Exactly what I heard.
+00730
+Manaka
+00731
+You're a kind person...
+00732
+Manaka
+00733
+You're so kind...
+00734
+Manaka
+00735
+You're a cool person.
+00736
+Manaka
+00737
+You're someone cool, ◙right？ It's okay.
+00738
+Manaka
+00739
+You're a calm person.
+00740
+Manaka
+00741
+You're a gentle person, ◙really.
+00742
+Manaka
+00743
+You are lively.
+00744
+Manaka
+00745
+You're a lively guy, ◙right.
+00746
+Manaka
+00747
+You're a serious guy, ◙actually.
+00748
+Manaka
+00749
+It's true, you're a ◙serious person.
+00750
+Manaka
+00751
+You're an interesting ◙person.
+00752
+Manaka
+00753
+You are truly interesting.
+00754
+Manaka
+00755
+I'm glad I could meet you ◙today.
+00756
+Manaka
+00757
+It was nice to meet you ◙today.
+00758
+Manaka
+00759
+Maybe it's your little ◙brother？
+00760
+Manaka
+00761
+Maybe it's your little ◙sister？
+00762
+Manaka
+00763
+I'm sorry, then it's your ◙older brother？
+00764
+Manaka
+00765
+I'm sorry, then it's your ◙older sister？
+00766
+Manaka
+00767
+Um, well...
+00768
+Manaka
+00769
+Emm...
+00770
+Manaka
+00771
+Hehe.
+00772
+Manaka
+00773
+Uh, huh...
+00774
+Manaka
+00775
+Ah...
+00776
+Manaka
+00777
+Emm...
+00778
+Manaka
+00779
+Yes？
+00780
+Manaka
+00781
+Um... I'm a little scared ◙of my face...
+00782
+Manaka
+00783
+Huh？ ...Ah.
+00784
+Manaka
+00785
+Uh...
+00786
+Manaka
+00787
+Hey... where are you ◙watching？
+00788
+Manaka
+00789
+Um... where are you ◙watching？
+00790
+Manaka
+00791
+Wow... Emm？
+00792
+Manaka
+00793
+Hehe！ Geez, Hehe.
+00794
+Manaka
+00795
+Huh？
+00796
+Manaka
+00797
+Ouchie. Hehe.
+00798
+Manaka
+00799
+Ouch... Hmm...
+00800
+Manaka
+00801
+Kyaa... Hehe.
+00802
+Manaka
+00803
+Wait... Geez！
+00804
+Manaka
+00805
+Um, can you stop...
+00806
+Manaka
+00807
+▲PLAYER▲. Need help？
+00808
+Manaka
+00809
+Oh！
+00810
+Manaka
+00811
+Emm？
+00812
+Manaka
+00813
+Emm！
+00814
+Manaka
+00815
+Kyaa！
+00816
+Manaka
+00817
+Hmm？
+00818
+Manaka
+00819
+Ah...
+00820
+Manaka
+00821
+Emm...
+00822
+Manaka
+00823
+Emm...
+00824
+Manaka
+00825
+Kyaa...
+00826
+Manaka
+00827
+Hmm...
+00828
+Manaka
+00829
+Ah.
+00830
+Manaka
+00831
+Huh？
+00832
+Manaka
+00833
+Emm？
+00834
+Manaka
+00835
+Kyaa.
+00836
+Manaka
+00837
+Hmm.
+00838
+Manaka
+00839
+Ah...
+00840
+Manaka
+00841
+...Huh？
+00842
+Manaka
+00843
+Geez...
+00844
+Manaka
+00845
+Hmm...
+00846
+Manaka
+00847
+Dear...
+00848
+Manaka
+00849
+Gentle... Yes.
+00850
+Manaka
+00851
+You're so cool.
+00852
+Manaka
+00853
+You're so calm.
+00854
+Manaka
+00855
+You're a lively person.
+00856
+Manaka
+00857
+You're so serious.
+00858
+Manaka
+00859
+Maybe it's my imagination, ◙but your eyes are a bit...
+00860
+Manaka
+00861
+It's nice to be honest, ◙but I'd like you to be a ◙little careful...
+00862
+Manaka
+00863
+I feel like I'll be seeing ◙a lot of things, but I ◙wonder if that's the case.
+00864
+Manaka
+00865
+I'm looking at various ◙things... I'm a little ◙restless.
+00866
+Manaka
+00867
+I'm looking at you. ◙I'm not sorry...
+00868
+Manaka
+00869
+I wonder if we can have a ◙little skinship...
+00870
+Manaka
+00871
+The skinship is too ◙intense... it may become ◙a problem.
+00872
+Manaka
+00873
+I think that touching too ◙much... is not good.
+00874
+Manaka
+00875
+Maybe we can speak at ◙your pace.
+00876
+Manaka
+00877
+You go at your own pace. ◙You can talk freely.
+00878
+Manaka
+00879
+You get nervous easily？ ◙I wanted to talk a little ◙more.
+00880
+Manaka
+00881
+It's easy to get nervous. ◙We didn't talk much.
+00882
+Manaka
+00883
+Um, I thought about it, ◙but...
+00884
+Manaka
+00885
+You're so kind...
+00886
+Manaka
+00887
+You're kinda cool.
+00888
+Manaka
+00889
+You're a gentle person.
+00890
+Manaka
+00891
+You're a lively person.
+00892
+Manaka
+00893
+You're a serious person.
+00894
+Manaka
+00895
+Your gaze is a little... ◙n-nothing. Sorry.
+00896
+Manaka
+00897
+Maybe I'm a little ◙worried about... my line ◙of sight.
+00898
+Manaka
+00899
+I feel like we were ◙seen... I was nervous.
+00900
+Manaka
+00901
+We were seen... ◙I'm nervous.
+00902
+Manaka
+00903
+It's like staring at me... ◙Ah, I'm getting nervous.
+00904
+Manaka
+00905
+This skinship is a ◙little...
+00906
+Manaka
+00907
+I think you like doing ◙skinship.
+00908
+Manaka
+00909
+I think you like to touch ◙too much.
+00910
+Manaka
+00911
+You like going at your own ◙pace. Let's talk.
+00912
+Manaka
+00913
+You like going at your own ◙pace.
+00914
+Manaka
+00915
+Are you nervous？ I wanted ◙to talk a little more.
+00916
+Manaka
+00917
+Are you nervous？ I'm so ◙sorry we couldn't talk so ◙much.
+00918
+Manaka
+00919
+We're very similar.
+00920
+Manaka
+00921
+I can tell we are very ◙much alike.
+00922
+Manaka
+00923
+Athletes...
+00924
+Manaka
+00925
+Artists...
+00926
+Manaka
+00927
+Entertainers...
+00928
+Manaka
+00929
+Company's...
+00930
+Manaka
+00931
+School's...
+00932
+Manaka
+00933
+Club activities...
+00934
+Manaka
+00935
+Now the topic is...
+00936
+Manaka
+00937
+Now popular with men is...
+00938
+Manaka
+00939
+Now popular with women ◙is...
+00940
+Manaka
+00941
+I often see it on TV...
+00942
+Manaka
+00943
+It's in a movie...
+00944
+Manaka
+00945
+It often appears in the ◙textbook...
+00946
+Manaka
+00947
+Of overseas...
+00948
+Manaka
+00949
+From a friend...
+00950
+Manaka
+00951
+I know of someone...
+00952
+Manaka
+00953
+From your relatives...
+00954
+Manaka
+00955
+From your parents...
+00956
+Manaka
+00957
+I saw it in town this ◙time...
+00958
+Manaka
+00959
+That romanticist's...
+00960
+Manaka
+00961
+That narcissist...
+00962
+Manaka
+00963
+From that story...
+00964
+Manaka
+00965
+That's genius...
+00966
+Manaka
+00967
+Everyone longs for...
+00968
+Manaka
+00969
+I feels a little bad...
+00970
+Manaka
+00971
+Hehe, exactly.
+00972
+Manaka
+00973
+Yes, it's the same.
+00974
+Manaka
+00975
+Huh？ I think it looks ◙exactly the same.
+00976
+Manaka
+00977
+Is that so？ I think it's ◙similar, but... sorry.
+00978
+Manaka
+00979
+I wonder, I thought it ◙was similar.
+00980
+Manaka
+00981
+Ah... I see, I'm sorry.
+00982
+Manaka
+00983
+I look forward to be with ◙you.
+00984
+Manaka
+00985
+Thank you for continuing ◙to support me.
+00986
+Manaka
+00987
+▲FRIEND▲.
+00988
+Manaka
+00989
+Hmm... I don't think so.

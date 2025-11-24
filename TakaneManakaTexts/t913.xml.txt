@@ -1,0 +1,144 @@
+00000
+Manaka
+00001
+...
+00002
+The message number is ◙different.
+00003
+Manaka
+00004
+People might be looking ◙at us...
+00005
+Manaka
+00006
+People might be looking ◙at us...
+00007
+Manaka
+00008
+People might be looking ◙at us...
+00009
+Did you feel good？
+00010
+Sorry...
+00011
+Loved it...
+00012
+I like it...
+00013
+I feel happiness...
+00014
+I'm glad...
+00015
+It's cute...
+00016
+It's beautiful...
+00017
+How is it now？
+00018
+Manaka
+00019
+...
+00020
+Reaction ID doesn't exist
+00021
+Did you feel good？
+00022
+Sorry...
+00023
+Loved it...
+00024
+I like it...
+00025
+I feel happiness...
+00026
+I'm glad...
+00027
+It's cute...
+00028
+It's beautiful...
+00029
+How is it now？
+00030
+Manaka
+00031
+...
+00032
+Reaction ID doesn't exist
+00033
+Did you feel good？
+00034
+Sorry...
+00035
+Loved it...
+00036
+I like it...
+00037
+I feel happiness...
+00038
+I'm glad...
+00039
+It's cute...
+00040
+It's beautiful...
+00041
+How is it now？
+00042
+Manaka
+00043
+...
+00044
+Reaction ID doesn't exist
+00045
+Manaka
+00046
+...
+00047
+Kiss reaction number error
+00048
+Kiss dialogue number error
+00049
+Manaka
+00050
+...
+00051
+Kiss reaction number error
+00052
+Kiss dialogue number error
+00053
+Manaka
+00054
+...
+00055
+Kiss reaction number error
+00056
+Kiss dialogue number error
+00057
+○○○○○○○○
+00058
+Short kiss
+00059
+Face-to-face(２Ｄ)
+00060
+Face-to-face(３Ｄ)
+00061
+Sitting face-to-face
+00062
+Sitting side-by-side
+00063
+One more time
+00064
+Stop
+00065
+Next
+00066
+Manaka
+00067
+People might be looking ◙at us...
+00068
+Manaka
+00069
+People might be looking ◙at us...
+00070
+Manaka
+00071
+People might be looking ◙at us...
