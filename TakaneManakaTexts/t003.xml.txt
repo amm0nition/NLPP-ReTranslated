@@ -105,7 +105,7 @@ Would it be okay if it's ◙on a different day...？
 00052
 Manaka
 00053
-Hmm, I don't think it's ◙good. Let's forget about ◙it this time.
+Hmm, I don't think that ◙works. Let's forget about ◙it this time.
 00054
 ○○○○○○○○
 00055
@@ -319,7 +319,7 @@ Eh！？
 00159
 ○○○○○○○○
 00160
-(I think she was probably ◙in a bad mood. ◙▲MANAKA▲...)
+(I guess ▲MANAKA▲ was ◙probably in a bad mood...)
 00161
 ○○○○○○○○
 00162
@@ -327,4 +327,4 @@ Eh！？
 00163
 ○○○○○○○○
 00164
-(She wants to go somewhere ◙else then. I wonder where ◙you want to go ◙▲MANAKA▲...)
+(She wants to go somewhere ◙else then. I wonder where ◙▲MANAKA▲ wants to go...)
