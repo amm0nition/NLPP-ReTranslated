@@ -25,7 +25,7 @@ I think that's the right ◙move.
 00012
 ○○○○○○○○
 00013
-(Now then... Where I ◙should look？)
+(Now then... Where should ◙I look？)
 00014
 ○○○○○○○○
 00015
@@ -76,8 +76,8 @@ But I think it's better if ◙it's clean...
 I see, do your best.
 00038
 ○○○○○○○○
-00039
-仮
+0039
+Temp
 00040
 (I promised to help you ◙clean up today, ◙▲MANAKA▲.)
 00041
@@ -187,7 +187,7 @@ Thank you. It's amazing ◙how you can do it even if ◙you don't own it.
 00093
 Well, every phone is ◙similar, so no big deal.
 00094
-Is that so？　Hmm... Can I ◙ask you about it next ◙time？
+Is that so？ Hmm... Can I ◙ask you about it next ◙time？
 00095
 Yes, ask me anytime.
 00096
@@ -201,7 +201,7 @@ It's not that difficult, ◙so it's okay.
 00100
 (That's right, she said she ◙would like to learn how to ◙use her phone. I'll go see, ◙▲MANAKA▲.)
 00101
-(I wonder if you learned ◙how to use her phone. ◙I should ask you, ◙▲MANAKA▲.)
+(I wonder if she learned ◙how to use her phone. ◙I should her,)
 00102
 Go to her classroom
 00103
@@ -209,7 +209,7 @@ Go to the courtyard
 00104
 Go to the club room
 00105
-仮
+Temp
 00106
 Manaka
 00107
@@ -283,7 +283,7 @@ Thank you. With this I ◙think it's the end.
 00141
 I see, good work.
 00142
-Good work to you too. ◙Thank you for helping me. ◙I ended faster than I ◙expected.
+Good work to you too. ◙Thank you for helping me. ◙It ended faster than I ◙expected.
 00143
 I'm glad I could help.
 00144
@@ -301,7 +301,7 @@ I'm sorry...
 00150
 ○○○○○○○○
 00151
-Hmm, ▲MANAKA▲？　◙Do you have any problem？
+Hmm, ▲MANAKA▲？ ◙Do you have any problem？
 00152
 Manaka
 00153
@@ -323,7 +323,7 @@ You're right... ◙But I'll try to find it.
 00161
 ○○○○○○○○
 00162
-(She told me about a ◙print... Where did you lose ◙it ▲MANAKA▲...)
+(She told me about a ◙print... Where did you lose ◙it, ▲MANAKA▲...？)
 00163
 ○○○○○○○○
 00164
@@ -413,7 +413,7 @@ I see... I'm sorry.
 00206
 ○○○○○○○○
 00207
-Haven't you been getting ◙late to your home recently, ◙▲MANAKA▲？
+Haven't you been getting ◙home late recently, ◙▲MANAKA▲？
 00208
 Manaka
 00209
@@ -457,7 +457,7 @@ It wasn't a big deal.
 00228
 No, I'm able to feel ◙relieved each day.
 00229
-Then it was worth to ◙help you. I'm glad.
+Then it was worth it to ◙help you. I'm glad.
 00230
 Manaka
 00231
@@ -485,7 +485,7 @@ Do your best
 00242
 I can help you with ◙anything, just tell me.
 00243
-Help me？　Emm, lemme ◙see...
+Help me？ Emm, lemme ◙see...
 00244
 Is there anything I ◙can do？ Make copies or ◙something.
 00245
@@ -513,13 +513,13 @@ Take a little detour
 00256
 Manaka
 00257
-How did hard did you feel ◙the practice menu for ◙our juniors？
+How hard did you feel ◙the practice menu for ◙our juniors was？
 00258
 ○○○○○○○○
 00259
 I think the balance is ◙better because of the ◙improvements you did.
 00260
-Really？　I'm glad. ◙Then, we should go with ◙this.
+Really？ I'm glad. ◙Then, we should go with ◙this.
 00261
 As expected from you, ◙▲MANAKA▲.
 00262
@@ -567,7 +567,7 @@ I hope he's happy with ◙his gift.
 00283
 (By the way, I promised her ◙I would give her some ◙advice for a present for ◙her father.)
 00284
-(Today I promised to help ◙her decide for a gift... ◙I wonder what would be ◙good.)
+(Today I promised to help ◙her decide on a gift... ◙I wonder what would be ◙good.)
 00285
 Books and stationery
 00286
@@ -611,7 +611,7 @@ Then I'll ask there
 00305
 Maybe
 00306
-Then I'll ask in the ◙men's club.
+Then I'll ask in the ◙boys' team.
 00307
 Huh？
 00308
@@ -629,7 +629,7 @@ Yes... You're right.
 00314
 (I should look around for ◙her racket.)
 00315
-Ask in the boys' club
+Ask in the boys' team
 00316
 Ask someone around
 00317
@@ -637,11 +637,11 @@ Take your time...
 00318
 Manaka
 00319
-Thank you for finding my ◙racket. The one who took ◙it, returned it to me.
+Thank you for finding my ◙racket. The one who took ◙it returned it to me.
 00320
 ○○○○○○○○
 00321
-Yes, it was in the men's ◙club after all. ◙I'm glad to hear it.
+Yes, it was in the boys' ◙club after all. ◙I'm glad to hear it.
 00322
 Yes... Thank you for ◙listening to me.
 00323
@@ -661,7 +661,7 @@ It's okay... It's mine, ◙so I'll ask myself.
 00330
 ○○○○○○○○
 00331
-Aren't you getting early ◙to school lately？ Are you ◙on duty this week, ◙▲MANAKA▲？
+Aren't you getting to ◙school early lately？ Are you ◙on duty this week, ◙▲MANAKA▲？
 00332
 Manaka
 00333
@@ -673,9 +673,9 @@ It's hard to get up early
 00336
 Then... Can I go with you ◙during your turn？
 00337
-What！？　...Together？
+What！？ ...Together？
 00338
-Yes. It's no good？
+Yes. Is that no good？
 00339
 It's not like that...
 00340
@@ -703,7 +703,7 @@ I still have time...
 00351
 Manaka
 00352
-We've been going out at ◙early morning, how do ◙you feel？
+We've been going out ◙early morning, how do ◙you feel？
 00353
 ○○○○○○○○
 00354
@@ -753,7 +753,7 @@ Well then, I look ◙forward to it.
 00376
 It's important to improve ◙on your form, but... ◙I can't do it.
 00377
-It's not that a big deal, ◙but... Yes, I understand.
+It's not that big a deal, ◙but... Yes, I understand.
 00378
 You should ask a more ◙advanced person.
 00379
@@ -973,7 +973,7 @@ Manaka
 00486
 Hey, if you'd like, let's ◙go together.
 00487
-Together？　Emm... Sure.
+Together？ Emm... Sure.
 00488
 Alright. Let's go.
 00489
@@ -1015,7 +1015,7 @@ Manaka
 00507
 I'm glad I found you, ◙let's go together.
 00508
-Emm... Together？　...Okay.
+Emm... Together？ ...Okay.
 00509
 I'm so lucky.
 00510
@@ -1047,7 +1047,7 @@ Manaka
 00523
 Hey, what are you ◙doing？
 00524
-Huh！？　Ah... ◙▲MANAKA▲！
+Huh！？ Ah... ◙▲MANAKA▲！
 00525
 I'm sorry for surprising ◙you... Were you looking ◙for something？
 00526
@@ -1207,7 +1207,7 @@ Manaka
 00603
 ...
 00604
-(Did you not see me now？)
+(Did you not see me just now？)
 00605
 ○○○○○○○○
 00606
@@ -1335,7 +1335,7 @@ Yes, see you later.
 00667
 (Ah, it's ▲RINKO▲.)
 00668
-(Huh, haven't she seen me？ ◙I should approach her.)
+(Huh, hasn't she seen me？ ◙I should approach her.)
 00669
 Manaka
 00670
@@ -1411,7 +1411,7 @@ Manaka
 00705
 Manaka
 00706
-...Am I on your way？ ◙...Um, okay... See you ◙later.
+...Am I in your way？ ◙...Um, okay... See you ◙later.
 00707
 (In the way？ Did you ◙misunderstood me？)
 00708
@@ -1467,7 +1467,7 @@ Manaka
 00733
 I'm fine, thank you. ◙Um... And you？
 00734
-Me？　I'm fine, I was the ◙one who crashed with you.
+Me？ I'm fine, I was the ◙one who crashed into you.
 00735
 I'm glad. I'll be late, ◙so I'm going now, okay？
 00736
@@ -1475,7 +1475,7 @@ Yes, I have to hurry ◙too！ See you.
 00737
 ○○○○○○○○
 00738
-▲MANAKA▲！？　◙Are you okay？ Sorry for ◙crashing with you, but I ◙have to hurry.
+▲MANAKA▲！？ Are you okay？ Sorry for ◙crashing into you, but I ◙have to hurry.
 00739
 Manaka
 00740
@@ -1587,7 +1587,7 @@ Hmm？ Who's...？
 00793
 Manaka
 00794
-Hey, what's wrong？ ◙Did you lost something？
+Hey, what's wrong？ ◙Did you lose something？
 00795
 Oh, ▲MANAKA▲！ ◙What a coincidence.
 00796
@@ -1657,7 +1657,7 @@ Of course, see you.
 00828
 ○○○○○○○○
 00829
-(Huh？　It seems like is ◙over there. Perhaps I ◙should call you, ◙▲MANAKA▲...)
+(Huh？ It seems like she's ◙over there. Perhaps I ◙should call you, ◙▲MANAKA▲...)
 00830
 Manaka
 00831
@@ -1695,7 +1695,7 @@ I see, it was my mistake. ◙I thought she was similar ◙to you.
 00847
 Really？ I see, I guess it ◙was a mistake after all... ◙I'll be going now, see ya.
 00848
-Huh？　Ah yes, see you.
+Huh？ Ah yes, see you.
 00849
 ○○○○○○○○
 00850
@@ -1779,7 +1779,7 @@ Emm... Aren't you getting ◙to close to me？
 00889
 Manaka
 00890
-Are you taking your ◙distance from me on ◙purpose？
+Are you keeping your ◙distance from me on ◙purpose？
 00891
 Manaka
 00892
@@ -1963,7 +1963,7 @@ Is that so...？
 00981
 Manaka
 00982
-That's right, that was ◙your election.
+That's right, that was ◙your selection.
 00983
 Manaka
 00984
@@ -2003,7 +2003,7 @@ Are the committee members ◙good friends？
 01001
 Ah, really？
 01002
-Only a handful get along. ◙And the rest only do ◙chat between themselves.
+Only a handful get along. ◙And the rest only ◙chat between themselves.
 01003
 Hmm...
 01004
@@ -2031,7 +2031,7 @@ I want to hear more about ◙it.
 01015
 Huh, are you interested in ◙part-time jobs, ◙▲MANAKA▲？
 01016
-Huh？　Well... Yeah.
+Huh？ Well... Yeah.
 01017
 I knew it, after all, ◙aren't there many girls ◙also doing part-time ◙jobs lately？
 01018
@@ -2133,7 +2133,7 @@ What's wrong with that？ ◙Is that bad？
 01066
 No... it's alright, ◙I think you should have ◙as many friends as ◙possible.
 01067
-Huh？　Well, yeah. ◙I think so.
+Huh？ Well, yeah. ◙I think so.
 01068
 That's right...
 01069
@@ -2219,11 +2219,11 @@ Not really
 01109
 You don't try to hide ◙it...
 01110
-Wha-？　Well yes, I mean... ◙Why？
+Wha-？ Well yes, I mean... ◙Why？
 01111
 I get along with you too, ◙you know.
 01112
-Huh？　Yes, I suppose.
+Huh？ Yes, I suppose.
 01113
 ...I'm not gonna lose.
 01114
@@ -2235,7 +2235,7 @@ I mean, I speak with you ◙more often, right？ Even ◙now, don't we ◙▲MAN
 01117
 Hehe, I see. Let's get ◙along even more, okay？
 01118
-Huh？　Well, yeah.
+Huh？ Well, yeah.
 01119
 Manaka
 01120
@@ -2259,7 +2259,7 @@ Whassup.
 01129
 Emm, that's... Yes, I was ◙just trying saying ◙"Whassup"...
 01130
-Huh？　You're so cheerful.
+Huh？ You're so cheerful.
 01131
 That's right... Trying is ◙important！ I'm kidding.
 01132
@@ -2347,7 +2347,7 @@ Well, now that you say it, ◙you might be right...
 01173
 Well, I was just making ◙things up. I was just ◙hanging around.
 01174
-Huh？　Ah... Geez, don't ◙tease me.
+Huh？ Ah... Geez, don't ◙tease me.
 01175
 Hahaha, sorry！
 01176
@@ -2415,7 +2415,7 @@ You're so humble. You have ◙the face of a master chef, ◙▲MANAKA▲！
 01207
 Geez, stop that. ◙If you expect too much, ◙I might be in trouble when ◙giving you some...
 01208
-Huh？　Giving...？
+Huh？ Giving...？
 01209
 Ah... no, that's not ◙what I meant！ ◙Emm, it's...
 01210
@@ -2443,7 +2443,7 @@ Ah yes, I'm looking ◙forward to your sweets！
 01221
 Ah, geez！
 01222
-(You act relly girly when ◙embarrassed ◙▲MANAKA▲...)
+(You act really girly when ◙embarrassed, ◙▲MANAKA▲...)
 01223
 ○○○○○○○○
 01224
@@ -2463,17 +2463,17 @@ What are you looking at？ ◙The pet shop？
 01231
 The rabbits！
 01232
-Oh, the rabbits？　◙I see now, you really love ◙rabbits, right ◙▲MANAKA▲？
+Oh, the rabbits？ ◙I see now, you really love ◙rabbits, right ◙▲MANAKA▲？
 01233
 I love them. Look at them, ◙aren't they cute？
 01234
 Sure, and there are a ◙lot of rabbits.
 01235
-Hehe, that's right. ◙Minirex lop-ears... ◙and the Netherlands dwarf！
+Hehe, that's right. ◙Mini Rex Lop-Ears... ◙and the Netherlands Dwarf！
 01236
-Oh, uh... Emm, and the ◙lop-ear？
+Oh, uh... Emm, and the ◙Lop-Ear？
 01237
-Yes, lop-ear. ◙This Horan lop-ear looks ◙a little small, isn't it？
+Yes, Lop-Ear. ◙This Holland Lop-Ear looks ◙a little small, doesn't it？
 01238
 Ah, yes. You're right.
 01239
@@ -2495,7 +2495,7 @@ No, it's nothing. ◙Everyone had their own ◙markings and were ◙really cute.
 01247
 Right？
 01248
-Do you come here often ◙▲MANAKA▲？
+Do you come here often, ◙▲MANAKA▲？
 01249
 Sometimes. I come every ◙time I think the store ◙has a new rabbit on ◙display...
 01250
@@ -2515,7 +2515,7 @@ You're welcome. See you.
 01257
 (Let's go back home for ◙today...)
 01258
-(Hmm？　Huh, is that...)
+(Hmm？ Huh, is that...)
 01259
 ......
 01260
@@ -2559,7 +2559,7 @@ No, it's fine. I couldn't ◙have achieved my goal ◙alone, but you helped me.
 01279
 Goal？
 01280
-Huh？　Emm, well... It's not ◙that, but I really felt I ◙was alone that time.
+Huh？ Emm, well... It's not ◙that, but I really felt I ◙was alone that time.
 01281
 Oh, but it was fun. ◙Thank you.
 01282
@@ -2615,7 +2615,7 @@ What？ What are you ◙saying――
 01307
 Isn't it right, ◙Takane-san？
 01308
-Girls？　Emm, but...
+Girls？ Emm, but...
 01309
 ......
 01310
@@ -2697,7 +2697,7 @@ No, this is not what it ◙looks like！
 01348
 What's not what it looks ◙like？
 01349
-Huh？　This, you know, ◙that...
+Huh？ This, you know, ◙that...
 01350
 Come on, let's eat at ◙Winning Burger, it's my ◙treat this time.
 01351
@@ -2709,7 +2709,7 @@ Hehe... Yes, let's stop ◙a for little while.
 01354
 ○○○○○○○○
 01355
-(Huh？　I can see see you ◙over there, ◙▲MANAKA▲...)
+(Huh？ I can see see you ◙over there, ◙▲MANAKA▲...)
 01356
 Manaka
 01357
@@ -2753,7 +2753,7 @@ Okay, it's time for me to ◙go. See you.
 01376
 Yes, see you.
 01377
-(Huh？　You're there again ◙▲MANAKA▲...)
+(Huh？ You're there again ◙▲MANAKA▲...)
 01378
 Whassup, taking another ◙detour I see ◙▲MANAKA▲？
 01379
@@ -2875,7 +2875,7 @@ Yeah, I mean they are only ◙third graders.
 01437
 Third grade！？ Way to go, ◙Yumi-chan.
 01438
-And, you know？　Huh... ◙I wonder if you could ◙lend me a hand again.
+And, you know？ Huh... ◙I wonder if you could ◙lend me a hand again.
 01439
 Would you like to go and ◙scout the place, again？
 01440
@@ -2921,7 +2921,7 @@ Huh, the date？ Oh, I have ◙to thank you too...
 01460
 Well, that was not the ◙only reason I called, ◙you know？ I want to go ◙on a date.
 01461
-A date？　Of course！
+A date？ Of course！
 01462
 Are you okay with that？
 01463
@@ -2959,7 +2959,7 @@ Hmm？ What's wrong？
 01479
 Actually, I came here a ◙little early... But it's ◙okay, I'm fine.
 01480
-Huh？　Really？ I'm sorry...
+Huh？ Really？ I'm sorry...
 01481
 It's fine, you were not ◙late at all. Okay, shall ◙we go？
 01482
@@ -3033,7 +3033,7 @@ I wonder if we'll have ◙many dates from now on.
 01516
 Of course, as many as you ◙want！
 01517
-No matter how many I ◙want？　Hehe.
+No matter how many I ◙want？ Hehe.
 01518
 Hey...
 01519
@@ -3123,11 +3123,11 @@ For the music, you...
 01561
 ○○○○○○○○
 01562
-(It's been quite a while. ◙I wonder if you will ask me ◙about her phone, ◙▲MANAKA▲.)
+(It's been quite a while. ◙I wonder if you will ask me ◙about your phone, ◙▲MANAKA▲.)
 01563
 ○○○○○○○○
 01564
-(It's been quite some ◙time. I wonder if you will ◙ask me about tips for how ◙to use her phone, ◙▲MANAKA▲.)
+(It's been quite some ◙time. I wonder if you will ◙ask me about tips for how ◙to use your phone, ◙▲MANAKA▲.)
 01565
 ○○○○○○○○
 01566
@@ -3141,13 +3141,13 @@ Mmm, lemme see. I suppose ◙we should check the net.
 01570
 Alright, where is it？
 01571
-What's the plan for ◙today ▲MANAKA▲？
+What's the plan for ◙today, ▲MANAKA▲？
 01572
 Cleaning the court... ◙And I have to check the ◙cleaning tools.
 01573
 Okay, we should start ◙now.
 01574
-So, what needs cleaning ◙today ▲MANAKA▲？
+So, what needs cleaning ◙today, ▲MANAKA▲？
 01575
 I should clean the ball. ◙It looks old and in bad ◙condition, we might have ◙to discard it soon.
 01576
@@ -3155,7 +3155,7 @@ Okay, let's clean it.
 01577
 ○○○○○○○○
 01578
-(I feel like I had to do ◙something. Oh well, if I ◙can't remember it mustn't ◙had been important.)
+(I feel like I had to do ◙something. Oh well, if I ◙can't remember it mustn't ◙have been important.)
 01579
 ○○○○○○○○
 01580
@@ -3163,7 +3163,7 @@ Okay, let's clean it.
 01581
 (I feel like I'm ◙forgetting something... ◙Oh well, it must not have ◙been important.)
 01582
-男子
+Boy
 01583
 A print？ Ah, that's in ◙the lost and found stuff.
 01584
@@ -3401,7 +3401,7 @@ Manaka
 01700
 ▲MANAKA▲.
 01701
-Based on your feedback, ◙I'll make some adjustments ◙to the flavor and the ◙consistence, okay？
+Based on your feedback, ◙I'll make some adjustments ◙to the flavor and the ◙consistency, okay？
 01702
 Okay, that sounds nice.
 01703
