@@ -1,7 +1,7 @@
 00000
 ○○○○○○○○
 00001
-Excuse me. I came to turn ◙in my club enrollment form. ◙Is Suzuki-sensei of the ◙tennis club here？
+Excuse me. I came to turn ◙in my club application form. ◙Is Suzuki-sensei of the ◙tennis club here？
 00002
 Teacher
 00003
@@ -41,9 +41,9 @@ So we're in the same ◙grade. Nice to meet you！
 00020
 By the way. Does the club ◙have the day off today？ ◙It seems like you are the ◙only person here, ◙▲MANAKA▲...
 00021
-Today's special. All the ◙male and female members ◙went to a social ◙gathering.
+Today's special. All the ◙boys and girls ◙went to a social ◙gathering.
 00022
-I see. I have the ◙enrollment form with me, ◙but seems like no one's ◙here-- ...What！？
+I see. I have the ◙application form with me, ◙but seems like no one's ◙here-- ...What！？
 00023
 Is it really okay that you ◙didn't join them, ◙▲MANAKA▲？
 00024
@@ -51,7 +51,7 @@ I... I just have something ◙to do here.
 00025
 ？
 00026
-How about I take care of ◙the enrollment form for ◙you then？ I'll pass it on ◙to the club captain.
+How about I take care of ◙the application form for ◙you then？ I'll pass it on ◙to the club captain.
 00027
 But, aren't you in the ◙middle of practicing？
 00028
@@ -61,7 +61,7 @@ It's fine. Always help out ◙one another when in ◙trouble, right？
 00030
 ○○○○○○○○
 00031
-Excuse me. I came to turn ◙in my club enrollment form. ◙Is Suzuki-sensei of the ◙tennis club here？
+Excuse me. I came to turn ◙in my club application form. ◙Is Suzuki-sensei of the ◙tennis club here？
 00032
 Teacher
 00033
@@ -75,7 +75,7 @@ I see. Okay then...
 00037
 Hmm... All right...
 00038
-(A girl carrying a huge ◙teapot...？ Ah, is she the ◙manager？)
+(A girl carrying a huge ◙kettle...？ Ah, is she the ◙manager？)
 00039
 Excuse me！
 00040
@@ -87,7 +87,7 @@ Yes. Is there something I ◙can help you with？
 00043
 Um, is there something...？
 00044
-Ah, I'm a second year, ◙▲LAST▲　▲FIRST▲. ◙I just transferred in and ◙I'm here to submit my club ◙enrollment form...
+Ah, I'm a second year, ◙▲LAST▲　▲FIRST▲. ◙I just transferred in and ◙I'm here to submit my club ◙application form...
 00045
 Then you must be the new ◙member that Suzuki-sensei ◙mentioned...
 00046
@@ -99,9 +99,9 @@ Hehe...
 00049
 Manaka
 00050
-I'm a second year in the ◙girls' tennis club, Takane ◙Manaka. I'm a team member ◙though.
+I'm a second year in the ◙girls' tennis club, Takane ◙Manaka. I'm actually a player.
 00051
-Team member？ But you're ◙carrying that huge teapot ◙so I thought...
+Team member？ But you're ◙carrying that huge kettle ◙so I thought...
 00052
 This？ I just brewed some ◙tea for everyone.
 00053
@@ -111,13 +111,13 @@ Haha, no. If I didn't brew ◙it early, it wouldn't cool ◙down in time for the
 00055
 Well, you're right... ◙Ah, do you know where ◙Suzuki-sensei is？
 00056
-He said he had to go out ◙in the afternoon. Shall I ◙take your enrollment form ◙to the club captain then？
+He said he had to go out ◙in the afternoon. Shall I ◙take your application form ◙to the club captain then？
 00057
-Sorry to bother you. ◙You already have to carry ◙that teapot...
+Sorry to bother you. ◙You already have to carry ◙that kettle...
 00058
 Always help out one ◙another when in trouble, ◙right？
 00059
-I'll help you carry that ◙teapot then.
+I'll help you carry that ◙kettle then.
 00060
 Hehe. Thanks. Shall we go？
 00061
@@ -127,7 +127,7 @@ Hehe. Thanks. Shall we go？
 00063
 ○○○○○○○○
 00064
-Excuse me. I came to turn ◙in my club enrollment form. ◙Is Suzuki-sensei of the ◙tennis club here？
+Excuse me. I came to turn ◙in my club application form. ◙Is Suzuki-sensei of the ◙tennis club here？
 00065
 Teacher
 00066
@@ -187,7 +187,7 @@ Always help out one ◙another when in trouble, ◙right？
 00093
 ○○○○○○○○
 00094
-Excuse me. I came to turn ◙in my club enrollment ◙form. Is Suzuki-sensei of ◙the tennis club here？
+Excuse me. I came to turn ◙in my club application ◙form. Is Suzuki-sensei of ◙the tennis club here？
 00095
 Teacher
 00096
@@ -213,11 +213,11 @@ Yes. Is there something I ◙can help you with？
 00106
 Um, is there something...？
 00107
-Ah, I am a second year, ◙▲LAST▲　▲FIRST▲. ◙I just transferred in. ◙I came to turn in my club ◙enrollment form, but I ◙can't find the advisor...
+Ah, I am a second year, ◙▲LAST▲　▲FIRST▲. ◙I just transferred in. ◙I came to turn in my club ◙application form, but I ◙can't find the advisor...
 00108
 Then you must be the new ◙member that Suzuki-sensei ◙mentioned...
 00109
-That's probably me, ◙I guess. Can I give you ◙my club enrollment form, ◙Manager？
+That's probably me, ◙I guess. Can I give you ◙my club application form, ◙Manager？
 00110
 Hehe...
 00111
@@ -225,7 +225,7 @@ Hehe...
 00112
 Manaka
 00113
-I'm a second year in the ◙girls' tennis club, Takane ◙Manaka. I'm a team member ◙though.
+I'm a second year in the ◙girls' tennis club, Takane ◙Manaka. I'm actually a player.
 00114
 Team member？ Since you ◙were cleaning the clubroom ◙by yourself, I thought...
 00115
@@ -233,7 +233,7 @@ I wanted to clean the ◙room before the new member ◙arrived. I just finished.
 00116
 Is that so？ Thank you.
 00117
-You're welcome. I'll turn ◙in the club enrollment ◙form to Suzuki-sensei, ◙okay？
+You're welcome. I'll turn ◙in the club application ◙form to Suzuki-sensei, ◙okay？
 00118
 Sorry to trouble you.
 00119
